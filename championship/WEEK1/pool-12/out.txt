@@ -1,0 +1,46 @@
+2021-01-27 22:45:26,641 [INFO ] Game creation...
+2021-01-27 22:45:26,656 [INFO ] 1 players created!
+2021-01-27 22:45:26,668 [INFO ] Starting game
+2021-01-27 22:45:26,681 [INFO ] ********************************************
+2021-01-27 22:45:26,682 [INFO ] 1670546046 - initGame
+2021-01-27 22:45:26,682 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Luffy Pouce"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"}],"shipCount":1}
+Init game input
+2021-01-27 22:45:26,689 [INFO ] Starting round 0
+2021-01-27 22:45:26,693 [INFO ] ********************************************
+2021-01-27 22:45:26,693 [INFO ] 1670546046 - nextRound
+2021-01-27 22:45:26,693 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input
+2021-01-27 22:45:26,696 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:26,724 [INFO ] Starting round 1
+2021-01-27 22:45:26,724 [INFO ] ********************************************
+2021-01-27 22:45:26,725 [INFO ] 1670546046 - nextRound
+2021-01-27 22:45:26,725 [INFO ] {"ship":{"type":"ship","position":{"x":165.0000000000003,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input
+2021-01-27 22:45:26,726 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:26,734 [INFO ] Starting round 2
+2021-01-27 22:45:26,735 [INFO ] ********************************************
+2021-01-27 22:45:26,735 [INFO ] 1670546046 - nextRound
+2021-01-27 22:45:26,735 [INFO ] {"ship":{"type":"ship","position":{"x":329.9999999999996,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input
+2021-01-27 22:45:26,739 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:26,746 [INFO ] Starting round 3
+2021-01-27 22:45:26,747 [INFO ] ********************************************
+2021-01-27 22:45:26,747 [INFO ] 1670546046 - nextRound
+2021-01-27 22:45:26,747 [INFO ] {"ship":{"type":"ship","position":{"x":494.9999999999973,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input
+2021-01-27 22:45:26,748 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:26,754 [INFO ] Starting round 4
+2021-01-27 22:45:26,754 [INFO ] ********************************************
+2021-01-27 22:45:26,754 [INFO ] 1670546046 - nextRound
+2021-01-27 22:45:26,754 [INFO ] {"ship":{"type":"ship","position":{"x":659.9999999999951,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input
+2021-01-27 22:45:26,756 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:26,760 [INFO ] Starting round 5
+2021-01-27 22:45:26,761 [INFO ] ********************************************
+2021-01-27 22:45:26,761 [INFO ] 1670546046 - nextRound
+2021-01-27 22:45:26,761 [INFO ] {"ship":{"type":"ship","position":{"x":824.9999999999928,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input
+2021-01-27 22:45:26,763 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:26,767 [INFO ] Game over
+2021-01-27 22:45:26,767 [INFO ] Creating team's logs files
+2021-01-27 22:45:26,769 [INFO ] Game scores: {directionmiage=45}

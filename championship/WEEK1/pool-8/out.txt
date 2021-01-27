@@ -1,52 +1,38 @@
-2021-01-27 19:58:53,161 [INFO ] Game creation...
-2021-01-27 19:58:53,178 [INFO ] 1 players created!
-2021-01-27 19:58:53,192 [INFO ] Starting game
-2021-01-27 19:58:53,207 [INFO ] ********************************************
-2021-01-27 19:58:53,208 [INFO ] 1328238652 - initGame
-2021-01-27 19:58:53,208 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Luffy Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"}],"shipCount":1}
-Init game input: fr.unice.polytech.si3.qgl.nautilus.InitGame@a310e68
-2021-01-27 19:58:53,235 [INFO ] Starting round 0
-2021-01-27 19:58:53,240 [INFO ] ********************************************
-2021-01-27 19:58:53,240 [INFO ] 1328238652 - nextRound
-2021-01-27 19:58:53,241 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-Next round input: {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:53,250 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},
-{"sailorId":1,"type":"OAR"}]
-2021-01-27 19:58:53,281 [INFO ] Starting round 1
-2021-01-27 19:58:53,281 [INFO ] ********************************************
-2021-01-27 19:58:53,281 [INFO ] 1328238652 - nextRound
-2021-01-27 19:58:53,281 [INFO ] {"ship":{"type":"ship","position":{"x":165.0000000000003,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-Next round input: {"ship":{"type":"ship","position":{"x":165.0000000000003,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:53,286 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},
-{"sailorId":1,"type":"OAR"}]
-2021-01-27 19:58:53,297 [INFO ] Starting round 2
-2021-01-27 19:58:53,297 [INFO ] ********************************************
-2021-01-27 19:58:53,297 [INFO ] 1328238652 - nextRound
-2021-01-27 19:58:53,297 [INFO ] {"ship":{"type":"ship","position":{"x":329.9999999999996,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-Next round input: {"ship":{"type":"ship","position":{"x":329.9999999999996,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:53,299 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},
-{"sailorId":1,"type":"OAR"}]
-2021-01-27 19:58:53,307 [INFO ] Starting round 3
-2021-01-27 19:58:53,308 [INFO ] ********************************************
-2021-01-27 19:58:53,308 [INFO ] 1328238652 - nextRound
-2021-01-27 19:58:53,308 [INFO ] {"ship":{"type":"ship","position":{"x":494.9999999999973,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-Next round input: {"ship":{"type":"ship","position":{"x":494.9999999999973,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:53,309 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},
-{"sailorId":1,"type":"OAR"}]
-2021-01-27 19:58:53,315 [INFO ] Starting round 4
-2021-01-27 19:58:53,315 [INFO ] ********************************************
-2021-01-27 19:58:53,315 [INFO ] 1328238652 - nextRound
-2021-01-27 19:58:53,315 [INFO ] {"ship":{"type":"ship","position":{"x":659.9999999999951,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-Next round input: {"ship":{"type":"ship","position":{"x":659.9999999999951,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:53,318 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},
-{"sailorId":1,"type":"OAR"}]
-2021-01-27 19:58:53,322 [INFO ] Starting round 5
-2021-01-27 19:58:53,324 [INFO ] ********************************************
-2021-01-27 19:58:53,324 [INFO ] 1328238652 - nextRound
-2021-01-27 19:58:53,324 [INFO ] {"ship":{"type":"ship","position":{"x":824.9999999999928,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-Next round input: {"ship":{"type":"ship","position":{"x":824.9999999999928,"y":0.0,"orientation":0.0},"name":"nautilus","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:53,325 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},
-{"sailorId":1,"type":"OAR"}]
-2021-01-27 19:58:53,329 [INFO ] Game over
-2021-01-27 19:58:53,329 [INFO ] Creating team's logs files
-2021-01-27 19:58:53,331 [INFO ] Game scores: {nautilus=45}
+2021-01-27 22:45:24,702 [INFO ] Game creation...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+les_qualituriers IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.NoValidCockpitFoundError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

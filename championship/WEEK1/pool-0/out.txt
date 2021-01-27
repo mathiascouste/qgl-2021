@@ -1,38 +1,39 @@
-2021-01-27 19:58:48,754 [INFO ] Game creation...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-les_qualituriers IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.NoValidCockpitFoundError
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2021-01-27 22:45:20,871 [INFO ] Game creation...
+2021-01-27 22:45:20,886 [INFO ] 1 players created!
+2021-01-27 22:45:20,899 [INFO ] Starting game
+2021-01-27 22:45:20,914 [INFO ] ********************************************
+2021-01-27 22:45:20,915 [INFO ] 501705927 - initGame
+2021-01-27 22:45:20,915 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Tom Pouce"},{"x":0,"y":1,"id":1,"name":"Jack Pouce"}],"shipCount":1}
+2021-01-27 22:45:20,924 [INFO ] Starting round 0
+2021-01-27 22:45:20,929 [INFO ] ********************************************
+2021-01-27 22:45:20,929 [INFO ] 501705927 - nextRound
+2021-01-27 22:45:20,929 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:20,931 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:20,968 [INFO ] Starting round 1
+2021-01-27 22:45:20,969 [INFO ] ********************************************
+2021-01-27 22:45:20,969 [INFO ] 501705927 - nextRound
+2021-01-27 22:45:20,969 [INFO ] {"ship":{"type":"ship","position":{"x":165.0000000000003,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:20,969 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:20,978 [INFO ] Starting round 2
+2021-01-27 22:45:20,979 [INFO ] ********************************************
+2021-01-27 22:45:20,979 [INFO ] 501705927 - nextRound
+2021-01-27 22:45:20,979 [INFO ] {"ship":{"type":"ship","position":{"x":329.9999999999996,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:20,979 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:20,990 [INFO ] Starting round 3
+2021-01-27 22:45:20,991 [INFO ] ********************************************
+2021-01-27 22:45:20,991 [INFO ] 501705927 - nextRound
+2021-01-27 22:45:20,991 [INFO ] {"ship":{"type":"ship","position":{"x":494.9999999999973,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:20,991 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:20,997 [INFO ] Starting round 4
+2021-01-27 22:45:20,998 [INFO ] ********************************************
+2021-01-27 22:45:20,998 [INFO ] 501705927 - nextRound
+2021-01-27 22:45:20,998 [INFO ] {"ship":{"type":"ship","position":{"x":659.9999999999951,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:20,998 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:21,003 [INFO ] Starting round 5
+2021-01-27 22:45:21,005 [INFO ] ********************************************
+2021-01-27 22:45:21,005 [INFO ] 501705927 - nextRound
+2021-01-27 22:45:21,005 [INFO ] {"ship":{"type":"ship","position":{"x":824.9999999999928,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:21,005 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 22:45:21,010 [INFO ] Game over
+2021-01-27 22:45:21,011 [INFO ] Creating team's logs files
+2021-01-27 22:45:21,013 [INFO ] Game scores: {gottagofast=45}

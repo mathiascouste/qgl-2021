@@ -1,5 +1,5 @@
-com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "wind" (class fr.unice.polytech.si3.qgl.kubancrew.game.Round), not marked as ignorable (2 known properties: "visibleEntities", "ship"])
- at [Source: (String)"{"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"kubancrew","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}"; line: 1, column: 300] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["wind"])
+com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "shipCount" (class fr.unice.polytech.si3.qgl.sunny1000.Game), not marked as ignorable (3 known properties: "goal", "ship", "sailors"])
+ at [Source: (String)"{"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"sunny1000","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"}],""[truncated 13 chars]; line: 1, column: 513] (through reference chain: fr.unice.polytech.si3.qgl.sunny1000.Game["shipCount"])
 	at com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException.from(UnrecognizedPropertyException.java:61)
 	at com.fasterxml.jackson.databind.DeserializationContext.handleUnknownProperty(DeserializationContext.java:840)
 	at com.fasterxml.jackson.databind.deser.std.StdDeserializer.handleUnknownProperty(StdDeserializer.java:1192)
@@ -13,12 +13,12 @@ com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized f
 	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202)
 	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205)
 	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3173)
-	at fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:42)
+	at fr.unice.polytech.si3.qgl.sunny1000.Cockpit.initGame(Cockpit.java:32)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
-	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$1.run(Cockpit.java:50)
 java.lang.reflect.InvocationTargetException
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -26,5 +26,6 @@ java.lang.reflect.InvocationTargetException
 	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
 	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
 Caused by: java.lang.NullPointerException
-	at fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:47)
+	at fr.unice.polytech.si3.qgl.sunny1000.Cockpit.choseActions(Cockpit.java:66)
+	at fr.unice.polytech.si3.qgl.sunny1000.Cockpit.nextRound(Cockpit.java:59)
 	... 5 more

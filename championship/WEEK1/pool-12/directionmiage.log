@@ -1,0 +1,12 @@
+INPUT >>> {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}]
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+INPUT >>> {"ship":{"type":"ship","position":{"x":165.0000000000003,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+INPUT >>> {"ship":{"type":"ship","position":{"x":329.9999999999996,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+INPUT >>> {"ship":{"type":"ship","position":{"x":494.9999999999973,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+INPUT >>> {"ship":{"type":"ship","position":{"x":659.9999999999951,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+INPUT >>> {"ship":{"type":"ship","position":{"x":824.9999999999928,"y":0.0,"orientation":0.0},"name":"directionmiage","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]

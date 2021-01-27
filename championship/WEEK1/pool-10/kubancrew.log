@@ -2,4 +2,4 @@ Unrecognized field "shipCount" (class fr.unice.polytech.si3.qgl.kubancrew.game.G
  at [Source: (String)"{"goal":{"
 mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name"
 :"kubancrew","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailo
-rs":[{"x":0,"y":0,"id":0,"name":"Luffy Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"}],"[truncated 14 chars]; line: 1, column: 514] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.gam
+rs":[{"x":0,"y":0,"id":0,"name":"Tom Pouce"},{"x":0,"y":1,"id":1,"name":"Edward Pouce"}],""[truncated 13 chars]; line: 1, column: 513] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.gam

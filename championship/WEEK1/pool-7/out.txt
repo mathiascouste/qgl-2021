@@ -1,260 +1,75 @@
-2021-01-27 19:58:52,515 [INFO ] Game creation...
-2021-01-27 19:58:52,532 [INFO ] 1 players created!
-2021-01-27 19:58:52,546 [INFO ] Starting game
-2021-01-27 19:58:52,560 [INFO ] ********************************************
-2021-01-27 19:58:52,561 [INFO ] 547201549 - initGame
-2021-01-27 19:58:52,561 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Luffy Pouce"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"}],"shipCount":1}
-Init game input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.InitGameParameters@597e159e
-2021-01-27 19:58:52,594 [INFO ] Starting round 0
-2021-01-27 19:58:52,598 [INFO ] ********************************************
-2021-01-27 19:58:52,598 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,598 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,607 [INFO ] Player response:[]
-2021-01-27 19:58:52,629 [INFO ] Starting round 1
-2021-01-27 19:58:52,629 [INFO ] ********************************************
-2021-01-27 19:58:52,629 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,629 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,630 [INFO ] Player response:[]
-2021-01-27 19:58:52,642 [INFO ] Starting round 2
-2021-01-27 19:58:52,642 [INFO ] ********************************************
-2021-01-27 19:58:52,642 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,642 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,643 [INFO ] Player response:[]
-2021-01-27 19:58:52,649 [INFO ] Starting round 3
-2021-01-27 19:58:52,649 [INFO ] ********************************************
-2021-01-27 19:58:52,649 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,649 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,650 [INFO ] Player response:[]
-2021-01-27 19:58:52,655 [INFO ] Starting round 4
-2021-01-27 19:58:52,655 [INFO ] ********************************************
-2021-01-27 19:58:52,655 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,655 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,656 [INFO ] Player response:[]
-2021-01-27 19:58:52,660 [INFO ] Starting round 5
-2021-01-27 19:58:52,661 [INFO ] ********************************************
-2021-01-27 19:58:52,661 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,661 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,662 [INFO ] Player response:[]
-2021-01-27 19:58:52,666 [INFO ] Starting round 6
-2021-01-27 19:58:52,666 [INFO ] ********************************************
-2021-01-27 19:58:52,666 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,666 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,667 [INFO ] Player response:[]
-2021-01-27 19:58:52,671 [INFO ] Starting round 7
-2021-01-27 19:58:52,671 [INFO ] ********************************************
-2021-01-27 19:58:52,671 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,671 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,672 [INFO ] Player response:[]
-2021-01-27 19:58:52,675 [INFO ] Starting round 8
-2021-01-27 19:58:52,675 [INFO ] ********************************************
-2021-01-27 19:58:52,675 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,675 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,676 [INFO ] Player response:[]
-2021-01-27 19:58:52,678 [INFO ] Starting round 9
-2021-01-27 19:58:52,679 [INFO ] ********************************************
-2021-01-27 19:58:52,679 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,679 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,679 [INFO ] Player response:[]
-2021-01-27 19:58:52,682 [INFO ] Starting round 10
-2021-01-27 19:58:52,682 [INFO ] ********************************************
-2021-01-27 19:58:52,682 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,682 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,683 [INFO ] Player response:[]
-2021-01-27 19:58:52,685 [INFO ] Starting round 11
-2021-01-27 19:58:52,685 [INFO ] ********************************************
-2021-01-27 19:58:52,685 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,685 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,686 [INFO ] Player response:[]
-2021-01-27 19:58:52,688 [INFO ] Starting round 12
-2021-01-27 19:58:52,688 [INFO ] ********************************************
-2021-01-27 19:58:52,688 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,688 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,689 [INFO ] Player response:[]
-2021-01-27 19:58:52,691 [INFO ] Starting round 13
-2021-01-27 19:58:52,692 [INFO ] ********************************************
-2021-01-27 19:58:52,692 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,692 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,694 [INFO ] Player response:[]
-2021-01-27 19:58:52,695 [INFO ] Starting round 14
-2021-01-27 19:58:52,697 [INFO ] ********************************************
-2021-01-27 19:58:52,697 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,697 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,700 [INFO ] Player response:[]
-2021-01-27 19:58:52,701 [INFO ] Starting round 15
-2021-01-27 19:58:52,703 [INFO ] ********************************************
-2021-01-27 19:58:52,703 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,703 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,704 [INFO ] Player response:[]
-2021-01-27 19:58:52,705 [INFO ] Starting round 16
-2021-01-27 19:58:52,706 [INFO ] ********************************************
-2021-01-27 19:58:52,706 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,706 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,706 [INFO ] Player response:[]
-2021-01-27 19:58:52,708 [INFO ] Starting round 17
-2021-01-27 19:58:52,708 [INFO ] ********************************************
-2021-01-27 19:58:52,708 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,708 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,709 [INFO ] Player response:[]
-2021-01-27 19:58:52,710 [INFO ] Starting round 18
-2021-01-27 19:58:52,710 [INFO ] ********************************************
-2021-01-27 19:58:52,710 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,710 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,711 [INFO ] Player response:[]
-2021-01-27 19:58:52,713 [INFO ] Starting round 19
-2021-01-27 19:58:52,713 [INFO ] ********************************************
-2021-01-27 19:58:52,713 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,713 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,714 [INFO ] Player response:[]
-2021-01-27 19:58:52,716 [INFO ] Starting round 20
-2021-01-27 19:58:52,716 [INFO ] ********************************************
-2021-01-27 19:58:52,716 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,716 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,717 [INFO ] Player response:[]
-2021-01-27 19:58:52,719 [INFO ] Starting round 21
-2021-01-27 19:58:52,719 [INFO ] ********************************************
-2021-01-27 19:58:52,719 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,719 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,720 [INFO ] Player response:[]
-2021-01-27 19:58:52,722 [INFO ] Starting round 22
-2021-01-27 19:58:52,722 [INFO ] ********************************************
-2021-01-27 19:58:52,722 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,722 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,723 [INFO ] Player response:[]
-2021-01-27 19:58:52,725 [INFO ] Starting round 23
-2021-01-27 19:58:52,725 [INFO ] ********************************************
-2021-01-27 19:58:52,725 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,725 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,726 [INFO ] Player response:[]
-2021-01-27 19:58:52,728 [INFO ] Starting round 24
-2021-01-27 19:58:52,728 [INFO ] ********************************************
-2021-01-27 19:58:52,728 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,728 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,729 [INFO ] Player response:[]
-2021-01-27 19:58:52,731 [INFO ] Starting round 25
-2021-01-27 19:58:52,731 [INFO ] ********************************************
-2021-01-27 19:58:52,731 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,731 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,732 [INFO ] Player response:[]
-2021-01-27 19:58:52,734 [INFO ] Starting round 26
-2021-01-27 19:58:52,735 [INFO ] ********************************************
-2021-01-27 19:58:52,735 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,735 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,736 [INFO ] Player response:[]
-2021-01-27 19:58:52,738 [INFO ] Starting round 27
-2021-01-27 19:58:52,738 [INFO ] ********************************************
-2021-01-27 19:58:52,738 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,738 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,739 [INFO ] Player response:[]
-2021-01-27 19:58:52,741 [INFO ] Starting round 28
-2021-01-27 19:58:52,741 [INFO ] ********************************************
-2021-01-27 19:58:52,741 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,741 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,742 [INFO ] Player response:[]
-2021-01-27 19:58:52,744 [INFO ] Starting round 29
-2021-01-27 19:58:52,745 [INFO ] ********************************************
-2021-01-27 19:58:52,745 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,745 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,745 [INFO ] Player response:[]
-2021-01-27 19:58:52,747 [INFO ] Starting round 30
-2021-01-27 19:58:52,748 [INFO ] ********************************************
-2021-01-27 19:58:52,748 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,748 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,749 [INFO ] Player response:[]
-2021-01-27 19:58:52,751 [INFO ] Starting round 31
-2021-01-27 19:58:52,751 [INFO ] ********************************************
-2021-01-27 19:58:52,751 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,751 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,752 [INFO ] Player response:[]
-2021-01-27 19:58:52,754 [INFO ] Starting round 32
-2021-01-27 19:58:52,754 [INFO ] ********************************************
-2021-01-27 19:58:52,754 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,754 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,755 [INFO ] Player response:[]
-2021-01-27 19:58:52,757 [INFO ] Starting round 33
-2021-01-27 19:58:52,757 [INFO ] ********************************************
-2021-01-27 19:58:52,757 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,757 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,758 [INFO ] Player response:[]
-2021-01-27 19:58:52,760 [INFO ] Starting round 34
-2021-01-27 19:58:52,760 [INFO ] ********************************************
-2021-01-27 19:58:52,760 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,760 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,761 [INFO ] Player response:[]
-2021-01-27 19:58:52,763 [INFO ] Starting round 35
-2021-01-27 19:58:52,763 [INFO ] ********************************************
-2021-01-27 19:58:52,763 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,763 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,763 [INFO ] Player response:[]
-2021-01-27 19:58:52,765 [INFO ] Starting round 36
-2021-01-27 19:58:52,766 [INFO ] ********************************************
-2021-01-27 19:58:52,766 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,766 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,766 [INFO ] Player response:[]
-2021-01-27 19:58:52,768 [INFO ] Starting round 37
-2021-01-27 19:58:52,768 [INFO ] ********************************************
-2021-01-27 19:58:52,768 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,769 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,769 [INFO ] Player response:[]
-2021-01-27 19:58:52,771 [INFO ] Starting round 38
-2021-01-27 19:58:52,771 [INFO ] ********************************************
-2021-01-27 19:58:52,771 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,771 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,772 [INFO ] Player response:[]
-2021-01-27 19:58:52,773 [INFO ] Starting round 39
-2021-01-27 19:58:52,773 [INFO ] ********************************************
-2021-01-27 19:58:52,773 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,773 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,774 [INFO ] Player response:[]
-2021-01-27 19:58:52,776 [INFO ] Starting round 40
-2021-01-27 19:58:52,776 [INFO ] ********************************************
-2021-01-27 19:58:52,776 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,776 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,776 [INFO ] Player response:[]
-2021-01-27 19:58:52,778 [INFO ] Starting round 41
-2021-01-27 19:58:52,778 [INFO ] ********************************************
-2021-01-27 19:58:52,778 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,778 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,779 [INFO ] Player response:[]
-2021-01-27 19:58:52,780 [INFO ] Starting round 42
-2021-01-27 19:58:52,781 [INFO ] ********************************************
-2021-01-27 19:58:52,781 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,781 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,781 [INFO ] Player response:[]
-2021-01-27 19:58:52,782 [INFO ] Starting round 43
-2021-01-27 19:58:52,783 [INFO ] ********************************************
-2021-01-27 19:58:52,783 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,783 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,783 [INFO ] Player response:[]
-2021-01-27 19:58:52,785 [INFO ] Starting round 44
-2021-01-27 19:58:52,785 [INFO ] ********************************************
-2021-01-27 19:58:52,785 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,785 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,785 [INFO ] Player response:[]
-2021-01-27 19:58:52,786 [INFO ] Starting round 45
-2021-01-27 19:58:52,787 [INFO ] ********************************************
-2021-01-27 19:58:52,787 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,787 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,787 [INFO ] Player response:[]
-2021-01-27 19:58:52,788 [INFO ] Starting round 46
-2021-01-27 19:58:52,789 [INFO ] ********************************************
-2021-01-27 19:58:52,789 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,789 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,789 [INFO ] Player response:[]
-2021-01-27 19:58:52,790 [INFO ] Starting round 47
-2021-01-27 19:58:52,790 [INFO ] ********************************************
-2021-01-27 19:58:52,790 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,790 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,791 [INFO ] Player response:[]
-2021-01-27 19:58:52,792 [INFO ] Starting round 48
-2021-01-27 19:58:52,792 [INFO ] ********************************************
-2021-01-27 19:58:52,792 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,792 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,793 [INFO ] Player response:[]
-2021-01-27 19:58:52,794 [INFO ] Starting round 49
-2021-01-27 19:58:52,794 [INFO ] ********************************************
-2021-01-27 19:58:52,794 [INFO ] 547201549 - nextRound
-2021-01-27 19:58:52,794 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"soyouz","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-2021-01-27 19:58:52,795 [INFO ] Player response:[]
-2021-01-27 19:58:52,796 [INFO ] Game over
-2021-01-27 19:58:52,796 [INFO ] Creating team's logs files
-2021-01-27 19:58:52,798 [INFO ] Game scores: {soyouz=-6}
+2021-01-27 22:45:24,212 [INFO ] Game creation...
+2021-01-27 22:45:24,226 [INFO ] 1 players created!
+2021-01-27 22:45:24,239 [INFO ] Starting game
+2021-01-27 22:45:24,252 [INFO ] ********************************************
+2021-01-27 22:45:24,252 [INFO ] 547201549 - initGame
+2021-01-27 22:45:24,252 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"smartware","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Tom Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Pouce"}],"shipCount":1}
+2021-01-27 22:45:24,279 [INFO ] Starting round 0
+2021-01-27 22:45:24,283 [INFO ] ********************************************
+2021-01-27 22:45:24,283 [INFO ] 547201549 - nextRound
+2021-01-27 22:45:24,283 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"smartware","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:24,288 [INFO ] Player response:[ {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-01-27 22:45:24,320 [INFO ] Starting round 1
+2021-01-27 22:45:24,320 [INFO ] ********************************************
+2021-01-27 22:45:24,320 [INFO ] 547201549 - nextRound
+2021-01-27 22:45:24,320 [INFO ] {"ship":{"type":"ship","position":{"x":165.0000000000003,"y":0.0,"orientation":0.0},"name":"smartware","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:24,324 [INFO ] Player response:[ {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-01-27 22:45:24,334 [INFO ] Starting round 2
+2021-01-27 22:45:24,335 [INFO ] ********************************************
+2021-01-27 22:45:24,335 [INFO ] 547201549 - nextRound
+2021-01-27 22:45:24,335 [INFO ] {"ship":{"type":"ship","position":{"x":329.9999999999996,"y":0.0,"orientation":0.0},"name":"smartware","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:24,336 [INFO ] Player response:[ {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-01-27 22:45:24,346 [INFO ] Starting round 3
+2021-01-27 22:45:24,347 [INFO ] ********************************************
+2021-01-27 22:45:24,347 [INFO ] 547201549 - nextRound
+2021-01-27 22:45:24,347 [INFO ] {"ship":{"type":"ship","position":{"x":494.9999999999973,"y":0.0,"orientation":0.0},"name":"smartware","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:24,348 [INFO ] Player response:[ {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-01-27 22:45:24,356 [INFO ] Starting round 4
+2021-01-27 22:45:24,356 [INFO ] ********************************************
+2021-01-27 22:45:24,356 [INFO ] 547201549 - nextRound
+2021-01-27 22:45:24,356 [INFO ] {"ship":{"type":"ship","position":{"x":659.9999999999951,"y":0.0,"orientation":0.0},"name":"smartware","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:24,358 [INFO ] Player response:[ {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-01-27 22:45:24,364 [INFO ] Starting round 5
+2021-01-27 22:45:24,365 [INFO ] ********************************************
+2021-01-27 22:45:24,365 [INFO ] 547201549 - nextRound
+2021-01-27 22:45:24,365 [INFO ] {"ship":{"type":"ship","position":{"x":824.9999999999928,"y":0.0,"orientation":0.0},"name":"smartware","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 22:45:24,366 [INFO ] Player response:[ {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-01-27 22:45:24,372 [INFO ] Game over
+2021-01-27 22:45:24,372 [INFO ] Creating team's logs files
+2021-01-27 22:45:24,375 [INFO ] Game scores: {smartware=45}
