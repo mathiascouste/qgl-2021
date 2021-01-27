@@ -1,0 +1,46 @@
+2021-01-27 19:58:53,706 [INFO ] Game creation...
+2021-01-27 19:58:53,723 [INFO ] 1 players created!
+2021-01-27 19:58:53,738 [INFO ] Starting game
+2021-01-27 19:58:53,752 [INFO ] ********************************************
+2021-01-27 19:58:53,752 [INFO ] 1387210478 - initGame
+2021-01-27 19:58:53,752 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Edward Pouce"},{"x":0,"y":1,"id":1,"name":"Edward Pouce"}],"shipCount":1}
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1000.0,"y":0.0,"orientation":0.0},"shape":{"type":"circle","radius":50.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Edward Pouce"},{"x":0,"y":1,"id":1,"name":"Edward Pouce"}],"shipCount":1}
+2021-01-27 19:58:53,770 [INFO ] Starting round 0
+2021-01-27 19:58:53,774 [INFO ] ********************************************
+2021-01-27 19:58:53,774 [INFO ] 1387210478 - nextRound
+2021-01-27 19:58:53,774 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 19:58:53,775 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 19:58:53,807 [INFO ] Starting round 1
+2021-01-27 19:58:53,807 [INFO ] ********************************************
+2021-01-27 19:58:53,807 [INFO ] 1387210478 - nextRound
+2021-01-27 19:58:53,807 [INFO ] {"ship":{"type":"ship","position":{"x":165.0000000000003,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":165.0000000000003,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 19:58:53,808 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 19:58:53,817 [INFO ] Starting round 2
+2021-01-27 19:58:53,820 [INFO ] ********************************************
+2021-01-27 19:58:53,820 [INFO ] 1387210478 - nextRound
+2021-01-27 19:58:53,820 [INFO ] {"ship":{"type":"ship","position":{"x":329.9999999999996,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":329.9999999999996,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 19:58:53,821 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 19:58:53,828 [INFO ] Starting round 3
+2021-01-27 19:58:53,829 [INFO ] ********************************************
+2021-01-27 19:58:53,829 [INFO ] 1387210478 - nextRound
+2021-01-27 19:58:53,829 [INFO ] {"ship":{"type":"ship","position":{"x":494.9999999999973,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":494.9999999999973,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 19:58:53,829 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 19:58:53,835 [INFO ] Starting round 4
+2021-01-27 19:58:53,835 [INFO ] ********************************************
+2021-01-27 19:58:53,835 [INFO ] 1387210478 - nextRound
+2021-01-27 19:58:53,835 [INFO ] {"ship":{"type":"ship","position":{"x":659.9999999999951,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":659.9999999999951,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 19:58:53,835 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 19:58:53,840 [INFO ] Starting round 5
+2021-01-27 19:58:53,841 [INFO ] ********************************************
+2021-01-27 19:58:53,841 [INFO ] 1387210478 - nextRound
+2021-01-27 19:58:53,841 [INFO ] {"ship":{"type":"ship","position":{"x":824.9999999999928,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":824.9999999999928,"y":0.0,"orientation":0.0},"name":"queleglitch","deck":{"width":2,"length":1},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":1,"type":"oar"}],"life":100,"shape":{"type":"rectangle","width":2.0,"height":1.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-01-27 19:58:53,842 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-01-27 19:58:53,846 [INFO ] Game over
+2021-01-27 19:58:53,846 [INFO ] Creating team's logs files
+2021-01-27 19:58:53,853 [INFO ] Game scores: {queleglitch=45}
