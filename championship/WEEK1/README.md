@@ -14,11 +14,11 @@ Analysis run the 27/01/2021 at 10:45
 |queleglitch|<img src="../flags/queleglitch.png" width="150" height="" />|**45**<br>[See details](./pool-9/queleglitch.log)|
 |directionmiage|<img src="../flags/directionmiage.png" width="150" height="" />|**45**<br>[See details](./pool-12/directionmiage.log)|
 |qualidad|<img src="../flags/qualidad.png" width="150" height="" />|**45**<br>[See details](./pool-13/qualidad.log)|
-|sunny1000|<img src="../flags/sunny1000.png" width="150" height="" />|**Game not finished** (GenericClientError)<br>[See details](./pool-3/err.log)|
+|sunny1000|<img src="../flags/sunny1000.png" width="150" height="" />|**Game not finished** (GenericClientError)<br>[See details](./pool-3/err.txt)|
 |cash_a_l_eau|<img src="../flags/cash_a_l_eau.png" width="150" height="" />|**Game not finished** (NoCockpit)<br>[See details](./pool-4/cash_a_l_eau.log)|
 |jerapah_corp|<img src="../flags/jerapah_corp.png" width="150" height="" />|**Game not finished** (UnfinishedError)<br>[See details](./pool-6/jerapah_corp.log)|
-|les_qualituriers|<img src="../flags/les_qualituriers.png" width="150" height="" />|**Game not finished** (NoCockpit)<br>[See details](./pool-8/err.log)|
-|kubancrew|<img src="../flags/kubancrew.png" width="150" height="" />|**Game not finished** (GenericClientError)<br>[See details](./pool-10/err.log)|
+|les_qualituriers|<img src="../flags/les_qualituriers.png" width="150" height="" />|**Game not finished** (NoCockpit)<br>[See details](./pool-8/err.txt)|
+|kubancrew|<img src="../flags/kubancrew.png" width="150" height="" />|**Game not finished** (GenericClientError)<br>[See details](./pool-10/err.txt)|
 |soyouz|<img src="../flags/soyouz.png" width="150" height="" />|**Game not finished** (UnfinishedError)<br>[See details](./pool-11/soyouz.log)|
 |geforce|<img src="../flags/geforce.png" width="150" height="" />|**Not qualified** (Maven)|
 |detritus|<img src="../flags/detritus.png" width="150" height="" />|**Not qualified** (Maven)|
