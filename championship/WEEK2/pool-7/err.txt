@@ -1,0 +1,16 @@
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.Arrays.copyOf(Arrays.java:3690)
+	at java.base/java.util.ArrayList.grow(ArrayList.java:235)
+	at java.base/java.util.ArrayList.grow(ArrayList.java:242)
+	at java.base/java.util.ArrayList.add(ArrayList.java:452)
+	at java.base/java.util.ArrayList.add(ArrayList.java:465)
+	at fr.unice.polytech.si3.qgl.smartware.smartship.SmartShip.clearOvercrowdedSide(SmartShip.java:94)
+	at fr.unice.polytech.si3.qgl.smartware.smartship.SmartShip.regattaHandler(SmartShip.java:63)
+	at fr.unice.polytech.si3.qgl.smartware.Cockpit.nextRound(Cockpit.java:77)
+	... 5 more

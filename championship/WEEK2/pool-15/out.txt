@@ -1,0 +1,43 @@
+2021-02-09 23:01:06,927 [INFO ] Game creation...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oceanshadows IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.NoValidCockpitFoundError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-02-09 23:01:06,944 [INFO ] 1 players created!
+2021-02-09 23:01:06,960 [INFO ] Starting game
+2021-02-09 23:01:06,961 [INFO ] Game over
+2021-02-09 23:01:06,962 [INFO ] Creating team's logs files
+2021-02-09 23:01:06,963 [INFO ] Game scores: {oceanshadows=NO_VALID_COCKPIT}

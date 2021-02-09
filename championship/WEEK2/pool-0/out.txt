@@ -1,0 +1,121 @@
+2021-02-09 23:00:40,532 [INFO ] Game creation...
+2021-02-09 23:00:40,548 [INFO ] 1 players created!
+2021-02-09 23:00:40,563 [INFO ] Starting game
+2021-02-09 23:00:40,576 [INFO ] ********************************************
+2021-02-09 23:00:40,576 [INFO ] 424398527 - initGame
+2021-02-09 23:00:40,577 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":-200.0,"y":1000.0,"orientation":0.0},"shape":{"type":"circle","radius":80.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Edward Teach"},{"x":0,"y":1,"id":1,"name":"Jack Teach"},{"x":1,"y":0,"id":2,"name":"Jack Teach"},{"x":1,"y":1,"id":3,"name":"Jack Pouce"}],"shipCount":1}
+2021-02-09 23:00:40,612 [INFO ] Starting round 0
+2021-02-09 23:00:40,618 [INFO ] ********************************************
+2021-02-09 23:00:40,618 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,618 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 0 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 0
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,633 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":-1},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":3,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,681 [INFO ] Starting round 1
+2021-02-09 23:00:40,682 [INFO ] ********************************************
+2021-02-09 23:00:40,682 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,682 [INFO ] {"ship":{"type":"ship","position":{"x":45.62171820918381,"y":26.022168640911254,"orientation":1.0471975511965985},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 2 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 2
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,684 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,699 [INFO ] Starting round 2
+2021-02-09 23:00:40,699 [INFO ] ********************************************
+2021-02-09 23:00:40,699 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,700 [INFO ] {"ship":{"type":"ship","position":{"x":100.62171820918353,"y":121.28496305719969,"orientation":1.0471975511965985},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 1 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 1
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,700 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,711 [INFO ] Starting round 3
+2021-02-09 23:00:40,711 [INFO ] ********************************************
+2021-02-09 23:00:40,711 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,711 [INFO ] {"ship":{"type":"ship","position":{"x":121.93741202585224,"y":200.01121537958755,"orientation":1.570796326794887},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 2 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 2
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,713 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,718 [INFO ] Starting round 4
+2021-02-09 23:00:40,719 [INFO ] ********************************************
+2021-02-09 23:00:40,719 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,719 [INFO ] {"ship":{"type":"ship","position":{"x":121.93741202585366,"y":310.0112153795884,"orientation":1.570796326794887},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 2 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 2
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,720 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,725 [INFO ] Starting round 5
+2021-02-09 23:00:40,725 [INFO ] ********************************************
+2021-02-09 23:00:40,725 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,725 [INFO ] {"ship":{"type":"ship","position":{"x":121.93741202585508,"y":420.0112153795907,"orientation":1.570796326794887},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 2 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 2
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,727 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,731 [INFO ] Starting round 6
+2021-02-09 23:00:40,731 [INFO ] ********************************************
+2021-02-09 23:00:40,731 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,731 [INFO ] {"ship":{"type":"ship","position":{"x":121.9374120258565,"y":530.011215379593,"orientation":1.570796326794887},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 2 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 2
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,732 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,736 [INFO ] Starting round 7
+2021-02-09 23:00:40,737 [INFO ] ********************************************
+2021-02-09 23:00:40,737 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,737 [INFO ] {"ship":{"type":"ship","position":{"x":121.93741202585792,"y":640.0112153795952,"orientation":1.570796326794887},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 2 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 2
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,738 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,742 [INFO ] Starting round 8
+2021-02-09 23:00:40,742 [INFO ] ********************************************
+2021-02-09 23:00:40,742 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,742 [INFO ] {"ship":{"type":"ship","position":{"x":121.93741202585935,"y":750.0112153795975,"orientation":1.570796326794887},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 1 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 1
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,743 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,747 [INFO ] Starting round 9
+2021-02-09 23:00:40,747 [INFO ] ********************************************
+2021-02-09 23:00:40,747 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,747 [INFO ] {"ship":{"type":"ship","position":{"x":101.03421820919213,"y":828.8479967438631,"orientation":2.0943951023931797},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 2 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 2
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,748 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,751 [INFO ] Starting round 10
+2021-02-09 23:00:40,751 [INFO ] ********************************************
+2021-02-09 23:00:40,751 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,751 [INFO ] {"ship":{"type":"ship","position":{"x":46.03421820919384,"y":924.1107911601572,"orientation":2.0943951023931797},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 2 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 2
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,752 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,754 [INFO ] Starting round 11
+2021-02-09 23:00:40,755 [INFO ] ********************************************
+2021-02-09 23:00:40,755 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,755 [INFO ] {"ship":{"type":"ship","position":{"x":-8.965781790804648,"y":1019.3735855764513,"orientation":2.0943951023931797},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 1 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 1
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,755 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,757 [INFO ] Starting round 12
+2021-02-09 23:00:40,758 [INFO ] ********************************************
+2021-02-09 23:00:40,758 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,758 [INFO ] {"ship":{"type":"ship","position":{"x":-66.48686933840149,"y":1077.1966440821716,"orientation":2.6179938779914904},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 1 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 1
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,759 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,761 [INFO ] Starting round 13
+2021-02-09 23:00:40,762 [INFO ] ********************************************
+2021-02-09 23:00:40,762 [INFO ] 424398527 - nextRound
+2021-02-09 23:00:40,762 [INFO ] {"ship":{"type":"ship","position":{"x":-145.21312166078948,"y":1098.512337898839,"orientation":3.141592653589801},"name":"gottagofast","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+DEBUG 1 3
+left [Nom : Edward Teach, id : 0, [x;y] : [1;0], Nom : Jack Teach, id : 1, [x;y] : [2;0]] n 1
+right [Nom : Jack Teach, id : 2, [x;y] : [1;1], Nom : Jack Pouce, id : 3, [x;y] : [2;1]] n 2
+2021-02-09 23:00:40,764 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-09 23:00:40,766 [INFO ] Game over
+2021-02-09 23:00:40,767 [INFO ] Creating team's logs files
+2021-02-09 23:00:40,769 [INFO ] Game scores: {gottagofast=237}
