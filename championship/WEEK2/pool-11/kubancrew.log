@@ -1,0 +1,5 @@
+Cannot construct instance of `fr.unice.polytech.si3.qgl.kubancrew.navigation.position.Position`, problem: Position values must be positive (x=-200.0, y=1000.0)
+ at [Source: (String)"{"goal":{"mode":"R
+EGATTA","checkpoints":[{"position":{"x":-200.0,"y":1000.0,"orientation":0.0},"shape":{"type":"circle","radius":80.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"kub
+ancrew","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"t
+ype":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orie"[truncated 206 chars]; line: 1, column: 94] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Game["

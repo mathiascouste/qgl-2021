@@ -1,0 +1,12 @@
+Init game input:
+>Boat:
+>>Position X: 0.0
+>>Position Y: 0.0
+>>Angle: 0.0
+>>Life: 300
+>>Checkpoint number: 1
+>>Next Checkpoint :
+>>>X: -200.0
+>>>Y: 1000.0
+>>>Orientation: 0.0
+
