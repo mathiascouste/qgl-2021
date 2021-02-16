@@ -1,0 +1,297 @@
+2021-02-16 22:34:23,124 [INFO ] Game creation...
+2021-02-16 22:34:23,129 [INFO ] 1 players created!
+2021-02-16 22:34:23,136 [INFO ] Starting game
+2021-02-16 22:34:23,148 [INFO ] ********************************************
+2021-02-16 22:34:23,148 [INFO ] 1944201789 - initGame
+2021-02-16 22:34:23,148 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":10.0,"y":-350.0,"orientation":0.0},"shape":{"type":"circle","radius":85.0}},{"position":{"x":-150.0,"y":1250.0,"orientation":0.0},"shape":{"type":"circle","radius":85.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Luffy Pouce"},{"x":0,"y":1,"id":1,"name":"Edward Teach"},{"x":1,"y":0,"id":2,"name":"Luffy Teach"},{"x":1,"y":1,"id":3,"name":"Luffy Pouce"}],"shipCount":1}
+2021-02-16 22:34:23,182 [INFO ] Starting round 0
+2021-02-16 22:34:23,186 [INFO ] ********************************************
+2021-02-16 22:34:23,186 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,186 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,198 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,206 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,225 [INFO ] Starting round 1
+2021-02-16 22:34:23,226 [INFO ] ********************************************
+2021-02-16 22:34:23,226 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,226 [INFO ] {"ship":{"type":"ship","position":{"x":26.27892712142193,"y":-6.967731272222775,"orientation":-0.5235987755982993},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,227 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,227 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,235 [INFO ] Starting round 2
+2021-02-16 22:34:23,236 [INFO ] ********************************************
+2021-02-16 22:34:23,236 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,236 [INFO ] {"ship":{"type":"ship","position":{"x":45.55327995666179,"y":-26.141427121421938,"orientation":-1.0471975511965979},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,237 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,237 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,246 [INFO ] Starting round 3
+2021-02-16 22:34:23,246 [INFO ] ********************************************
+2021-02-16 22:34:23,246 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,246 [INFO ] {"ship":{"type":"ship","position":{"x":73.05327995666188,"y":-73.77282432956615,"orientation":-1.0471975511965979},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,247 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,248 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,252 [INFO ] Starting round 4
+2021-02-16 22:34:23,253 [INFO ] ********************************************
+2021-02-16 22:34:23,253 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,253 [INFO ] {"ship":{"type":"ship","position":{"x":100.55327995666245,"y":-121.40422153771037,"orientation":-1.0471975511965979},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,254 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,254 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,258 [INFO ] Starting round 5
+2021-02-16 22:34:23,258 [INFO ] ********************************************
+2021-02-16 22:34:23,258 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,258 [INFO ] {"ship":{"type":"ship","position":{"x":107.65851122888539,"y":-147.646305645173,"orientation":-1.5707963267948863},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,259 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,259 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,262 [INFO ] Starting round 6
+2021-02-16 22:34:23,263 [INFO ] ********************************************
+2021-02-16 22:34:23,263 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,263 [INFO ] {"ship":{"type":"ship","position":{"x":107.65851122888539,"y":-202.64630564517412,"orientation":-1.5707963267948863},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,264 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,264 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,267 [INFO ] Starting round 7
+2021-02-16 22:34:23,267 [INFO ] ********************************************
+2021-02-16 22:34:23,267 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,267 [INFO ] {"ship":{"type":"ship","position":{"x":107.65851122888539,"y":-257.64630564517523,"orientation":-1.5707963267948863},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,269 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,270 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,272 [INFO ] Starting round 8
+2021-02-16 22:34:23,272 [INFO ] ********************************************
+2021-02-16 22:34:23,272 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,272 [INFO ] {"ship":{"type":"ship","position":{"x":100.69077995666294,"y":-283.92523276659716,"orientation":-2.094395102393179},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,273 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,273 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,276 [INFO ] Starting round 9
+2021-02-16 22:34:23,276 [INFO ] ********************************************
+2021-02-16 22:34:23,276 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,276 [INFO ] {"ship":{"type":"ship","position":{"x":73.19077995666379,"y":-331.5566299747442,"orientation":-2.094395102393179},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,277 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,277 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,280 [INFO ] Starting round 10
+2021-02-16 22:34:23,280 [INFO ] ********************************************
+2021-02-16 22:34:23,280 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,280 [INFO ] {"ship":{"type":"ship","position":{"x":54.01708410746484,"y":-350.83098280998433,"orientation":-2.6179938779914895},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,281 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,281 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,283 [INFO ] Starting round 11
+2021-02-16 22:34:23,283 [INFO ] ********************************************
+2021-02-16 22:34:23,283 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,283 [INFO ] {"ship":{"type":"ship","position":{"x":27.775000000002187,"y":-357.9362140822069,"orientation":-3.1415926535898},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,284 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,285 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,286 [INFO ] Starting round 12
+2021-02-16 22:34:23,287 [INFO ] ********************************************
+2021-02-16 22:34:23,287 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,287 [INFO ] {"ship":{"type":"ship","position":{"x":1.4960728785803714,"y":-350.9684828099837,"orientation":-3.665191429188111},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,289 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,289 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,292 [INFO ] Starting round 13
+2021-02-16 22:34:23,292 [INFO ] ********************************************
+2021-02-16 22:34:23,292 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,292 [INFO ] {"ship":{"type":"ship","position":{"x":-17.77827995665907,"y":-331.79478696078405,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,293 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,293 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,295 [INFO ] Starting round 14
+2021-02-16 22:34:23,297 [INFO ] ********************************************
+2021-02-16 22:34:23,297 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,297 [INFO ] {"ship":{"type":"ship","position":{"x":-45.27827995665822,"y":-284.163389752637,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,300 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,301 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,302 [INFO ] Starting round 15
+2021-02-16 22:34:23,303 [INFO ] ********************************************
+2021-02-16 22:34:23,303 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,303 [INFO ] {"ship":{"type":"ship","position":{"x":-72.77827995665737,"y":-236.5319925444911,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,305 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,305 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,308 [INFO ] Starting round 16
+2021-02-16 22:34:23,308 [INFO ] ********************************************
+2021-02-16 22:34:23,308 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,308 [INFO ] {"ship":{"type":"ship","position":{"x":-100.27827995665652,"y":-188.90059533634687,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,309 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,309 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,312 [INFO ] Starting round 17
+2021-02-16 22:34:23,312 [INFO ] ********************************************
+2021-02-16 22:34:23,312 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,312 [INFO ] {"ship":{"type":"ship","position":{"x":-127.77827995665567,"y":-141.26919812820265,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,313 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,313 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,316 [INFO ] Starting round 18
+2021-02-16 22:34:23,316 [INFO ] ********************************************
+2021-02-16 22:34:23,316 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,316 [INFO ] {"ship":{"type":"ship","position":{"x":-155.27827995665623,"y":-93.63780092005842,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,317 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,317 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,319 [INFO ] Starting round 19
+2021-02-16 22:34:23,319 [INFO ] ********************************************
+2021-02-16 22:34:23,319 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,319 [INFO ] {"ship":{"type":"ship","position":{"x":-182.7782799566568,"y":-46.0064037119142,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,320 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,321 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,322 [INFO ] Starting round 20
+2021-02-16 22:34:23,322 [INFO ] ********************************************
+2021-02-16 22:34:23,322 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,322 [INFO ] {"ship":{"type":"ship","position":{"x":-210.27827995665737,"y":1.6249934962302575,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,323 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,324 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,325 [INFO ] Starting round 21
+2021-02-16 22:34:23,325 [INFO ] ********************************************
+2021-02-16 22:34:23,325 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,325 [INFO ] {"ship":{"type":"ship","position":{"x":-237.77827995665794,"y":49.256390704374695,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,326 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,326 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,329 [INFO ] Starting round 22
+2021-02-16 22:34:23,329 [INFO ] ********************************************
+2021-02-16 22:34:23,329 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,329 [INFO ] {"ship":{"type":"ship","position":{"x":-265.27827995665757,"y":96.88778791251892,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,330 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,330 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,332 [INFO ] Starting round 23
+2021-02-16 22:34:23,332 [INFO ] ********************************************
+2021-02-16 22:34:23,332 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,332 [INFO ] {"ship":{"type":"ship","position":{"x":-292.7782799566553,"y":144.51918512066314,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,333 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,333 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,336 [INFO ] Starting round 24
+2021-02-16 22:34:23,336 [INFO ] ********************************************
+2021-02-16 22:34:23,336 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,336 [INFO ] {"ship":{"type":"ship","position":{"x":-320.278279956653,"y":192.15058232880736,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,337 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,337 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,340 [INFO ] Starting round 25
+2021-02-16 22:34:23,340 [INFO ] ********************************************
+2021-02-16 22:34:23,340 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,340 [INFO ] {"ship":{"type":"ship","position":{"x":-347.77827995665075,"y":239.78197953695158,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,341 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,341 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,343 [INFO ] Starting round 26
+2021-02-16 22:34:23,343 [INFO ] ********************************************
+2021-02-16 22:34:23,343 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,343 [INFO ] {"ship":{"type":"ship","position":{"x":-375.2782799566485,"y":287.41337674509765,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,343 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,344 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,345 [INFO ] Starting round 27
+2021-02-16 22:34:23,346 [INFO ] ********************************************
+2021-02-16 22:34:23,346 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,346 [INFO ] {"ship":{"type":"ship","position":{"x":-402.7782799566462,"y":335.0447739532447,"orientation":-4.188790204786406},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,346 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,346 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,348 [INFO ] Starting round 28
+2021-02-16 22:34:23,348 [INFO ] ********************************************
+2021-02-16 22:34:23,348 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,348 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":361.28685806070735,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,349 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,349 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,349 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-02-16 22:34:23,351 [INFO ] Starting round 29
+2021-02-16 22:34:23,351 [INFO ] ********************************************
+2021-02-16 22:34:23,351 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,351 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":416.2868580607085,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,352 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,352 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,352 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-02-16 22:34:23,354 [INFO ] Starting round 30
+2021-02-16 22:34:23,355 [INFO ] ********************************************
+2021-02-16 22:34:23,355 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,355 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":471.2868580607096,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,355 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,356 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,356 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-02-16 22:34:23,358 [INFO ] Starting round 31
+2021-02-16 22:34:23,358 [INFO ] ********************************************
+2021-02-16 22:34:23,358 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,358 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":526.2868580607093,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,359 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,359 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,360 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-02-16 22:34:23,362 [INFO ] Starting round 32
+2021-02-16 22:34:23,362 [INFO ] ********************************************
+2021-02-16 22:34:23,362 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,362 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":581.2868580607047,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,363 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,363 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,363 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-02-16 22:34:23,365 [INFO ] Starting round 33
+2021-02-16 22:34:23,366 [INFO ] ********************************************
+2021-02-16 22:34:23,366 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,366 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":636.2868580607002,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,366 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,367 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,369 [INFO ] Starting round 34
+2021-02-16 22:34:23,369 [INFO ] ********************************************
+2021-02-16 22:34:23,369 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,369 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":691.2868580606956,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,370 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,370 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,372 [INFO ] Starting round 35
+2021-02-16 22:34:23,372 [INFO ] ********************************************
+2021-02-16 22:34:23,372 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,372 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":746.2868580606911,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,372 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,373 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,374 [INFO ] Starting round 36
+2021-02-16 22:34:23,374 [INFO ] ********************************************
+2021-02-16 22:34:23,374 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,374 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":801.2868580606865,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,375 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,375 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,377 [INFO ] Starting round 37
+2021-02-16 22:34:23,377 [INFO ] ********************************************
+2021-02-16 22:34:23,377 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,377 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":856.286858060682,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,378 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,378 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,379 [INFO ] Starting round 38
+2021-02-16 22:34:23,379 [INFO ] ********************************************
+2021-02-16 22:34:23,379 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,379 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":911.2868580606774,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,380 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,380 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,382 [INFO ] Starting round 39
+2021-02-16 22:34:23,382 [INFO ] ********************************************
+2021-02-16 22:34:23,382 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,382 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":966.2868580606729,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,383 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,383 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,384 [INFO ] Starting round 40
+2021-02-16 22:34:23,384 [INFO ] ********************************************
+2021-02-16 22:34:23,384 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,384 [INFO ] {"ship":{"type":"ship","position":{"x":-409.88351122886894,"y":1021.2868580606684,"orientation":-4.712388980384672},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,385 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,385 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,387 [INFO ] Starting round 41
+2021-02-16 22:34:23,387 [INFO ] ********************************************
+2021-02-16 22:34:23,387 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,387 [INFO ] {"ship":{"type":"ship","position":{"x":-402.9157799566472,"y":1047.565785182091,"orientation":-5.235987755982938},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,387 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,388 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,388 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-02-16 22:34:23,389 [INFO ] Starting round 42
+2021-02-16 22:34:23,389 [INFO ] ********************************************
+2021-02-16 22:34:23,389 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,389 [INFO ] {"ship":{"type":"ship","position":{"x":-375.4157799566495,"y":1095.1971823902381,"orientation":-5.235987755982938},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,390 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,390 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,391 [INFO ] Starting round 43
+2021-02-16 22:34:23,391 [INFO ] ********************************************
+2021-02-16 22:34:23,391 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,391 [INFO ] {"ship":{"type":"ship","position":{"x":-347.91577995665176,"y":1142.8285795983852,"orientation":-5.235987755982938},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,392 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,392 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,393 [INFO ] Starting round 44
+2021-02-16 22:34:23,394 [INFO ] ********************************************
+2021-02-16 22:34:23,394 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,394 [INFO ] {"ship":{"type":"ship","position":{"x":-320.41577995665403,"y":1190.4599768065323,"orientation":-5.235987755982938},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,394 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,394 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,396 [INFO ] Starting round 45
+2021-02-16 22:34:23,396 [INFO ] ********************************************
+2021-02-16 22:34:23,396 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,396 [INFO ] {"ship":{"type":"ship","position":{"x":-292.9157799566563,"y":1238.0913740146793,"orientation":-5.235987755982938},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,396 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-16 22:34:23,397 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,398 [INFO ] Starting round 46
+2021-02-16 22:34:23,398 [INFO ] ********************************************
+2021-02-16 22:34:23,398 [INFO ] 1944201789 - nextRound
+2021-02-16 22:34:23,398 [INFO ] {"ship":{"type":"ship","position":{"x":-273.74208410745837,"y":1257.3657268499205,"orientation":-5.7595865315812045},"name":"detritus","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:23,399 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-16 22:34:23,399 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #2
+2021-02-16 22:34:23,400 [INFO ] Game over
+2021-02-16 22:34:23,400 [INFO ] Creating team's logs files
+2021-02-16 22:34:23,402 [INFO ] Game scores: {detritus=204}

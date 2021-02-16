@@ -1,0 +1,710 @@
+Init game input:
+>Boat:
+>>Position X: 0.0
+>>Position Y: 0.0
+>>Angle: 0.0
+>>Life: 300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orientation: 0.0
+
+Next Round:
+>Boat :
+>>Position X: 0.0
+>>Position Y: 0.0
+>>Angle: 0.0
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orientation: 0.0
+
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 52.93255129340979
+>>Position Y: 52.10755129340978
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orienta
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 105.04010258681954
+>>Position Y: 105.04010258681951
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 157.97265388022942
+>>Position Y: 157.14765388022923
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orien
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 210.08020517363926
+>>Position Y: 210.08020517363903
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 263.01275646704903
+>>Position Y: 262.1877564670488
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 315.1203077604587
+>>Position Y: 315.1203077604584
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Or
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 368.0528590538683
+>>Position Y: 367.227859053868
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orientat
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 420.16041034727795
+>>Position Y: 420.16041034727755
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 473.0929616406876
+>>Position Y: 472.26796164068713
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 525.2005129340972
+>>Position Y: 525.2005129340968
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Or
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 578.1330642275071
+>>Position Y: 577.3080642275066
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orienta
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 630.240615520917
+>>Position Y: 630.2406155209165
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Ori
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 683.1731668143269
+>>Position Y: 682.3481668143264
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orienta
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 735.2807181077368
+>>Position Y: 735.2807181077363
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Or
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 788.2132694011467
+>>Position Y: 787.3882694011462
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orienta
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 840.3208206945566
+>>Position Y: 840.3208206945561
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Or
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 893.2533719879665
+>>Position Y: 892.428371987966
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orientat
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 945.3609232813764
+>>Position Y: 945.3609232813759
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Or
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 998.2934745747863
+>>Position Y: 997.4684745747858
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orienta
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1050.401025868197
+>>Position Y: 1050.401025868196
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Or
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1103.3335771616078
+>>Position Y: 1102.508577161607
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1155.4411284550185
+>>Position Y: 1155.441128455018
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>O
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1208.3736797484294
+>>Position Y: 1207.548679748429
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1260.4812310418401
+>>Position Y: 1260.4812310418401
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1313.413782335251
+>>Position Y: 1312.5887823352512
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1365.5213336286618
+>>Position Y: 1365.5213336286622
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1418.4538849220726
+>>Position Y: 1417.6288849220732
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orien
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1470.5614362154834
+>>Position Y: 1470.5614362154843
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1523.4939875088942
+>>Position Y: 1522.6689875088953
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orien
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1575.601538802305
+>>Position Y: 1575.6015388023063
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>O
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1628.5340900957158
+>>Position Y: 1627.7090900957173
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orien
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1680.6416413891266
+>>Position Y: 1680.6416413891284
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1733.5741926825374
+>>Position Y: 1732.7491926825394
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orien
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1785.6817439759482
+>>Position Y: 1785.6817439759504
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1838.614295269359
+>>Position Y: 1837.7892952693614
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1890.7218465627698
+>>Position Y: 1890.7218465627725
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1943.6543978561806
+>>Position Y: 1942.8293978561835
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orien
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 1995.7619491495914
+>>Position Y: 1995.7619491495946
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2048.694500443002
+>>Position Y: 2047.8695004430056
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2100.8020517364125
+>>Position Y: 2100.8020517364157
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2153.7346030298227
+>>Position Y: 2152.909603029826
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2205.842154323233
+>>Position Y: 2205.842154323236
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Or
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2258.774705616643
+>>Position Y: 2257.9497056166465
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2310.8822569100535
+>>Position Y: 2310.8822569100566
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2363.8148082034636
+>>Position Y: 2362.989808203467
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2415.922359496874
+>>Position Y: 2415.922359496877
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Or
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2468.854910790284
+>>Position Y: 2468.0299107902874
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient
+Capichef order :
+Turn of 1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2520.9624620836944
+>>Position Y: 2520.9624620836976
+>>Angle: -2.7755575615628914E-17
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>
+Capichef order :
+Turn of -1.5707963267948966° sailors !
+
+Next Round:
+>Boat :
+>>Position X: 2573.8950133771045
+>>Position Y: 2573.070013377108
+>>Angle: 1.5707963267948943
+>>Life:300
+>>Checkpoint number: 2
+>>Next Checkpoint :
+>>>X: 10.0
+>>>Y: -350.0
+>>>Orient

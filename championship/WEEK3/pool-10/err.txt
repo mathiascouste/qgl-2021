@@ -1,0 +1,84 @@
+---Début de Partie--- 
+Pos Ship : [0.0,0.0] 
+Checkpoints : {circle:[10.0;-350.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [0.0,0.0] 
+Checkpoints :{circle:[10.0;-350.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [45.62171820918381,-26.022168640911254] 
+Checkpoints :{circle:[10.0;-350.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [66.93741202585248,-104.74842096329911] 
+Checkpoints :{circle:[10.0;-350.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [66.9374120258539,-214.74842096329854] 
+Checkpoints :{circle:[10.0;-350.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [46.034218209186726,-293.5852023275647] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [0.6875000000035093,-320.08368494055867] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-44.93421820918157,-294.06151629964944] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202585511,-215.33526397726305] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202586364,-105.33526397726362] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202587216,4.664736022736227] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202588069,114.66473602273602] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202588922,224.66473602273547] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202589774,334.6647360227369] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202590627,444.6647360227392] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.2499120259148,554.6647360227414] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202592332,664.6647360227437] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202593185,774.664736022746] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.24991202594038,884.6647360227482] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-66.2499120259489,994.6647360227505] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 
+----Nouveau Tour---- 
+Pos Ship : [-87.15310584262248,1073.5015173870154] 
+Checkpoints :{circle:[-150.0;1250.0]} 
+ 

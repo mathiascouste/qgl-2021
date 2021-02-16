@@ -1,0 +1,74 @@
+2021-02-16 22:34:22,679 [INFO ] Game creation...
+2021-02-16 22:34:22,685 [INFO ] 1 players created!
+2021-02-16 22:34:22,692 [INFO ] Starting game
+2021-02-16 22:34:22,705 [INFO ] ********************************************
+2021-02-16 22:34:22,705 [INFO ] 1110031167 - initGame
+2021-02-16 22:34:22,705 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":10.0,"y":-350.0,"orientation":0.0},"shape":{"type":"circle","radius":85.0}},{"position":{"x":-150.0,"y":1250.0,"orientation":0.0},"shape":{"type":"circle","radius":85.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"jerapah_corp","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Luffy Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"},{"x":1,"y":0,"id":2,"name":"Tom Pouce"},{"x":1,"y":1,"id":3,"name":"Jack Teach"}],"shipCount":1}
+2021-02-16 22:34:22,718 [INFO ] Starting round 0
+2021-02-16 22:34:22,723 [INFO ] ********************************************
+2021-02-16 22:34:22,723 [INFO ] 1110031167 - nextRound
+2021-02-16 22:34:22,723 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"jerapah_corp","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Nb sailors already on oar (west) : 1
+     Sailor id : 2 position = 1.0;0.0
+Nb sailors already on oar (east) : 1
+     Sailor id : 3 position = 1.0;1.0
+Nb sailors unemployed : 2
+     Sailor id : 0 position = 0.0;0.0
+     Sailor id : 1 position = 0.0;1.0
+oar west sided = 3
+oar east sided = 3
+params of orientation = 4, 6, fr.unice.polytech.si3.qgl.jerapah_corp.Ship@153940b5, fr.unice.polytech.si3.qgl.jerapah_corp.direction.Checkpoint@1be74d0a
+angle calculé = -88.36
+Angle a prendre = -90.0
+indice = 0
+sailor returned are : (west) =3(east) =0
+Nb sailors west : 1
+Nb sailors east : 0
+Action{sailorId=3, type='OAR', xdistance=1.0, ydistance=-1.0, rotation=0.0, openned=false}
+Action{sailorId=3, type='MOVING', xdistance=1.0, ydistance=-1.0, rotation=0.0, openned=false}
+Action{sailorId=1, type='OAR', xdistance=3.0, ydistance=-1.0, rotation=0.0, openned=false}
+Action{sailorId=1, type='MOVING', xdistance=3.0, ydistance=-1.0, rotation=0.0, openned=false}
+Action{sailorId=2, type='OAR', xdistance=0.0, ydistance=0.0, rotation=0.0, openned=false}
+Next round input: {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"jerapah_corp","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-16 22:34:22,768 [INFO ] Player response:[{"sailorId":"3","type":"OAR"},{"sailorId":"3","type":"MOVING","xdistance":"1.0","ydistance":"-1.0"},{"sailorId":"1","type":"OAR"},{"sailorId":"1","type":"MOVING","xdistance":"3.0","ydistance":"-1.0"},{"sailorId":"2","type":"OAR"}]
+2021-02-16 22:34:22,776 [WARN ] Wrong format
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jerapah_corp IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.InvalidJSONError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-02-16 22:34:22,794 [INFO ] Game over
+2021-02-16 22:34:22,794 [INFO ] Creating team's logs files
+2021-02-16 22:34:22,796 [INFO ] Game scores: {jerapah_corp=INVALID_JSON}
