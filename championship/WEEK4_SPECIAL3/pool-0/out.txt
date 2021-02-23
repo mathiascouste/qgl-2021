@@ -1,0 +1,402 @@
+2021-02-23 22:18:06,566 [INFO ] Game creation...
+2021-02-23 22:18:06,581 [INFO ] 1 players created!
+2021-02-23 22:18:06,598 [INFO ] Starting game
+2021-02-23 22:18:06,616 [INFO ] ********************************************
+2021-02-23 22:18:06,616 [INFO ] 1560940633 - initGame
+2021-02-23 22:18:06,616 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":10.0,"y":-350.0,"orientation":0.0},"shape":{"type":"circle","radius":85.0}},{"position":{"x":-150.0,"y":1250.0,"orientation":0.0},"shape":{"type":"circle","radius":85.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Edward Pouce"},{"x":0,"y":1,"id":1,"name":"Tom Pouce"},{"x":1,"y":0,"id":2,"name":"Jack Teach"},{"x":1,"y":1,"id":3,"name":"Edward Teach"}],"shipCount":1}
+2021-02-23 22:18:06,666 [INFO ] Starting round 0
+2021-02-23 22:18:06,674 [INFO ] ********************************************
+2021-02-23 22:18:06,674 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,674 [INFO ] {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+10.0
+-350.0
+Distance restante : 350.14282800023193
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=1}
+
+Disposition{babordOar=3, tribordOar=1}
+
+[Moving{distanceX=2, distanceY=0, type=MOVING, sailorId=0}, Moving{distanceX=3, distanceY=-1, type=MOVING, sailorId=1}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,714 [INFO ] Player response:[{"sailorId":0,"xdistance":2,"ydistance":0,"type":"MOVING"},{"sailorId":1,"xdistance":3,"ydistance":-1,"type":"MOVING"},{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,761 [INFO ] Starting round 1
+2021-02-23 22:18:06,762 [INFO ] ********************************************
+2021-02-23 22:18:06,762 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,762 [INFO ] {"ship":{"type":"ship","position":{"x":91.24343641836762,"y":-52.04433728182251,"orientation":-1.0471975511965985},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+-81.24343641836762
+-297.9556627181775
+Distance restante : 308.8334063971929
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=2}
+
+Ca passe pas
+Disposition{babordOar=3, tribordOar=1}
+
+[Oar{sailorId=0, type='OAR'}, Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,764 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,775 [INFO ] Starting round 2
+2021-02-23 22:18:06,775 [INFO ] ********************************************
+2021-02-23 22:18:06,775 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,775 [INFO ] {"ship":{"type":"ship","position":{"x":91.7934364183674,"y":-157.0856397896304,"orientation":-2.0943951023931957},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+-81.7934364183674
+-192.9143602103696
+Distance restante : 209.5378643980647
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Moving{distanceX=0, distanceY=1, type=MOVING, sailorId=0}, Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,780 [INFO ] Player response:[{"sailorId":0,"xdistance":0,"ydistance":1,"type":"MOVING"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,786 [INFO ] Starting round 3
+2021-02-23 22:18:06,787 [INFO ] ********************************************
+2021-02-23 22:18:06,787 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,787 [INFO ] {"ship":{"type":"ship","position":{"x":36.79343641836769,"y":-252.34843420591884,"orientation":-2.0943951023931957},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+-26.79343641836769
+-97.65156579408116
+Distance restante : 101.26063666173977
+======================================================================================================
+IDEAL : Disposition{babordOar=2, tribordOar=2}
+
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,789 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,797 [INFO ] Starting round 4
+2021-02-23 22:18:06,797 [INFO ] ********************************************
+2021-02-23 22:18:06,797 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,797 [INFO ] {"ship":{"type":"ship","position":{"x":-18.206563581632345,"y":-347.61122862220725,"orientation":-2.0943951023931957},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+28.206563581632345
+-2.38877137779275
+Distance restante : 28.307533587015843
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=0}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=0}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}]
+2021-02-23 22:18:06,800 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-23 22:18:06,807 [INFO ] Starting round 5
+2021-02-23 22:18:06,809 [INFO ] ********************************************
+2021-02-23 22:18:06,809 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,809 [INFO ] {"ship":{"type":"ship","position":{"x":-63.553281790815994,"y":-374.1097112352006,"orientation":-3.1415926535897727},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+-86.44671820918401
+1624.1097112352006
+Distance restante : 1626.408739898315
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=1}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=0}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}]
+2021-02-23 22:18:06,812 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-23 22:18:06,818 [INFO ] Starting round 6
+2021-02-23 22:18:06,819 [INFO ] ********************************************
+2021-02-23 22:18:06,819 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,819 [INFO ] {"ship":{"type":"ship","position":{"x":-109.17500000000072,"y":-348.0875425942907,"orientation":-4.188790204786358},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+-40.82499999999928
+1598.0875425942907
+Distance restante : 1598.6089185351304
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,822 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,826 [INFO ] Starting round 7
+2021-02-23 22:18:06,826 [INFO ] ********************************************
+2021-02-23 22:18:06,826 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,826 [INFO ] {"ship":{"type":"ship","position":{"x":-164.17500000000422,"y":-252.82474817800238,"orientation":-4.188790204786358},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+14.175000000004218
+1502.8247481780024
+Distance restante : 1502.8915976747214
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,828 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,830 [INFO ] Starting round 8
+2021-02-23 22:18:06,831 [INFO ] ********************************************
+2021-02-23 22:18:06,831 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,831 [INFO ] {"ship":{"type":"ship","position":{"x":-219.1750000000082,"y":-157.56195376171678,"orientation":-4.188790204786358},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+69.1750000000082
+1407.5619537617167
+Distance restante : 1409.2607403537866
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=2}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,833 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,835 [INFO ] Starting round 9
+2021-02-23 22:18:06,835 [INFO ] ********************************************
+2021-02-23 22:18:06,835 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,835 [INFO ] {"ship":{"type":"ship","position":{"x":-274.1750000000112,"y":-62.29915934543021,"orientation":-4.188790204786358},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+124.17500000001121
+1312.2991593454303
+Distance restante : 1318.1610350195176
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=2}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,840 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,842 [INFO ] Starting round 10
+2021-02-23 22:18:06,843 [INFO ] ********************************************
+2021-02-23 22:18:06,843 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,843 [INFO ] {"ship":{"type":"ship","position":{"x":-329.17500000001235,"y":32.96363507085615,"orientation":-4.188790204786358},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+179.17500000001235
+1217.036364929144
+Distance restante : 1230.1549472261406
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=2}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,845 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,848 [INFO ] Starting round 11
+2021-02-23 22:18:06,848 [INFO ] ********************************************
+2021-02-23 22:18:06,849 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,849 [INFO ] {"ship":{"type":"ship","position":{"x":-384.1750000000135,"y":128.22642948714292,"orientation":-4.188790204786358},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+234.17500000001348
+1121.773570512857
+Distance restante : 1145.9554415971725
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=2}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=1}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}]
+2021-02-23 22:18:06,850 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"}]
+2021-02-23 22:18:06,853 [INFO ] Starting round 12
+2021-02-23 22:18:06,855 [INFO ] ********************************************
+2021-02-23 22:18:06,855 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,855 [INFO ] {"ship":{"type":"ship","position":{"x":-405.4906938166856,"y":206.95268180952985,"orientation":-4.712388980384624},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+255.49069381668562
+1043.0473181904702
+Distance restante : 1073.8823038914754
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,856 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,859 [INFO ] Starting round 13
+2021-02-23 22:18:06,860 [INFO ] ********************************************
+2021-02-23 22:18:06,860 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,860 [INFO ] {"ship":{"type":"ship","position":{"x":-405.4906938166913,"y":316.9526818095309,"orientation":-4.712388980384624},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+255.4906938166913
+933.0473181904691
+Distance restante : 967.3948483475405
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,861 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,865 [INFO ] Starting round 14
+2021-02-23 22:18:06,868 [INFO ] ********************************************
+2021-02-23 22:18:06,868 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,868 [INFO ] {"ship":{"type":"ship","position":{"x":-405.490693816697,"y":426.95268180953315,"orientation":-4.712388980384624},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+255.490693816697
+823.0473181904669
+Distance restante : 861.7902196053612
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,872 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,874 [INFO ] Starting round 15
+2021-02-23 22:18:06,876 [INFO ] ********************************************
+2021-02-23 22:18:06,876 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,876 [INFO ] {"ship":{"type":"ship","position":{"x":-405.4906938167027,"y":536.9526818095354,"orientation":-4.712388980384624},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+255.49069381670267
+713.0473181904646
+Distance restante : 757.4377681404286
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,878 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,880 [INFO ] Starting round 16
+2021-02-23 22:18:06,880 [INFO ] ********************************************
+2021-02-23 22:18:06,880 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,880 [INFO ] {"ship":{"type":"ship","position":{"x":-405.49069381670836,"y":646.9526818095377,"orientation":-4.712388980384624},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+255.49069381670836
+603.0473181904623
+Distance restante : 654.9363042339703
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,882 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,884 [INFO ] Starting round 17
+2021-02-23 22:18:06,884 [INFO ] ********************************************
+2021-02-23 22:18:06,884 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,884 [INFO ] {"ship":{"type":"ship","position":{"x":-405.49069381671404,"y":756.95268180954,"orientation":-4.712388980384624},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+255.49069381671404
+493.04731819046003
+Distance restante : 555.3117616274219
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,885 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,888 [INFO ] Starting round 18
+2021-02-23 22:18:06,888 [INFO ] ********************************************
+2021-02-23 22:18:06,888 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,888 [INFO ] {"ship":{"type":"ship","position":{"x":-405.4906938167197,"y":866.9526818095422,"orientation":-4.712388980384624},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+255.49069381671973
+383.04731819045776
+Distance restante : 460.43538374005385
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=2}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,890 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,892 [INFO ] Starting round 19
+2021-02-23 22:18:06,892 [INFO ] ********************************************
+2021-02-23 22:18:06,892 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,892 [INFO ] {"ship":{"type":"ship","position":{"x":-405.4906938167254,"y":976.9526818095445,"orientation":-4.712388980384624},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+255.4906938167254
+273.0473181904555
+Distance restante : 373.9389423394568
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=2}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=1}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}]
+2021-02-23 22:18:06,893 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"}]
+2021-02-23 22:18:06,895 [INFO ] Starting round 20
+2021-02-23 22:18:06,895 [INFO ] ********************************************
+2021-02-23 22:18:06,895 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,895 [INFO ] {"ship":{"type":"ship","position":{"x":-384.58750000006347,"y":1055.7894631738116,"orientation":-5.23598775598289},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+234.58750000006347
+194.21053682618845
+Distance restante : 304.5472504728882
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=3}
+
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,897 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,900 [INFO ] Starting round 21
+2021-02-23 22:18:06,900 [INFO ] ********************************************
+2021-02-23 22:18:06,900 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,900 [INFO ] {"ship":{"type":"ship","position":{"x":-329.5875000000737,"y":1151.0522575901057,"orientation":-5.23598775598289},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+179.5875000000737
+98.94774240989432
+Distance restante : 205.0422538997542
+======================================================================================================
+IDEAL : Disposition{babordOar=3, tribordOar=2}
+
+Ca passe pas
+Ca passe pas
+Ca passe pas
+Disposition{babordOar=2, tribordOar=1}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}]
+2021-02-23 22:18:06,902 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"}]
+2021-02-23 22:18:06,905 [INFO ] Starting round 22
+2021-02-23 22:18:06,905 [INFO ] ********************************************
+2021-02-23 22:18:06,905 [INFO ] 1560940633 - nextRound
+2021-02-23 22:18:06,905 [INFO ] {"ship":{"type":"ship","position":{"x":-272.06641245248295,"y":1208.8753160958317,"orientation":-5.7595865315811565},"name":"qualituriers","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+======================================================================================================
+122.06641245248295
+41.12468390416825
+Distance restante : 128.80779741629556
+======================================================================================================
+IDEAL : Disposition{babordOar=2, tribordOar=2}
+
+Disposition{babordOar=2, tribordOar=2}
+
+[Oar{sailorId=1, type='OAR'}, Oar{sailorId=2, type='OAR'}, Oar{sailorId=0, type='OAR'}, Oar{sailorId=3, type='OAR'}]
+2021-02-23 22:18:06,908 [INFO ] Player response:[{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+2021-02-23 22:18:06,911 [INFO ] Game over
+2021-02-23 22:18:06,911 [INFO ] Creating team's logs files
+2021-02-23 22:18:06,913 [INFO ] Game scores: {qualituriers=228}

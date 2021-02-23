@@ -1,0 +1,1137 @@
+2021-02-23 22:33:53,613 [INFO ] Game creation...
+2021-02-23 22:33:53,630 [INFO ] 1 players created!
+2021-02-23 22:33:53,646 [INFO ] Starting game
+2021-02-23 22:33:53,660 [INFO ] ********************************************
+2021-02-23 22:33:53,660 [INFO ] 1055096410 - initGame
+2021-02-23 22:33:53,660 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":2279.6317218053687,"y":2879.047015765768,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":2256.4589017735334,"y":1352.1959459459492,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":3590.3073840382,"y":2221.734234234234,"orientation":0.0},"shape":{"type":"circle","radius":80.0}},{"position":{"x":2241.8126847430635,"y":1345.6855292792793,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1132.5943610732181,"y":2342.236768018018,"orientation":0.0},"shape":{"type":"circle","radius":80.0}}]},"ship":{"type":"ship","position":{"x":2185.3061761027725,"y":-227.86458333333408,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Edward Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"},{"x":0,"y":2,"id":2,"name":"Edward Pouce"},{"x":1,"y":0,"id":3,"name":"Tom Pouce"},{"x":1,"y":1,"id":4,"name":"Edward Pouce"}],"shipCount":1}
+2021-02-23 22:33:53,707 [INFO ] Starting round 0
+2021-02-23 22:33:53,712 [INFO ] ********************************************
+2021-02-23 22:33:53,712 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,712 [INFO ] {"ship":{"type":"ship","position":{"x":2185.3061761027725,"y":-227.86458333333408,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,725 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,762 [INFO ] Starting round 1
+2021-02-23 22:33:53,762 [INFO ] ********************************************
+2021-02-23 22:33:53,762 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,762 [INFO ] {"ship":{"type":"ship","position":{"x":2183.3864113946725,"y":-117.88133686613074,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,765 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,767 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,780 [INFO ] Starting round 2
+2021-02-23 22:33:53,780 [INFO ] ********************************************
+2021-02-23 22:33:53,780 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,780 [INFO ] {"ship":{"type":"ship","position":{"x":2181.4666466865724,"y":-7.898090398927471,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,781 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,782 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,791 [INFO ] Starting round 3
+2021-02-23 22:33:53,791 [INFO ] ********************************************
+2021-02-23 22:33:53,791 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,791 [INFO ] {"ship":{"type":"ship","position":{"x":2179.5468819784724,"y":102.08515606827575,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,793 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,794 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,800 [INFO ] Starting round 4
+2021-02-23 22:33:53,801 [INFO ] ********************************************
+2021-02-23 22:33:53,801 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,801 [INFO ] {"ship":{"type":"ship","position":{"x":2177.6271172703723,"y":212.0684025354791,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,802 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,803 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,807 [INFO ] Starting round 5
+2021-02-23 22:33:53,808 [INFO ] ********************************************
+2021-02-23 22:33:53,808 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,808 [INFO ] {"ship":{"type":"ship","position":{"x":2175.7073525622723,"y":322.05164900268244,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,809 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,809 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,815 [INFO ] Starting round 6
+2021-02-23 22:33:53,815 [INFO ] ********************************************
+2021-02-23 22:33:53,815 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,815 [INFO ] {"ship":{"type":"ship","position":{"x":2173.787587854172,"y":432.0348954698858,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,817 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,817 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,821 [INFO ] Starting round 7
+2021-02-23 22:33:53,822 [INFO ] ********************************************
+2021-02-23 22:33:53,822 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,822 [INFO ] {"ship":{"type":"ship","position":{"x":2171.867823146072,"y":542.0181419370875,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,823 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,823 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,826 [INFO ] Starting round 8
+2021-02-23 22:33:53,827 [INFO ] ********************************************
+2021-02-23 22:33:53,827 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,827 [INFO ] {"ship":{"type":"ship","position":{"x":2169.948058437972,"y":652.0013884042852,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,828 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,829 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,831 [INFO ] Starting round 9
+2021-02-23 22:33:53,832 [INFO ] ********************************************
+2021-02-23 22:33:53,832 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,832 [INFO ] {"ship":{"type":"ship","position":{"x":2168.028293729872,"y":761.9846348714829,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,834 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,834 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,836 [INFO ] Starting round 10
+2021-02-23 22:33:53,837 [INFO ] ********************************************
+2021-02-23 22:33:53,837 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,837 [INFO ] {"ship":{"type":"ship","position":{"x":2166.108529021772,"y":871.9678813386805,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,838 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,838 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,841 [INFO ] Starting round 11
+2021-02-23 22:33:53,841 [INFO ] ********************************************
+2021-02-23 22:33:53,841 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,841 [INFO ] {"ship":{"type":"ship","position":{"x":2164.188764313672,"y":981.9511278058782,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,842 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,843 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,847 [INFO ] Starting round 12
+2021-02-23 22:33:53,847 [INFO ] ********************************************
+2021-02-23 22:33:53,847 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,847 [INFO ] {"ship":{"type":"ship","position":{"x":2162.268999605572,"y":1091.9343742730828,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,848 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,849 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,851 [INFO ] Starting round 13
+2021-02-23 22:33:53,851 [INFO ] ********************************************
+2021-02-23 22:33:53,851 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,851 [INFO ] {"ship":{"type":"ship","position":{"x":2160.349234897472,"y":1201.9176207402918,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,852 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,853 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,856 [INFO ] Starting round 14
+2021-02-23 22:33:53,859 [INFO ] ********************************************
+2021-02-23 22:33:53,859 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,859 [INFO ] {"ship":{"type":"ship","position":{"x":2158.429470189372,"y":1311.9008672075008,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,862 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,862 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,865 [INFO ] Starting round 15
+2021-02-23 22:33:53,867 [INFO ] ********************************************
+2021-02-23 22:33:53,867 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,867 [INFO ] {"ship":{"type":"ship","position":{"x":2156.509705481272,"y":1421.8841136747099,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,870 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,871 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,873 [INFO ] Starting round 16
+2021-02-23 22:33:53,873 [INFO ] ********************************************
+2021-02-23 22:33:53,873 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,873 [INFO ] {"ship":{"type":"ship","position":{"x":2154.5899407731717,"y":1531.8673601419189,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,874 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,875 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,878 [INFO ] Starting round 17
+2021-02-23 22:33:53,878 [INFO ] ********************************************
+2021-02-23 22:33:53,878 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,878 [INFO ] {"ship":{"type":"ship","position":{"x":2152.6701760650717,"y":1641.850606609128,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,879 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,879 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,881 [INFO ] Starting round 18
+2021-02-23 22:33:53,882 [INFO ] ********************************************
+2021-02-23 22:33:53,882 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,882 [INFO ] {"ship":{"type":"ship","position":{"x":2150.7504113569717,"y":1751.833853076337,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,882 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,883 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,885 [INFO ] Starting round 19
+2021-02-23 22:33:53,885 [INFO ] ********************************************
+2021-02-23 22:33:53,885 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,885 [INFO ] {"ship":{"type":"ship","position":{"x":2148.8306466488716,"y":1861.817099543546,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,886 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,886 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,888 [INFO ] Starting round 20
+2021-02-23 22:33:53,888 [INFO ] ********************************************
+2021-02-23 22:33:53,888 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,888 [INFO ] {"ship":{"type":"ship","position":{"x":2146.9108819407716,"y":1971.800346010755,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,889 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,889 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,891 [INFO ] Starting round 21
+2021-02-23 22:33:53,891 [INFO ] ********************************************
+2021-02-23 22:33:53,891 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,891 [INFO ] {"ship":{"type":"ship","position":{"x":2144.9911172326715,"y":2081.783592477964,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,892 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,893 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,894 [INFO ] Starting round 22
+2021-02-23 22:33:53,895 [INFO ] ********************************************
+2021-02-23 22:33:53,895 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,895 [INFO ] {"ship":{"type":"ship","position":{"x":2143.0713525245715,"y":2191.766838945173,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,896 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,896 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,898 [INFO ] Starting round 23
+2021-02-23 22:33:53,898 [INFO ] ********************************************
+2021-02-23 22:33:53,898 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,898 [INFO ] {"ship":{"type":"ship","position":{"x":2141.1515878164714,"y":2301.750085412382,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,899 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,899 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,901 [INFO ] Starting round 24
+2021-02-23 22:33:53,901 [INFO ] ********************************************
+2021-02-23 22:33:53,901 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,901 [INFO ] {"ship":{"type":"ship","position":{"x":2139.2318231083714,"y":2411.733331879591,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,902 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,902 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,904 [INFO ] Starting round 25
+2021-02-23 22:33:53,904 [INFO ] ********************************************
+2021-02-23 22:33:53,904 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,904 [INFO ] {"ship":{"type":"ship","position":{"x":2137.3120584002713,"y":2521.7165783468,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,905 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,906 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,908 [INFO ] Starting round 26
+2021-02-23 22:33:53,908 [INFO ] ********************************************
+2021-02-23 22:33:53,908 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,908 [INFO ] {"ship":{"type":"ship","position":{"x":2135.3922936921713,"y":2631.699824814009,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,909 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,909 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,912 [INFO ] Starting round 27
+2021-02-23 22:33:53,912 [INFO ] ********************************************
+2021-02-23 22:33:53,913 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,913 [INFO ] {"ship":{"type":"ship","position":{"x":2133.4725289840712,"y":2741.683071281218,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,914 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,914 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,916 [INFO ] Starting round 28
+2021-02-23 22:33:53,916 [INFO ] ********************************************
+2021-02-23 22:33:53,916 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,916 [INFO ] {"ship":{"type":"ship","position":{"x":2131.552764275971,"y":2851.666317748427,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,917 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,917 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,919 [INFO ] Starting round 29
+2021-02-23 22:33:53,919 [INFO ] ********************************************
+2021-02-23 22:33:53,919 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,919 [INFO ] {"ship":{"type":"ship","position":{"x":2129.632999567871,"y":2961.649564215636,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,921 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":-1},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,922 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,924 [INFO ] Starting round 30
+2021-02-23 22:33:53,924 [INFO ] ********************************************
+2021-02-23 22:33:53,924 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,924 [INFO ] {"ship":{"type":"ship","position":{"x":2154.854996137905,"y":3007.718483479662,"orientation":0.5410520681182407},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,925 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":-1},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,925 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,928 [INFO ] Starting round 31
+2021-02-23 22:33:53,929 [INFO ] ********************************************
+2021-02-23 22:33:53,929 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,929 [INFO ] {"ship":{"type":"ship","position":{"x":2207.362848830465,"y":3008.9100533478636,"orientation":-0.5061454830783575},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,930 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,930 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,934 [INFO ] Starting round 32
+2021-02-23 22:33:53,934 [INFO ] ********************************************
+2021-02-23 22:33:53,934 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,934 [INFO ] {"ship":{"type":"ship","position":{"x":2266.180982002897,"y":2952.4068780589982,"orientation":-1.0297442586766565},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,935 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,935 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,938 [INFO ] Starting round 33
+2021-02-23 22:33:53,938 [INFO ] ********************************************
+2021-02-23 22:33:53,938 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,938 [INFO ] {"ship":{"type":"ship","position":{"x":2288.867391888967,"y":2874.064626278141,"orientation":-1.553343034274945},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,939 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,940 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,940 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,942 [INFO ] Starting round 34
+2021-02-23 22:33:53,943 [INFO ] ********************************************
+2021-02-23 22:33:53,943 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,943 [INFO ] {"ship":{"type":"ship","position":{"x":2269.34327328054,"y":2794.875041103207,"orientation":-2.0769418098732366},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,944 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,944 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,944 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,946 [INFO ] Starting round 35
+2021-02-23 22:33:53,946 [INFO ] ********************************************
+2021-02-23 22:33:53,946 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,946 [INFO ] {"ship":{"type":"ship","position":{"x":2212.8400979916746,"y":2736.056907930774,"orientation":-2.6005405854715473},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,948 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,948 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,948 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,950 [INFO ] Starting round 36
+2021-02-23 22:33:53,951 [INFO ] ********************************************
+2021-02-23 22:33:53,951 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,951 [INFO ] {"ship":{"type":"ship","position":{"x":2134.4978462108174,"y":2713.3704980447037,"orientation":-3.124139361069858},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,952 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:53,952 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,952 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,955 [INFO ] Starting round 37
+2021-02-23 22:33:53,955 [INFO ] ********************************************
+2021-02-23 22:33:53,955 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,955 [INFO ] {"ship":{"type":"ship","position":{"x":2089.3372258737886,"y":2686.5560839375657,"orientation":-2.076941809873281},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,956 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,956 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,956 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,958 [INFO ] Starting round 38
+2021-02-23 22:33:53,958 [INFO ] ********************************************
+2021-02-23 22:33:53,959 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,959 [INFO ] {"ship":{"type":"ship","position":{"x":2032.834050584921,"y":2627.7379507651362,"orientation":-2.6005405854715917},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,959 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:53,960 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:53,960 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,960 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,962 [INFO ] Starting round 39
+2021-02-23 22:33:53,962 [INFO ] ********************************************
+2021-02-23 22:33:53,962 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,962 [INFO ] {"ship":{"type":"ship","position":{"x":2007.1310131759594,"y":2581.935676792246,"orientation":-1.5533430342750052},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,963 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,964 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,964 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,965 [INFO ] Starting round 40
+2021-02-23 22:33:53,965 [INFO ] ********************************************
+2021-02-23 22:33:53,965 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,965 [INFO ] {"ship":{"type":"ship","position":{"x":1987.606894567529,"y":2502.746091617314,"orientation":-2.076941809873297},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,966 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,966 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,966 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,967 [INFO ] Starting round 41
+2021-02-23 22:33:53,968 [INFO ] ********************************************
+2021-02-23 22:33:53,968 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,968 [INFO ] {"ship":{"type":"ship","position":{"x":1931.1037192786605,"y":2443.9279584448855,"orientation":-2.6005405854716077},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,968 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:53,969 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:53,969 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,969 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,970 [INFO ] Starting round 42
+2021-02-23 22:33:53,970 [INFO ] ********************************************
+2021-02-23 22:33:53,970 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,970 [INFO ] {"ship":{"type":"ship","position":{"x":1905.4006818696987,"y":2398.125684471996,"orientation":-1.5533430342750212},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,971 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,971 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,971 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,973 [INFO ] Starting round 43
+2021-02-23 22:33:53,973 [INFO ] ********************************************
+2021-02-23 22:33:53,973 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,973 [INFO ] {"ship":{"type":"ship","position":{"x":1885.8765632612663,"y":2318.936099297064,"orientation":-2.076941809873313},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,974 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,974 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,974 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,975 [INFO ] Starting round 44
+2021-02-23 22:33:53,975 [INFO ] ********************************************
+2021-02-23 22:33:53,975 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,975 [INFO ] {"ship":{"type":"ship","position":{"x":1829.373387972397,"y":2260.1179661246356,"orientation":-2.6005405854716237},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,976 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:53,976 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:53,976 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,976 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,978 [INFO ] Starting round 45
+2021-02-23 22:33:53,978 [INFO ] ********************************************
+2021-02-23 22:33:53,978 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,978 [INFO ] {"ship":{"type":"ship","position":{"x":1803.6703505634334,"y":2214.315692151746,"orientation":-1.5533430342750372},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,979 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,979 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,979 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,980 [INFO ] Starting round 46
+2021-02-23 22:33:53,981 [INFO ] ********************************************
+2021-02-23 22:33:53,981 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,981 [INFO ] {"ship":{"type":"ship","position":{"x":1784.1462319550003,"y":2135.1261069768143,"orientation":-2.076941809873329},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,981 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:53,982 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:53,982 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,982 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,983 [INFO ] Starting round 47
+2021-02-23 22:33:53,983 [INFO ] ********************************************
+2021-02-23 22:33:53,983 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,983 [INFO ] {"ship":{"type":"ship","position":{"x":1784.7878855908607,"y":2082.608655460714,"orientation":-1.0297442586767314},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,984 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,984 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,984 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,986 [INFO ] Starting round 48
+2021-02-23 22:33:53,986 [INFO ] ********************************************
+2021-02-23 22:33:53,986 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,986 [INFO ] {"ship":{"type":"ship","position":{"x":1807.4742954769235,"y":2004.266403679853,"orientation":-1.5533430342750199},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,987 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,987 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,987 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,989 [INFO ] Starting round 49
+2021-02-23 22:33:53,989 [INFO ] ********************************************
+2021-02-23 22:33:53,989 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,989 [INFO ] {"ship":{"type":"ship","position":{"x":1787.950176868491,"y":1925.0768185049192,"orientation":-2.0769418098733117},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,989 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:53,990 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:53,990 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,990 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,991 [INFO ] Starting round 50
+2021-02-23 22:33:53,991 [INFO ] ********************************************
+2021-02-23 22:33:53,991 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,991 [INFO ] {"ship":{"type":"ship","position":{"x":1788.591830504353,"y":1872.5593669888208,"orientation":-1.029744258676714},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,992 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,992 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,992 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,993 [INFO ] Starting round 51
+2021-02-23 22:33:53,994 [INFO ] ********************************************
+2021-02-23 22:33:53,994 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,994 [INFO ] {"ship":{"type":"ship","position":{"x":1811.278240390418,"y":1794.2171152079602,"orientation":-1.5533430342750025},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,994 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,994 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,995 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,996 [INFO ] Starting round 52
+2021-02-23 22:33:53,996 [INFO ] ********************************************
+2021-02-23 22:33:53,996 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,996 [INFO ] {"ship":{"type":"ship","position":{"x":1791.7541217819876,"y":1715.0275300330256,"orientation":-2.0769418098732944},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,997 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:53,997 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:53,997 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,997 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:53,998 [INFO ] Starting round 53
+2021-02-23 22:33:53,998 [INFO ] ********************************************
+2021-02-23 22:33:53,998 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:53,998 [INFO ] {"ship":{"type":"ship","position":{"x":1792.395775417851,"y":1662.5100785169273,"orientation":-1.0297442586766967},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:53,999 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:53,999 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:53,999 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,001 [INFO ] Starting round 54
+2021-02-23 22:33:54,001 [INFO ] ********************************************
+2021-02-23 22:33:54,001 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,001 [INFO ] {"ship":{"type":"ship","position":{"x":1815.082185303917,"y":1584.1678267360671,"orientation":-1.5533430342749852},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,002 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,002 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,002 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,002 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,004 [INFO ] Starting round 55
+2021-02-23 22:33:54,004 [INFO ] ********************************************
+2021-02-23 22:33:54,004 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,004 [INFO ] {"ship":{"type":"ship","position":{"x":1841.896599411056,"y":1539.007206399041,"orientation":-0.506145483078386},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,004 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,005 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,005 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,006 [INFO ] Starting round 56
+2021-02-23 22:33:54,006 [INFO ] ********************************************
+2021-02-23 22:33:54,006 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,006 [INFO ] {"ship":{"type":"ship","position":{"x":1900.7147325834856,"y":1482.5040311101734,"orientation":-1.029744258676685},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,007 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,007 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,007 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,009 [INFO ] Starting round 57
+2021-02-23 22:33:54,009 [INFO ] ********************************************
+2021-02-23 22:33:54,009 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,009 [INFO ] {"ship":{"type":"ship","position":{"x":1923.4011424695523,"y":1404.1617793293133,"orientation":-1.5533430342749734},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,009 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,010 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,010 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,010 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,011 [INFO ] Starting round 58
+2021-02-23 22:33:54,011 [INFO ] ********************************************
+2021-02-23 22:33:54,011 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,011 [INFO ] {"ship":{"type":"ship","position":{"x":1950.2155565766916,"y":1359.0011589922876,"orientation":-0.5061454830783743},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,012 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,012 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,012 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,014 [INFO ] Starting round 59
+2021-02-23 22:33:54,014 [INFO ] ********************************************
+2021-02-23 22:33:54,014 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,014 [INFO ] {"ship":{"type":"ship","position":{"x":2009.0336897491218,"y":1302.497983703421,"orientation":-1.0297442586766732},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,014 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,015 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,015 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,015 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,016 [INFO ] Starting round 60
+2021-02-23 22:33:54,016 [INFO ] ********************************************
+2021-02-23 22:33:54,016 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,016 [INFO ] {"ship":{"type":"ship","position":{"x":2054.8359637220146,"y":1276.7949462944623,"orientation":0.017453292519925466},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,017 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,017 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,017 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,019 [INFO ] Starting round 61
+2021-02-23 22:33:54,019 [INFO ] ********************************************
+2021-02-23 22:33:54,019 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,019 [INFO ] {"ship":{"type":"ship","position":{"x":2134.0255488969474,"y":1257.270827686034,"orientation":-0.5061454830783738},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,020 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,020 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,020 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,020 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,022 [INFO ] Starting round 62
+2021-02-23 22:33:54,022 [INFO ] ********************************************
+2021-02-23 22:33:54,022 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,022 [INFO ] {"ship":{"type":"ship","position":{"x":2186.5430004130485,"y":1257.912481321899,"orientation":0.5410520681182244},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,022 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,023 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,023 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,023 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,024 [INFO ] Starting round 63
+2021-02-23 22:33:54,024 [INFO ] ********************************************
+2021-02-23 22:33:54,024 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,024 [INFO ] {"ship":{"type":"ship","position":{"x":2212.246037822009,"y":1303.7147552947915,"orientation":1.5882496193148234},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,025 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,025 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,025 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,027 [INFO ] Starting round 64
+2021-02-23 22:33:54,027 [INFO ] ********************************************
+2021-02-23 22:33:54,027 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,027 [INFO ] {"ship":{"type":"ship","position":{"x":2231.7701564304366,"y":1382.9043404697268,"orientation":1.064650843716535},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,027 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,028 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,028 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,029 [INFO ] Starting round 65
+2021-02-23 22:33:54,029 [INFO ] ********************************************
+2021-02-23 22:33:54,029 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,029 [INFO ] {"ship":{"type":"ship","position":{"x":2288.2733317193024,"y":1441.7224736421576,"orientation":0.5410520681182367},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,030 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,030 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,030 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,031 [INFO ] Starting round 66
+2021-02-23 22:33:54,032 [INFO ] ********************************************
+2021-02-23 22:33:54,032 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,032 [INFO ] {"ship":{"type":"ship","position":{"x":2366.6155835001596,"y":1464.4088835282257,"orientation":0.01745329251993733},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,032 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,033 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,033 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,034 [INFO ] Starting round 67
+2021-02-23 22:33:54,034 [INFO ] ********************************************
+2021-02-23 22:33:54,034 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,034 [INFO ] {"ship":{"type":"ship","position":{"x":2445.805168675093,"y":1444.8847649197992,"orientation":-0.5061454830783619},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,035 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,035 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,035 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,035 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,036 [INFO ] Starting round 68
+2021-02-23 22:33:54,036 [INFO ] ********************************************
+2021-02-23 22:33:54,036 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,036 [INFO ] {"ship":{"type":"ship","position":{"x":2498.3226201911934,"y":1445.5264185556648,"orientation":0.5410520681182363},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,037 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,037 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,037 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,039 [INFO ] Starting round 69
+2021-02-23 22:33:54,039 [INFO ] ********************************************
+2021-02-23 22:33:54,039 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,039 [INFO ] {"ship":{"type":"ship","position":{"x":2576.6648719720506,"y":1468.2128284417329,"orientation":0.017453292519936887},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,039 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,040 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,040 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,041 [INFO ] Starting round 70
+2021-02-23 22:33:54,041 [INFO ] ********************************************
+2021-02-23 22:33:54,041 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,041 [INFO ] {"ship":{"type":"ship","position":{"x":2655.854457146984,"y":1448.6887098333061,"orientation":-0.5061454830783624},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,042 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,042 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,042 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,042 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,043 [INFO ] Starting round 71
+2021-02-23 22:33:54,043 [INFO ] ********************************************
+2021-02-23 22:33:54,043 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,043 [INFO ] {"ship":{"type":"ship","position":{"x":2708.3719086630845,"y":1449.3303634691717,"orientation":0.5410520681182358},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,044 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,044 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,044 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,046 [INFO ] Starting round 72
+2021-02-23 22:33:54,046 [INFO ] ********************************************
+2021-02-23 22:33:54,046 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,046 [INFO ] {"ship":{"type":"ship","position":{"x":2786.7141604439416,"y":1472.0167733552398,"orientation":0.017453292519936443},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,046 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,047 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,047 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,048 [INFO ] Starting round 73
+2021-02-23 22:33:54,048 [INFO ] ********************************************
+2021-02-23 22:33:54,048 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,048 [INFO ] {"ship":{"type":"ship","position":{"x":2865.903745618875,"y":1452.4926547468128,"orientation":-0.5061454830783628},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,049 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,049 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,049 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,049 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,050 [INFO ] Starting round 74
+2021-02-23 22:33:54,050 [INFO ] ********************************************
+2021-02-23 22:33:54,050 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,050 [INFO ] {"ship":{"type":"ship","position":{"x":2918.4211971349755,"y":1453.1343083826785,"orientation":0.5410520681182354},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,050 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,051 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,051 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,052 [INFO ] Starting round 75
+2021-02-23 22:33:54,052 [INFO ] ********************************************
+2021-02-23 22:33:54,052 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,052 [INFO ] {"ship":{"type":"ship","position":{"x":2996.7634489158327,"y":1475.8207182687465,"orientation":0.017453292519936},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,052 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,053 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,053 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,054 [INFO ] Starting round 76
+2021-02-23 22:33:54,054 [INFO ] ********************************************
+2021-02-23 22:33:54,054 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,054 [INFO ] {"ship":{"type":"ship","position":{"x":3075.953034090766,"y":1456.2965996603195,"orientation":-0.5061454830783633},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,054 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,055 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,055 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,055 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,056 [INFO ] Starting round 77
+2021-02-23 22:33:54,056 [INFO ] ********************************************
+2021-02-23 22:33:54,056 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,056 [INFO ] {"ship":{"type":"ship","position":{"x":3128.4704856068665,"y":1456.9382532961852,"orientation":0.5410520681182349},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,056 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,057 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,057 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,058 [INFO ] Starting round 78
+2021-02-23 22:33:54,058 [INFO ] ********************************************
+2021-02-23 22:33:54,058 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,058 [INFO ] {"ship":{"type":"ship","position":{"x":3206.8127373877237,"y":1479.624663182253,"orientation":0.017453292519935555},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,058 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,059 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,059 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,059 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,060 [INFO ] Starting round 79
+2021-02-23 22:33:54,060 [INFO ] ********************************************
+2021-02-23 22:33:54,060 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,060 [INFO ] {"ship":{"type":"ship","position":{"x":3251.973357724752,"y":1506.439077289393,"orientation":1.064650843716534},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,061 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,061 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,061 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,062 [INFO ] Starting round 80
+2021-02-23 22:33:54,062 [INFO ] ********************************************
+2021-02-23 22:33:54,062 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,062 [INFO ] {"ship":{"type":"ship","position":{"x":3308.476533013618,"y":1565.2572104618237,"orientation":0.5410520681182358},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,063 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,063 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,063 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,064 [INFO ] Starting round 81
+2021-02-23 22:33:54,064 [INFO ] ********************************************
+2021-02-23 22:33:54,064 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,064 [INFO ] {"ship":{"type":"ship","position":{"x":3386.818784794475,"y":1587.9436203478917,"orientation":0.017453292519936443},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,065 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,065 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,065 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,065 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,066 [INFO ] Starting round 82
+2021-02-23 22:33:54,066 [INFO ] ********************************************
+2021-02-23 22:33:54,066 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,066 [INFO ] {"ship":{"type":"ship","position":{"x":3431.9794051315034,"y":1614.7580344550317,"orientation":1.064650843716535},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,067 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,067 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,067 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,068 [INFO ] Starting round 83
+2021-02-23 22:33:54,068 [INFO ] ********************************************
+2021-02-23 22:33:54,068 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,068 [INFO ] {"ship":{"type":"ship","position":{"x":3488.4825804203692,"y":1673.5761676274626,"orientation":0.5410520681182367},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,069 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,069 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,069 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,070 [INFO ] Starting round 84
+2021-02-23 22:33:54,071 [INFO ] ********************************************
+2021-02-23 22:33:54,071 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,071 [INFO ] {"ship":{"type":"ship","position":{"x":3566.8248322012264,"y":1696.2625775135307,"orientation":0.01745329251993733},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,071 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,071 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,071 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,071 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,072 [INFO ] Starting round 85
+2021-02-23 22:33:54,073 [INFO ] ********************************************
+2021-02-23 22:33:54,073 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,073 [INFO ] {"ship":{"type":"ship","position":{"x":3611.985452538255,"y":1723.0769916206707,"orientation":1.0646508437165358},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,073 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,073 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,074 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,075 [INFO ] Starting round 86
+2021-02-23 22:33:54,075 [INFO ] ********************************************
+2021-02-23 22:33:54,075 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,075 [INFO ] {"ship":{"type":"ship","position":{"x":3668.48862782712,"y":1781.8951247931016,"orientation":0.5410520681182376},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,076 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,076 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,076 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,076 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,077 [INFO ] Starting round 87
+2021-02-23 22:33:54,078 [INFO ] ********************************************
+2021-02-23 22:33:54,078 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,078 [INFO ] {"ship":{"type":"ship","position":{"x":3694.1916652360806,"y":1827.6973987659944,"orientation":1.5882496193148368},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,078 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,078 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,078 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,079 [INFO ] Starting round 88
+2021-02-23 22:33:54,079 [INFO ] ********************************************
+2021-02-23 22:33:54,079 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,079 [INFO ] {"ship":{"type":"ship","position":{"x":3713.7157838445078,"y":1906.8869839409301,"orientation":1.0646508437165483},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,080 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,080 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,080 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,080 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,081 [INFO ] Starting round 89
+2021-02-23 22:33:54,081 [INFO ] ********************************************
+2021-02-23 22:33:54,081 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,081 [INFO ] {"ship":{"type":"ship","position":{"x":3713.0741302086412,"y":1959.4044354570285,"orientation":2.111848394913145},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,082 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,082 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,082 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,083 [INFO ] Starting round 90
+2021-02-23 22:33:54,083 [INFO ] ********************************************
+2021-02-23 22:33:54,083 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,083 [INFO ] {"ship":{"type":"ship","position":{"x":3690.387720322571,"y":2037.746687237888,"orientation":1.5882496193148519},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,084 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,084 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,084 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,085 [INFO ] Starting round 91
+2021-02-23 22:33:54,085 [INFO ] ********************************************
+2021-02-23 22:33:54,085 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,085 [INFO ] {"ship":{"type":"ship","position":{"x":3709.911838930997,"y":2116.9362724128223,"orientation":1.0646508437165634},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,086 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,086 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,086 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,086 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,087 [INFO ] Starting round 92
+2021-02-23 22:33:54,087 [INFO ] ********************************************
+2021-02-23 22:33:54,087 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,087 [INFO ] {"ship":{"type":"ship","position":{"x":3709.27018529513,"y":2169.453723928923,"orientation":2.11184839491316},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,088 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,088 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,088 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,088 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,089 [INFO ] Starting round 93
+2021-02-23 22:33:54,089 [INFO ] ********************************************
+2021-02-23 22:33:54,089 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,089 [INFO ] {"ship":{"type":"ship","position":{"x":3663.4679113222383,"y":2195.156761337882,"orientation":3.159045946109737},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,090 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,090 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,090 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,091 [INFO ] Starting round 94
+2021-02-23 22:33:54,091 [INFO ] ********************************************
+2021-02-23 22:33:54,091 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,091 [INFO ] {"ship":{"type":"ship","position":{"x":3584.2783261473055,"y":2214.6808799463092,"orientation":2.6354471705114264},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,092 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,092 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,092 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,093 [INFO ] Starting round 95
+2021-02-23 22:33:54,093 [INFO ] ********************************************
+2021-02-23 22:33:54,093 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,093 [INFO ] {"ship":{"type":"ship","position":{"x":3525.460192974874,"y":2271.1840552351755,"orientation":2.1118483949131157},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,094 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,094 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,094 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,094 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,095 [INFO ] Starting round 96
+2021-02-23 22:33:54,095 [INFO ] ********************************************
+2021-02-23 22:33:54,095 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,095 [INFO ] {"ship":{"type":"ship","position":{"x":3479.657919001984,"y":2296.887092644136,"orientation":3.1590459461096927},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,096 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,096 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,096 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,097 [INFO ] Starting round 97
+2021-02-23 22:33:54,097 [INFO ] ********************************************
+2021-02-23 22:33:54,097 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,097 [INFO ] {"ship":{"type":"ship","position":{"x":3400.468333827052,"y":2316.4112112525668,"orientation":2.635447170511382},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,098 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,098 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,098 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,098 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,099 [INFO ] Starting round 98
+2021-02-23 22:33:54,099 [INFO ] ********************************************
+2021-02-23 22:33:54,099 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,099 [INFO ] {"ship":{"type":"ship","position":{"x":3347.950882310952,"y":2315.7695576167025,"orientation":3.682644721707959},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,100 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,100 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,100 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,101 [INFO ] Starting round 99
+2021-02-23 22:33:54,101 [INFO ] ********************************************
+2021-02-23 22:33:54,101 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,101 [INFO ] {"ship":{"type":"ship","position":{"x":3269.608630530091,"y":2293.0831477306383,"orientation":3.1590459461096483},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,102 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,102 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,102 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,103 [INFO ] Starting round 100
+2021-02-23 22:33:54,103 [INFO ] ********************************************
+2021-02-23 22:33:54,103 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,103 [INFO ] {"ship":{"type":"ship","position":{"x":3190.41904535516,"y":2312.607266339071,"orientation":2.6354471705113376},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,104 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,104 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,104 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,104 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,105 [INFO ] Starting round 101
+2021-02-23 22:33:54,105 [INFO ] ********************************************
+2021-02-23 22:33:54,105 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,105 [INFO ] {"ship":{"type":"ship","position":{"x":3137.90159383906,"y":2311.96561270321,"orientation":3.6826447217079146},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,106 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,106 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,106 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,108 [INFO ] Starting round 102
+2021-02-23 22:33:54,108 [INFO ] ********************************************
+2021-02-23 22:33:54,108 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,108 [INFO ] {"ship":{"type":"ship","position":{"x":3059.559342058198,"y":2289.2792028171516,"orientation":3.159045946109604},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,109 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,109 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,109 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,111 [INFO ] Starting round 103
+2021-02-23 22:33:54,111 [INFO ] ********************************************
+2021-02-23 22:33:54,111 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,111 [INFO ] {"ship":{"type":"ship","position":{"x":2980.3697568832695,"y":2308.8033214255897,"orientation":2.635447170511293},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,111 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,111 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,111 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,112 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,113 [INFO ] Starting round 104
+2021-02-23 22:33:54,113 [INFO ] ********************************************
+2021-02-23 22:33:54,113 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,113 [INFO ] {"ship":{"type":"ship","position":{"x":2927.8523053671693,"y":2308.16166778973,"orientation":3.68264472170787},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,114 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,114 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,114 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,116 [INFO ] Starting round 105
+2021-02-23 22:33:54,116 [INFO ] ********************************************
+2021-02-23 22:33:54,116 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,116 [INFO ] {"ship":{"type":"ship","position":{"x":2849.510053586307,"y":2285.475257903675,"orientation":3.1590459461095595},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,116 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,117 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,117 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,118 [INFO ] Starting round 106
+2021-02-23 22:33:54,119 [INFO ] ********************************************
+2021-02-23 22:33:54,119 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,119 [INFO ] {"ship":{"type":"ship","position":{"x":2770.3204684113794,"y":2304.9993765121185,"orientation":2.6354471705112488},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,119 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,119 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,119 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,119 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,121 [INFO ] Starting round 107
+2021-02-23 22:33:54,121 [INFO ] ********************************************
+2021-02-23 22:33:54,121 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,121 [INFO ] {"ship":{"type":"ship","position":{"x":2717.803016895279,"y":2304.357722876261,"orientation":3.6826447217078258},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,122 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,122 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,122 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,124 [INFO ] Starting round 108
+2021-02-23 22:33:54,124 [INFO ] ********************************************
+2021-02-23 22:33:54,124 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,124 [INFO ] {"ship":{"type":"ship","position":{"x":2639.460765114415,"y":2281.6713129902105,"orientation":3.159045946109515},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,125 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,125 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,125 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,125 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,126 [INFO ] Starting round 109
+2021-02-23 22:33:54,127 [INFO ] ********************************************
+2021-02-23 22:33:54,127 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,127 [INFO ] {"ship":{"type":"ship","position":{"x":2594.3001447773836,"y":2254.85689888308,"orientation":4.206243497306101},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,127 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,128 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,128 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,129 [INFO ] Starting round 110
+2021-02-23 22:33:54,129 [INFO ] ********************************************
+2021-02-23 22:33:54,129 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,129 [INFO ] {"ship":{"type":"ship","position":{"x":2537.7969694885037,"y":2196.0387657106603,"orientation":3.6826447217078075},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,130 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,130 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,130 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,132 [INFO ] Starting round 111
+2021-02-23 22:33:54,132 [INFO ] ********************************************
+2021-02-23 22:33:54,132 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,132 [INFO ] {"ship":{"type":"ship","position":{"x":2459.4547177076397,"y":2173.3523558246115,"orientation":3.159045946109497},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,133 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,133 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,133 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,133 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,134 [INFO ] Starting round 112
+2021-02-23 22:33:54,135 [INFO ] ********************************************
+2021-02-23 22:33:54,135 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,135 [INFO ] {"ship":{"type":"ship","position":{"x":2414.294097370608,"y":2146.537941717481,"orientation":4.206243497306082},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,135 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,135 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,135 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,137 [INFO ] Starting round 113
+2021-02-23 22:33:54,137 [INFO ] ********************************************
+2021-02-23 22:33:54,137 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,137 [INFO ] {"ship":{"type":"ship","position":{"x":2357.7909220817273,"y":2087.7198085450623,"orientation":3.682644721707789},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,138 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,138 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,138 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,140 [INFO ] Starting round 114
+2021-02-23 22:33:54,140 [INFO ] ********************************************
+2021-02-23 22:33:54,140 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,140 [INFO ] {"ship":{"type":"ship","position":{"x":2279.448670300863,"y":2065.033398659015,"orientation":3.159045946109478},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,140 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,141 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,141 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,141 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,142 [INFO ] Starting round 115
+2021-02-23 22:33:54,142 [INFO ] ********************************************
+2021-02-23 22:33:54,142 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,142 [INFO ] {"ship":{"type":"ship","position":{"x":2234.288049963831,"y":2038.2189845518853,"orientation":4.206243497306064},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,143 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,143 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,143 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,145 [INFO ] Starting round 116
+2021-02-23 22:33:54,145 [INFO ] ********************************************
+2021-02-23 22:33:54,145 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,145 [INFO ] {"ship":{"type":"ship","position":{"x":2177.7848746749496,"y":1979.4008513794672,"orientation":3.6826447217077702},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,146 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,146 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,146 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,146 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,147 [INFO ] Starting round 117
+2021-02-23 22:33:54,147 [INFO ] ********************************************
+2021-02-23 22:33:54,147 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,147 [INFO ] {"ship":{"type":"ship","position":{"x":2152.08183726598,"y":1933.5985774065823,"orientation":4.729842272904378},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,148 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,148 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,148 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,150 [INFO ] Starting round 118
+2021-02-23 22:33:54,150 [INFO ] ********************************************
+2021-02-23 22:33:54,150 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,150 [INFO ] {"ship":{"type":"ship","position":{"x":2132.5577186575324,"y":1854.4089922316507,"orientation":4.206243497306112},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,151 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,151 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,151 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,153 [INFO ] Starting round 119
+2021-02-23 22:33:54,153 [INFO ] ********************************************
+2021-02-23 22:33:54,153 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,153 [INFO ] {"ship":{"type":"ship","position":{"x":2076.0545433686534,"y":1795.5908590592308,"orientation":3.682644721707818},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,153 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,154 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,154 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,154 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,155 [INFO ] Starting round 120
+2021-02-23 22:33:54,155 [INFO ] ********************************************
+2021-02-23 22:33:54,155 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,155 [INFO ] {"ship":{"type":"ship","position":{"x":2050.351505959687,"y":1749.7885850863436,"orientation":4.729842272904426},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,156 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,156 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,156 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,158 [INFO ] Starting round 121
+2021-02-23 22:33:54,158 [INFO ] ********************************************
+2021-02-23 22:33:54,158 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,158 [INFO ] {"ship":{"type":"ship","position":{"x":2030.8273873512449,"y":1670.5989999114108,"orientation":4.2062434973061595},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,159 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,159 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,159 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,159 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,161 [INFO ] Starting round 122
+2021-02-23 22:33:54,161 [INFO ] ********************************************
+2021-02-23 22:33:54,161 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,161 [INFO ] {"ship":{"type":"ship","position":{"x":2031.4690409871012,"y":1618.0815483953122,"orientation":5.253441048502781},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,162 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,162 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,162 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,164 [INFO ] Starting round 123
+2021-02-23 22:33:54,164 [INFO ] ********************************************
+2021-02-23 22:33:54,164 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,164 [INFO ] {"ship":{"type":"ship","position":{"x":2054.1554508731597,"y":1539.7392966144505,"orientation":4.729842272904515},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,164 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,165 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,165 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,166 [INFO ] Starting round 124
+2021-02-23 22:33:54,166 [INFO ] ********************************************
+2021-02-23 22:33:54,166 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,166 [INFO ] {"ship":{"type":"ship","position":{"x":2034.6313322647254,"y":1460.5497114395166,"orientation":4.206243497306248},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,167 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,167 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,167 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,167 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,169 [INFO ] Starting round 125
+2021-02-23 22:33:54,169 [INFO ] ********************************************
+2021-02-23 22:33:54,169 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,169 [INFO ] {"ship":{"type":"ship","position":{"x":2035.2729859005863,"y":1408.0322599234185,"orientation":5.25344104850287},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,170 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,170 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,170 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,170 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,172 [INFO ] Starting round 126
+2021-02-23 22:33:54,172 [INFO ] ********************************************
+2021-02-23 22:33:54,172 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,172 [INFO ] {"ship":{"type":"ship","position":{"x":2081.0752598734775,"y":1382.3292225144576,"orientation":0.01745329251990467},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,172 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":-1},{"sailorId":0,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,173 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,173 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,174 [INFO ] Starting round 127
+2021-02-23 22:33:54,175 [INFO ] ********************************************
+2021-02-23 22:33:54,175 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,175 [INFO ] {"ship":{"type":"ship","position":{"x":2127.144179137503,"y":1357.107225944424,"orientation":-1.0297442586766938},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,175 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,175 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,176 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,176 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,177 [INFO ] Starting round 128
+2021-02-23 22:33:54,177 [INFO ] ********************************************
+2021-02-23 22:33:54,177 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,177 [INFO ] {"ship":{"type":"ship","position":{"x":2172.9464531103936,"y":1331.4041885354638,"orientation":0.017453292519904816},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,178 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,178 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,178 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,178 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,180 [INFO ] Starting round 129
+2021-02-23 22:33:54,180 [INFO ] ********************************************
+2021-02-23 22:33:54,180 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,180 [INFO ] {"ship":{"type":"ship","position":{"x":2218.1070734474224,"y":1358.2186026426023,"orientation":1.0646508437165034},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,181 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,181 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,181 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,181 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,183 [INFO ] Starting round 130
+2021-02-23 22:33:54,183 [INFO ] ********************************************
+2021-02-23 22:33:54,183 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,183 [INFO ] {"ship":{"type":"ship","position":{"x":2217.4654198115572,"y":1410.7360541587007,"orientation":2.1118483949131},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,183 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,184 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,184 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,185 [INFO ] Starting round 131
+2021-02-23 22:33:54,186 [INFO ] ********************************************
+2021-02-23 22:33:54,186 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,186 [INFO ] {"ship":{"type":"ship","position":{"x":2194.7790099254876,"y":1489.0783059395608,"orientation":1.588249619314807},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,186 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,186 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,186 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,188 [INFO ] Starting round 132
+2021-02-23 22:33:54,188 [INFO ] ********************************************
+2021-02-23 22:33:54,188 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,188 [INFO ] {"ship":{"type":"ship","position":{"x":2214.3031285339175,"y":1568.2678911144953,"orientation":1.0646508437165185},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,189 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,189 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,189 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,189 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,191 [INFO ] Starting round 133
+2021-02-23 22:33:54,191 [INFO ] ********************************************
+2021-02-23 22:33:54,191 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,191 [INFO ] {"ship":{"type":"ship","position":{"x":2213.6614748980523,"y":1620.7853426305937,"orientation":2.1118483949131153},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,191 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,192 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,192 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,193 [INFO ] Starting round 134
+2021-02-23 22:33:54,193 [INFO ] ********************************************
+2021-02-23 22:33:54,193 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,193 [INFO ] {"ship":{"type":"ship","position":{"x":2190.9750650119827,"y":1699.1275944114536,"orientation":1.5882496193148221},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,194 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,194 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,194 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,196 [INFO ] Starting round 135
+2021-02-23 22:33:54,196 [INFO ] ********************************************
+2021-02-23 22:33:54,196 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,196 [INFO ] {"ship":{"type":"ship","position":{"x":2210.4991836204103,"y":1778.3171795863889,"orientation":1.0646508437165336},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,196 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,197 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,197 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,197 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,198 [INFO ] Starting round 136
+2021-02-23 22:33:54,198 [INFO ] ********************************************
+2021-02-23 22:33:54,198 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,198 [INFO ] {"ship":{"type":"ship","position":{"x":2209.8575299845447,"y":1830.8346311024873,"orientation":2.1118483949131304},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,199 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,199 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,199 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,201 [INFO ] Starting round 137
+2021-02-23 22:33:54,201 [INFO ] ********************************************
+2021-02-23 22:33:54,201 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,201 [INFO ] {"ship":{"type":"ship","position":{"x":2187.1711200984746,"y":1909.1768828833467,"orientation":1.5882496193148372},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,202 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,202 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,202 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,202 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,204 [INFO ] Starting round 138
+2021-02-23 22:33:54,204 [INFO ] ********************************************
+2021-02-23 22:33:54,204 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,204 [INFO ] {"ship":{"type":"ship","position":{"x":2160.3567059913366,"y":1954.3375032203721,"orientation":2.635447170511423},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,204 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,204 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,205 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,206 [INFO ] Starting round 139
+2021-02-23 22:33:54,206 [INFO ] ********************************************
+2021-02-23 22:33:54,206 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,206 [INFO ] {"ship":{"type":"ship","position":{"x":2101.538572818906,"y":2010.8406785092388,"orientation":2.111848394913112},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,207 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,207 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,207 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,209 [INFO ] Starting round 140
+2021-02-23 22:33:54,209 [INFO ] ********************************************
+2021-02-23 22:33:54,209 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,209 [INFO ] {"ship":{"type":"ship","position":{"x":2078.852162932836,"y":2089.182930290098,"orientation":1.588249619314819},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,209 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,210 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,210 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,210 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,211 [INFO ] Starting round 141
+2021-02-23 22:33:54,211 [INFO ] ********************************************
+2021-02-23 22:33:54,211 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,211 [INFO ] {"ship":{"type":"ship","position":{"x":2052.0377488256986,"y":2134.3435506271267,"orientation":2.6354471705114046},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,212 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,212 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,212 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,214 [INFO ] Starting round 142
+2021-02-23 22:33:54,214 [INFO ] ********************************************
+2021-02-23 22:33:54,214 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,214 [INFO ] {"ship":{"type":"ship","position":{"x":1993.2196156532693,"y":2190.846725915994,"orientation":2.111848394913094},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,215 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,215 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,215 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,216 [INFO ] Starting round 143
+2021-02-23 22:33:54,217 [INFO ] ********************************************
+2021-02-23 22:33:54,217 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,217 [INFO ] {"ship":{"type":"ship","position":{"x":1970.533205767204,"y":2269.1889776968537,"orientation":1.5882496193148008},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,217 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,217 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,217 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,217 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,219 [INFO ] Starting round 144
+2021-02-23 22:33:54,219 [INFO ] ********************************************
+2021-02-23 22:33:54,219 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,219 [INFO ] {"ship":{"type":"ship","position":{"x":1943.7187916600658,"y":2314.3495980338826,"orientation":2.6354471705113864},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,220 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,220 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,220 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,222 [INFO ] Starting round 145
+2021-02-23 22:33:54,222 [INFO ] ********************************************
+2021-02-23 22:33:54,222 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,222 [INFO ] {"ship":{"type":"ship","position":{"x":1884.9006584876379,"y":2370.852773322751,"orientation":2.1118483949130757},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,222 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,223 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,223 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,223 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,224 [INFO ] Starting round 146
+2021-02-23 22:33:54,224 [INFO ] ********************************************
+2021-02-23 22:33:54,224 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,224 [INFO ] {"ship":{"type":"ship","position":{"x":1839.0983845147466,"y":2396.5558107317133,"orientation":3.1590459461096527},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,228 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,228 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,228 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,230 [INFO ] Starting round 147
+2021-02-23 22:33:54,230 [INFO ] ********************************************
+2021-02-23 22:33:54,230 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,230 [INFO ] {"ship":{"type":"ship","position":{"x":1759.9087993398127,"y":2416.0799293401456,"orientation":2.635447170511342},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,230 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,230 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,230 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,232 [INFO ] Starting round 148
+2021-02-23 22:33:54,232 [INFO ] ********************************************
+2021-02-23 22:33:54,232 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,232 [INFO ] {"ship":{"type":"ship","position":{"x":1701.0906661673866,"y":2472.5831046290173,"orientation":2.1118483949130313},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,232 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,233 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,233 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,233 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,234 [INFO ] Starting round 149
+2021-02-23 22:33:54,234 [INFO ] ********************************************
+2021-02-23 22:33:54,234 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,234 [INFO ] {"ship":{"type":"ship","position":{"x":1655.288392194497,"y":2498.2861420379813,"orientation":3.1590459461096083},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,235 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,235 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,235 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,236 [INFO ] Starting round 150
+2021-02-23 22:33:54,236 [INFO ] ********************************************
+2021-02-23 22:33:54,236 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,236 [INFO ] {"ship":{"type":"ship","position":{"x":1576.0988070195633,"y":2517.810260646419,"orientation":2.6354471705112976},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,237 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,237 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,237 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,238 [INFO ] Starting round 151
+2021-02-23 22:33:54,238 [INFO ] ********************************************
+2021-02-23 22:33:54,238 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,238 [INFO ] {"ship":{"type":"ship","position":{"x":1517.2806738471386,"y":2574.3134359352935,"orientation":2.111848394912987},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,238 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,239 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,239 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,239 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,239 [INFO ] Starting round 152
+2021-02-23 22:33:54,239 [INFO ] ********************************************
+2021-02-23 22:33:54,239 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,239 [INFO ] {"ship":{"type":"ship","position":{"x":1471.4783998742503,"y":2600.0164733442593,"orientation":3.159045946109564},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,240 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,240 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,240 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,242 [INFO ] Starting round 153
+2021-02-23 22:33:54,242 [INFO ] ********************************************
+2021-02-23 22:33:54,242 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,242 [INFO ] {"ship":{"type":"ship","position":{"x":1392.2888146993173,"y":2619.540591952702,"orientation":2.635447170511253},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,242 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,243 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,243 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,243 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,244 [INFO ] Starting round 154
+2021-02-23 22:33:54,244 [INFO ] ********************************************
+2021-02-23 22:33:54,244 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,244 [INFO ] {"ship":{"type":"ship","position":{"x":1339.7713631832185,"y":2618.8989383168446,"orientation":3.68264472170783},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,245 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,245 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,245 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,246 [INFO ] Starting round 155
+2021-02-23 22:33:54,246 [INFO ] ********************************************
+2021-02-23 22:33:54,246 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,246 [INFO ] {"ship":{"type":"ship","position":{"x":1261.4291114023547,"y":2596.212528430794,"orientation":3.1590459461095195},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,247 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,247 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,247 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,247 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,249 [INFO ] Starting round 156
+2021-02-23 22:33:54,249 [INFO ] ********************************************
+2021-02-23 22:33:54,249 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,249 [INFO ] {"ship":{"type":"ship","position":{"x":1216.2684910653231,"y":2569.398114323663,"orientation":4.206243497306105},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,249 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,250 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,250 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,251 [INFO ] Starting round 157
+2021-02-23 22:33:54,251 [INFO ] ********************************************
+2021-02-23 22:33:54,251 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,251 [INFO ] {"ship":{"type":"ship","position":{"x":1159.7653157764444,"y":2510.5799811512434,"orientation":3.682644721707812},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,252 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:54,252 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #1
+2021-02-23 22:33:54,252 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,252 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,253 [INFO ] Starting round 158
+2021-02-23 22:33:54,253 [INFO ] ********************************************
+2021-02-23 22:33:54,253 [INFO ] 1055096410 - nextRound
+2021-02-23 22:33:54,253 [INFO ] {"ship":{"type":"ship","position":{"x":1134.0622783674755,"y":2464.7777071783553,"orientation":4.72984227290442},"name":"nautilus","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:54,254 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:54,254 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #4
+2021-02-23 22:33:54,254 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #4
+2021-02-23 22:33:54,255 [INFO ] Game over
+2021-02-23 22:33:54,255 [INFO ] Creating team's logs files
+2021-02-23 22:33:54,259 [INFO ] Game scores: {nautilus=142}

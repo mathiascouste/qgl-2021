@@ -1,0 +1,449 @@
+2021-02-23 22:33:46,806 [INFO ] Game creation...
+2021-02-23 22:33:46,823 [INFO ] 1 players created!
+2021-02-23 22:33:46,839 [INFO ] Starting game
+2021-02-23 22:33:46,853 [INFO ] ********************************************
+2021-02-23 22:33:46,853 [INFO ] 268084911 - initGame
+2021-02-23 22:33:46,854 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":2279.6317218053687,"y":2879.047015765768,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":2256.4589017735334,"y":1352.1959459459492,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":3590.3073840382,"y":2221.734234234234,"orientation":0.0},"shape":{"type":"circle","radius":80.0}},{"position":{"x":2241.8126847430635,"y":1345.6855292792793,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1132.5943610732181,"y":2342.236768018018,"orientation":0.0},"shape":{"type":"circle","radius":80.0}}]},"ship":{"type":"ship","position":{"x":2185.3061761027725,"y":-227.86458333333408,"orientation":1.5882496193148399},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Pouce"},{"x":0,"y":1,"id":1,"name":"Jack Teach"},{"x":0,"y":2,"id":2,"name":"Tom Teach"},{"x":1,"y":0,"id":3,"name":"Luffy Pouce"},{"x":1,"y":1,"id":4,"name":"Jack Pouce"}],"shipCount":1}
+2021-02-23 22:33:46,890 [INFO ] Starting round 0
+2021-02-23 22:33:46,895 [INFO ] ********************************************
+2021-02-23 22:33:46,895 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:46,895 [INFO ] {"ship":{"type":"ship","position":{"x":2185.3061761027725,"y":-227.86458333333408,"orientation":1.5882496193148399},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:46,911 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":3,"ydistance":1},{"sailorId":0,"type":"TURN","rotation":-0.04780387637394993},{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":-1},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":1},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:46,944 [INFO ] Starting round 1
+2021-02-23 22:33:46,945 [INFO ] ********************************************
+2021-02-23 22:33:46,945 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:46,945 [INFO ] {"ship":{"type":"ship","position":{"x":2185.9891655743054,"y":-117.87717643026329,"orientation":1.5404457429408869},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:46,956 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-8.854744630994046E-4},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:46,966 [INFO ] Starting round 2
+2021-02-23 22:33:46,967 [INFO ] ********************************************
+2021-02-23 22:33:46,967 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:46,967 [INFO ] {"ship":{"type":"ship","position":{"x":2189.3754087113857,"y":-7.9293134819696816,"orientation":1.5395602684777787},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:46,976 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-1.7029610857649483E-5},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:46,983 [INFO ] Starting round 3
+2021-02-23 22:33:46,984 [INFO ] ********************************************
+2021-02-23 22:33:46,984 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:46,984 [INFO ] {"ship":{"type":"ship","position":{"x":2192.8117432229033,"y":102.01699889290059,"orientation":1.539543238866924},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:46,990 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.404833770988633E-7},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:46,996 [INFO ] Starting round 4
+2021-02-23 22:33:46,997 [INFO ] ********************************************
+2021-02-23 22:33:46,997 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:46,997 [INFO ] {"ship":{"type":"ship","position":{"x":2196.249041797775,"y":211.96328113339783,"orientation":1.539542898383549},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,002 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-7.088221726139321E-9},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,009 [INFO ] Starting round 5
+2021-02-23 22:33:47,009 [INFO ] ********************************************
+2021-02-23 22:33:47,009 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,009 [INFO ] {"ship":{"type":"ship","position":{"x":2199.6863596630265,"y":321.90956277081034,"orientation":1.5395428912953302},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,015 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-1.5369450051462305E-10},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,021 [INFO ] Starting round 6
+2021-02-23 22:33:47,021 [INFO ] ********************************************
+2021-02-23 22:33:47,021 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,021 [INFO ] {"ship":{"type":"ship","position":{"x":2203.1236779302003,"y":431.8558443956573,"orientation":1.539542891141631},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,028 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.4019462309634103E-12},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,031 [INFO ] Starting round 7
+2021-02-23 22:33:47,032 [INFO ] ********************************************
+2021-02-23 22:33:47,032 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,032 [INFO ] {"ship":{"type":"ship","position":{"x":2206.5609962060926,"y":541.8021260202318,"orientation":1.5395428911382336},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,039 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.044010897462027E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,042 [INFO ] Starting round 8
+2021-02-23 22:33:47,042 [INFO ] ********************************************
+2021-02-23 22:33:47,042 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,042 [INFO ] {"ship":{"type":"ship","position":{"x":2209.998314482194,"y":651.7484076448022,"orientation":1.5395428911379228},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,048 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.496089663998683E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,050 [INFO ] Starting round 9
+2021-02-23 22:33:47,051 [INFO ] ********************************************
+2021-02-23 22:33:47,052 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,052 [INFO ] {"ship":{"type":"ship","position":{"x":2213.435632758304,"y":761.6946892693727,"orientation":1.5395428911380782},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,057 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.531178125772564E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,060 [INFO ] Starting round 10
+2021-02-23 22:33:47,061 [INFO ] ********************************************
+2021-02-23 22:33:47,061 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,061 [INFO ] {"ship":{"type":"ship","position":{"x":2216.872951034398,"y":871.6409708939432,"orientation":1.5395428911382336},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,066 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.056584967982828E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,068 [INFO ] Starting round 11
+2021-02-23 22:33:47,069 [INFO ] ********************************************
+2021-02-23 22:33:47,069 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,069 [INFO ] {"ship":{"type":"ship","position":{"x":2220.3102693104993,"y":981.5872525185137,"orientation":1.5395428911379228},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,074 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.4819544948346702E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,076 [INFO ] Starting round 12
+2021-02-23 22:33:47,076 [INFO ] ********************************************
+2021-02-23 22:33:47,076 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,076 [INFO ] {"ship":{"type":"ship","position":{"x":2223.7475875866094,"y":1091.5335341430841,"orientation":1.5395428911380782},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,081 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.5226481889680182E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,084 [INFO ] Starting round 13
+2021-02-23 22:33:47,084 [INFO ] ********************************************
+2021-02-23 22:33:47,084 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,084 [INFO ] {"ship":{"type":"ship","position":{"x":2227.184905862703,"y":1201.4798157676546,"orientation":1.5395428911382336},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,089 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.0740189300437646E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,091 [INFO ] Starting round 14
+2021-02-23 22:33:47,093 [INFO ] ********************************************
+2021-02-23 22:33:47,093 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,093 [INFO ] {"ship":{"type":"ship","position":{"x":2230.6222241388045,"y":1311.426097392225,"orientation":1.5395428911379228},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,100 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.4618257367854347E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,102 [INFO ] Starting round 15
+2021-02-23 22:33:47,103 [INFO ] ********************************************
+2021-02-23 22:33:47,103 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,103 [INFO ] {"ship":{"type":"ship","position":{"x":2234.0595424149146,"y":1421.3723790167955,"orientation":1.5395428911380782},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,108 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.5102092669650167E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,111 [INFO ] Starting round 16
+2021-02-23 22:33:47,111 [INFO ] ********************************************
+2021-02-23 22:33:47,111 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,111 [INFO ] {"ship":{"type":"ship","position":{"x":2237.4968606910084,"y":1531.318660641366,"orientation":1.5395428911382336},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,115 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.1000917509072465E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,117 [INFO ] Starting round 17
+2021-02-23 22:33:47,118 [INFO ] ********************************************
+2021-02-23 22:33:47,118 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,118 [INFO ] {"ship":{"type":"ship","position":{"x":2240.93417896711,"y":1641.2649422659365,"orientation":1.5395428911379228},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,121 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.431026705417602E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,124 [INFO ] Starting round 18
+2021-02-23 22:33:47,124 [INFO ] ********************************************
+2021-02-23 22:33:47,124 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,124 [INFO ] {"ship":{"type":"ship","position":{"x":2244.37149724322,"y":1751.211223890507,"orientation":1.539542891138056},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,128 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.49055771718926E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,131 [INFO ] Starting round 19
+2021-02-23 22:33:47,132 [INFO ] ********************************************
+2021-02-23 22:33:47,132 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,132 [INFO ] {"ship":{"type":"ship","position":{"x":2247.8088155193204,"y":1861.1575055150774,"orientation":1.5395428911382114},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,136 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.0759767449541E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,138 [INFO ] Starting round 20
+2021-02-23 22:33:47,138 [INFO ] ********************************************
+2021-02-23 22:33:47,138 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,138 [INFO ] {"ship":{"type":"ship","position":{"x":2251.2461337954255,"y":1971.103787139648,"orientation":1.5395428911379005},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,142 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.4928731693844735E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,144 [INFO ] Starting round 21
+2021-02-23 22:33:47,144 [INFO ] ********************************************
+2021-02-23 22:33:47,144 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,144 [INFO ] {"ship":{"type":"ship","position":{"x":2254.6834520715356,"y":2081.0500687642184,"orientation":1.539542891138056},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,148 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.656595756442916E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,151 [INFO ] Starting round 22
+2021-02-23 22:33:47,151 [INFO ] ********************************************
+2021-02-23 22:33:47,151 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,151 [INFO ] {"ship":{"type":"ship","position":{"x":2258.120770347636,"y":2190.996350388789,"orientation":1.5395428911382114},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,157 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-2.904930537742997E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,159 [INFO ] Starting round 23
+2021-02-23 22:33:47,160 [INFO ] ********************************************
+2021-02-23 22:33:47,160 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,160 [INFO ] {"ship":{"type":"ship","position":{"x":2261.558088623741,"y":2300.9426320133593,"orientation":1.5395428911379228},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,165 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.688498766706647E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,168 [INFO ] Starting round 24
+2021-02-23 22:33:47,168 [INFO ] ********************************************
+2021-02-23 22:33:47,168 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,168 [INFO ] {"ship":{"type":"ship","position":{"x":2264.995406899851,"y":2410.88891363793,"orientation":1.5395428911381004},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,173 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.8758081663998086E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,176 [INFO ] Starting round 25
+2021-02-23 22:33:47,177 [INFO ] ********************************************
+2021-02-23 22:33:47,177 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,177 [INFO ] {"ship":{"type":"ship","position":{"x":2268.4327251759355,"y":2520.8351952625003,"orientation":1.539542891138278},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,181 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.0774133326105234E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,184 [INFO ] Starting round 26
+2021-02-23 22:33:47,185 [INFO ] ********************************************
+2021-02-23 22:33:47,185 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,185 [INFO ] {"ship":{"type":"ship","position":{"x":2271.8700434520306,"y":2630.7814768870708,"orientation":1.5395428911379672},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,190 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.119471626385608E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,193 [INFO ] Starting round 27
+2021-02-23 22:33:47,193 [INFO ] ********************************************
+2021-02-23 22:33:47,193 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,193 [INFO ] {"ship":{"type":"ship","position":{"x":2275.3073617281407,"y":2740.7277585116412,"orientation":1.5395428911380782},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,197 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.301074086528639E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,200 [INFO ] Starting round 28
+2021-02-23 22:33:47,200 [INFO ] ********************************************
+2021-02-23 22:33:47,200 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,200 [INFO ] {"ship":{"type":"ship","position":{"x":2278.7446800042394,"y":2850.6740401362117,"orientation":1.5395428911382114},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,204 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":-3,"ydistance":-1},{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":2,"type":"OAR"}]
+2021-02-23 22:33:47,208 [INFO ] Starting round 29
+2021-02-23 22:33:47,208 [INFO ] ********************************************
+2021-02-23 22:33:47,208 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,208 [INFO ] {"ship":{"type":"ship","position":{"x":2332.480839415442,"y":2901.9524669837515,"orientation":-0.031253435656683135},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,213 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"}]
+2021-02-23 22:33:47,216 [INFO ] Starting round 30
+2021-02-23 22:33:47,216 [INFO ] ********************************************
+2021-02-23 22:33:47,216 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,216 [INFO ] {"ship":{"type":"ship","position":{"x":2383.759266262982,"y":2848.2163075725493,"orientation":-1.6020497624515773},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,221 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":3,"ydistance":1},{"sailorId":0,"type":"TURN","rotation":-0.05363474177914481},{"sailorId":1,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"MOVING","xdistance":-1,"ydistance":2},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,224 [INFO ] Starting round 31
+2021-02-23 22:33:47,224 [INFO ] ********************************************
+2021-02-23 22:33:47,224 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,224 [INFO ] {"ship":{"type":"ship","position":{"x":2377.405278308795,"y":2738.4131803525206,"orientation":-1.6556845042307289},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,228 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-0.002140658467683088},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,231 [INFO ] Starting round 32
+2021-02-23 22:33:47,231 [INFO ] ********************************************
+2021-02-23 22:33:47,231 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,231 [INFO ] {"ship":{"type":"ship","position":{"x":2367.962657248614,"y":2628.8192376030656,"orientation":-1.6578251626984153},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,234 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-9.279364654439043E-5},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,237 [INFO ] Starting round 33
+2021-02-23 22:33:47,237 [INFO ] ********************************************
+2021-02-23 22:33:47,238 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,238 [INFO ] {"ship":{"type":"ship","position":{"x":2358.396531808527,"y":2519.235985071565,"orientation":-1.6579179563449598},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,242 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-4.400135848914109E-6},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,245 [INFO ] Starting round 34
+2021-02-23 22:33:47,245 [INFO ] ********************************************
+2021-02-23 22:33:47,245 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,245 [INFO ] {"ship":{"type":"ship","position":{"x":2348.8250325388753,"y":2409.653201744478,"orientation":-1.6579223564808154},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,249 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-2.3026981713301901E-7},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,252 [INFO ] Starting round 35
+2021-02-23 22:33:47,252 [INFO ] ********************************************
+2021-02-23 22:33:47,252 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,252 [INFO ] {"ship":{"type":"ship","position":{"x":2339.2532772781424,"y":2300.0704407771223,"orientation":-1.6579225867506409},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,257 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-1.3443723216870754E-8},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,259 [INFO ] Starting round 36
+2021-02-23 22:33:47,259 [INFO ] ********************************************
+2021-02-23 22:33:47,259 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,259 [INFO ] {"ship":{"type":"ship","position":{"x":2329.6815085452067,"y":2190.4876809865277,"orientation":-1.6579226001943537},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,263 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-8.874168861880266E-10},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,264 [INFO ] Starting round 37
+2021-02-23 22:33:47,265 [INFO ] ********************************************
+2021-02-23 22:33:47,265 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,265 [INFO ] {"ship":{"type":"ship","position":{"x":2320.109739020167,"y":2080.9049212651207,"orientation":-1.6579226010817771},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,268 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-6.740542486879198E-11},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,270 [INFO ] Starting round 38
+2021-02-23 22:33:47,270 [INFO ] ********************************************
+2021-02-23 22:33:47,270 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,270 [INFO ] {"ship":{"type":"ship","position":{"x":2310.5379694423636,"y":1971.3221615483224,"orientation":-1.6579226011491899},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,273 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-5.8874052950669186E-12},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,274 [INFO ] Starting round 39
+2021-02-23 22:33:47,275 [INFO ] ********************************************
+2021-02-23 22:33:47,275 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,275 [INFO ] {"ship":{"type":"ship","position":{"x":2300.9661998605097,"y":1861.7394018318782,"orientation":-1.657922601155074},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,278 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-6.242836025715769E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,279 [INFO ] Starting round 40
+2021-02-23 22:33:47,279 [INFO ] ********************************************
+2021-02-23 22:33:47,279 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,279 [INFO ] {"ship":{"type":"ship","position":{"x":2291.3944302782993,"y":1752.1566421154694,"orientation":-1.6579226011556958},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,282 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-2.897327876269628E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,284 [INFO ] Starting round 41
+2021-02-23 22:33:47,284 [INFO ] ********************************************
+2021-02-23 22:33:47,284 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,284 [INFO ] {"ship":{"type":"ship","position":{"x":2281.822660696029,"y":1642.5738823990605,"orientation":-1.6579226011559844},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,287 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.2582069190930464E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,288 [INFO ] Starting round 42
+2021-02-23 22:33:47,289 [INFO ] ********************************************
+2021-02-23 22:33:47,289 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,289 [INFO ] {"ship":{"type":"ship","position":{"x":2272.2508911137575,"y":1532.9911226826516,"orientation":-1.6579226011558512},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,291 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-4.050656219091384E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,293 [INFO ] Starting round 43
+2021-02-23 22:33:47,293 [INFO ] ********************************************
+2021-02-23 22:33:47,293 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,293 [INFO ] {"ship":{"type":"ship","position":{"x":2262.679121531471,"y":1423.4083629662427,"orientation":-1.657922601156251},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,296 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":-3,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":2},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":2,"type":"OAR"}]
+2021-02-23 22:33:47,297 [INFO ] Starting round 44
+2021-02-23 22:33:47,298 [INFO ] ********************************************
+2021-02-23 22:33:47,298 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,298 [INFO ] {"ship":{"type":"ship","position":{"x":2309.983040517031,"y":1366.1423945658728,"orientation":-0.08712627436135698},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,301 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":3,"ydistance":-1},{"sailorId":0,"type":"TURN","rotation":0.6762323823298968},{"sailorId":1,"type":"MOVING","xdistance":-1,"ydistance":-2},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,303 [INFO ] Starting round 45
+2021-02-23 22:33:47,303 [INFO ] ********************************************
+2021-02-23 22:33:47,303 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,303 [INFO ] {"ship":{"type":"ship","position":{"x":2414.607970574623,"y":1392.5911916126577,"orientation":0.5891061079685395},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,306 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":0.02512388786131346},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,307 [INFO ] Starting round 46
+2021-02-23 22:33:47,308 [INFO ] ********************************************
+2021-02-23 22:33:47,308 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,308 [INFO ] {"ship":{"type":"ship","position":{"x":2505.296593787512,"y":1454.8401853953967,"orientation":0.6142299958298508},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,310 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":0.0010503388830445872},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,312 [INFO ] Starting round 47
+2021-02-23 22:33:47,313 [INFO ] ********************************************
+2021-02-23 22:33:47,313 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,313 [INFO ] {"ship":{"type":"ship","position":{"x":2595.1575378508364,"y":1518.2831489118832,"orientation":0.6152803347128971},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,315 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":4.787688366047368E-5},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,317 [INFO ] Starting round 48
+2021-02-23 22:33:47,317 [INFO ] ********************************************
+2021-02-23 22:33:47,317 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,317 [INFO ] {"ship":{"type":"ship","position":{"x":2684.9833172129274,"y":1581.7758993616906,"orientation":0.6153282115965547},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,320 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":2.398866243785576E-6},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,322 [INFO ] Starting round 49
+2021-02-23 22:33:47,322 [INFO ] ********************************************
+2021-02-23 22:33:47,322 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,322 [INFO ] {"ship":{"type":"ship","position":{"x":2774.807486044238,"y":1645.2709282518213,"orientation":0.6153306104627937},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,324 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.3343396058737713E-7},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,326 [INFO ] Starting round 50
+2021-02-23 22:33:47,327 [INFO ] ********************************************
+2021-02-23 22:33:47,327 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,327 [INFO ] {"ship":{"type":"ship","position":{"x":2864.6315737620403,"y":1708.7660718902484,"orientation":0.6153307438967576},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,329 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":8.34067266869616E-9},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,331 [INFO ] Starting round 51
+2021-02-23 22:33:47,331 [INFO ] ********************************************
+2021-02-23 22:33:47,331 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,331 [INFO ] {"ship":{"type":"ship","position":{"x":2954.4556569391284,"y":1772.2612219522475,"orientation":0.6153307522374302},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,335 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":5.948598947304691E-10},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,337 [INFO ] Starting round 52
+2021-02-23 22:33:47,337 [INFO ] ********************************************
+2021-02-23 22:33:47,337 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,337 [INFO ] {"ship":{"type":"ship","position":{"x":3044.2797398300754,"y":1835.75637241904,"orientation":0.6153307528322877},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,339 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":4.932868370593166E-11},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,341 [INFO ] Starting round 53
+2021-02-23 22:33:47,341 [INFO ] ********************************************
+2021-02-23 22:33:47,341 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,341 [INFO ] {"ship":{"type":"ship","position":{"x":3134.1038227003983,"y":1899.2515229150065,"orientation":0.6153307528816149},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,344 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":5.129676905891602E-12},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,345 [INFO ] Starting round 54
+2021-02-23 22:33:47,346 [INFO ] ********************************************
+2021-02-23 22:33:47,346 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,346 [INFO ] {"ship":{"type":"ship","position":{"x":3223.9279055689776,"y":1962.7466734134382,"orientation":0.6153307528867441},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,348 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":5.813895411772654E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,350 [INFO ] Starting round 55
+2021-02-23 22:33:47,350 [INFO ] ********************************************
+2021-02-23 22:33:47,350 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,350 [INFO ] {"ship":{"type":"ship","position":{"x":3313.7519884373733,"y":2026.2418239121284,"orientation":0.6153307528873214},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,352 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":3.1478587006352677E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,354 [INFO ] Starting round 56
+2021-02-23 22:33:47,354 [INFO ] ********************************************
+2021-02-23 22:33:47,354 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,354 [INFO ] {"ship":{"type":"ship","position":{"x":3403.5760713057543,"y":2089.736974410859,"orientation":0.6153307528876323},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,357 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-2.948138185283656E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,358 [INFO ] Starting round 57
+2021-02-23 22:33:47,359 [INFO ] ********************************************
+2021-02-23 22:33:47,359 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,359 [INFO ] {"ship":{"type":"ship","position":{"x":3493.4001541741354,"y":2153.2321249095976,"orientation":0.6153307528873325},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,361 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":9.232482746457112E-14},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,362 [INFO ] Starting round 58
+2021-02-23 22:33:47,363 [INFO ] ********************************************
+2021-02-23 22:33:47,363 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,363 [INFO ] {"ship":{"type":"ship","position":{"x":3583.2242370425165,"y":2216.727275408336,"orientation":0.6153307528874213},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,365 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":-3,"ydistance":1},{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":2},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":2,"type":"OAR"}]
+2021-02-23 22:33:47,367 [INFO ] Starting round 59
+2021-02-23 22:33:47,367 [INFO ] ********************************************
+2021-02-23 22:33:47,367 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,367 [INFO ] {"ship":{"type":"ship","position":{"x":3596.370064881776,"y":2289.8315782820077,"orientation":2.186127079682312},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,369 [INFO ] Player response:[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:47,371 [INFO ] Starting round 60
+2021-02-23 22:33:47,371 [INFO ] ********************************************
+2021-02-23 22:33:47,371 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,371 [INFO ] {"ship":{"type":"ship","position":{"x":3548.7866530988813,"y":2312.0647372171106,"orientation":3.2333246308788888},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,373 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":3,"ydistance":-1},{"sailorId":0,"type":"TURN","rotation":0.5449518574013148},{"sailorId":1,"type":"MOVING","xdistance":-1,"ydistance":-2},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,375 [INFO ] Starting round 61
+2021-02-23 22:33:47,375 [INFO ] ********************************************
+2021-02-23 22:33:47,375 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,375 [INFO ] {"ship":{"type":"ship","position":{"x":3447.1639034674595,"y":2273.641472695295,"orientation":3.778276488280199},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,378 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":0.019409203345432127},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,379 [INFO ] Starting round 62
+2021-02-23 22:33:47,379 [INFO ] ********************************************
+2021-02-23 22:33:47,379 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,380 [INFO ] {"ship":{"type":"ship","position":{"x":3359.349782636257,"y":2207.3972248777463,"orientation":3.7976856916256208},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,383 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":7.640026154654755E-4},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,385 [INFO ] Starting round 63
+2021-02-23 22:33:47,385 [INFO ] ********************************************
+2021-02-23 22:33:47,385 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,385 [INFO ] {"ship":{"type":"ship","position":{"x":3272.2131897922472,"y":2140.2614400902594,"orientation":3.798449694241104},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,387 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":3.2616747344636846E-5},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,389 [INFO ] Starting round 64
+2021-02-23 22:33:47,389 [INFO ] ********************************************
+2021-02-23 22:33:47,389 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,389 [INFO ] {"ship":{"type":"ship","position":{"x":3185.1035882165197,"y":2073.0906330961116,"orientation":3.7984823109884513},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,391 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.5210603301425735E-6},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,393 [INFO ] Starting round 65
+2021-02-23 22:33:47,393 [INFO ] ********************************************
+2021-02-23 22:33:47,393 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,393 [INFO ] {"ship":{"type":"ship","position":{"x":3097.9951436255183,"y":2005.9183256998774,"orientation":3.7984838320487957},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,396 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":7.81505474330565E-8},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,398 [INFO ] Starting round 66
+2021-02-23 22:33:47,398 [INFO ] ********************************************
+2021-02-23 22:33:47,398 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,398 [INFO ] {"ship":{"type":"ship","position":{"x":3010.8867532304976,"y":1938.7459480228297,"orientation":3.7984839101993484},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,401 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":4.469913652622201E-9},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,402 [INFO ] Starting round 67
+2021-02-23 22:33:47,402 [INFO ] ********************************************
+2021-02-23 22:33:47,402 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,402 [INFO ] {"ship":{"type":"ship","position":{"x":2923.7783656351316,"y":1871.5735667152169,"orientation":3.798483914669284},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,405 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":2.884053320130326E-10},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,406 [INFO ] Starting round 68
+2021-02-23 22:33:47,406 [INFO ] ********************************************
+2021-02-23 22:33:47,406 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,406 [INFO ] {"ship":{"type":"ship","position":{"x":2836.669978200983,"y":1804.4011851985376,"orientation":3.7984839149576755},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,409 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":2.1199787929479737E-11},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,410 [INFO ] Starting round 69
+2021-02-23 22:33:47,410 [INFO ] ********************************************
+2021-02-23 22:33:47,410 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,410 [INFO ] {"ship":{"type":"ship","position":{"x":2749.5615907773226,"y":1737.2288036682585,"orientation":3.7984839149788585},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,413 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.945335384329221E-12},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,415 [INFO ] Starting round 70
+2021-02-23 22:33:47,415 [INFO ] ********************************************
+2021-02-23 22:33:47,415 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,415 [INFO ] {"ship":{"type":"ship","position":{"x":2662.4532033544456,"y":1670.0564221369634,"orientation":3.7984839149808125},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,418 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":4.6015572645591905E-14},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,420 [INFO ] Starting round 71
+2021-02-23 22:33:47,420 [INFO ] ********************************************
+2021-02-23 22:33:47,420 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,420 [INFO ] {"ship":{"type":"ship","position":{"x":2575.344815931632,"y":1602.8840406055845,"orientation":3.798483914980857},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,423 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":9.14363961769777E-14},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,425 [INFO ] Starting round 72
+2021-02-23 22:33:47,425 [INFO ] ********************************************
+2021-02-23 22:33:47,425 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,425 [INFO ] {"ship":{"type":"ship","position":{"x":2488.236428508819,"y":1535.7116590741891,"orientation":3.7984839149809457},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,427 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":1.2741165011998241E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,430 [INFO ] Starting round 73
+2021-02-23 22:33:47,430 [INFO ] ********************************************
+2021-02-23 22:33:47,430 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,430 [INFO ] {"ship":{"type":"ship","position":{"x":2401.1280410860054,"y":1468.5392775427938,"orientation":3.798483914981079},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,432 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":2.2674351844983473E-14},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,434 [INFO ] Starting round 74
+2021-02-23 22:33:47,435 [INFO ] ********************************************
+2021-02-23 22:33:47,435 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,435 [INFO ] {"ship":{"type":"ship","position":{"x":2314.019653663198,"y":1401.3668960113894,"orientation":3.7984839149811234},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,437 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":-3,"ydistance":-1},{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":1,"type":"OAR"}]
+2021-02-23 22:33:47,439 [INFO ] Starting round 75
+2021-02-23 22:33:47,439 [INFO ] ********************************************
+2021-02-23 22:33:47,439 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,439 [INFO ] {"ship":{"type":"ship","position":{"x":2262.001423255189,"y":1394.1144386103701,"orientation":2.7512863637845464},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,441 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":3,"ydistance":1},{"sailorId":0,"type":"TURN","rotation":-0.308052572286037},{"sailorId":1,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,444 [INFO ] Starting round 76
+2021-02-23 22:33:47,444 [INFO ] ********************************************
+2021-02-23 22:33:47,444 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,444 [INFO ] {"ship":{"type":"ship","position":{"x":2168.183703914657,"y":1450.7082545896603,"orientation":2.4432337914984914},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,446 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-0.0124235344692453},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,449 [INFO ] Starting round 77
+2021-02-23 22:33:47,449 [INFO ] ********************************************
+2021-02-23 22:33:47,449 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,449 [INFO ] {"ship":{"type":"ship","position":{"x":2084.3719471652707,"y":1521.9503335636423,"orientation":2.430810257029228},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,451 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-5.492459647922589E-4},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,454 [INFO ] Starting round 78
+2021-02-23 22:33:47,454 [INFO ] ********************************************
+2021-02-23 22:33:47,454 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,454 [INFO ] {"ship":{"type":"ship","position":{"x":2001.0277814044741,"y":1593.7399548851267,"orientation":2.4302610110644296},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,456 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-2.661234653319937E-5},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,458 [INFO ] Starting round 79
+2021-02-23 22:33:47,458 [INFO ] ********************************************
+2021-02-23 22:33:47,458 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,458 [INFO ] {"ship":{"type":"ship","position":{"x":1917.7044760397475,"y":1665.553789084272,"orientation":2.430234398717881},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,460 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-1.4262805679510619E-6},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,463 [INFO ] Starting round 80
+2021-02-23 22:33:47,463 [INFO ] ********************************************
+2021-02-23 22:33:47,463 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,463 [INFO ] {"ship":{"type":"ship","position":{"x":1834.3821865051034,"y":1737.3688019068218,"orientation":2.4302329724373206},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,465 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-8.551667506064977E-8},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,467 [INFO ] Starting round 81
+2021-02-23 22:33:47,467 [INFO ] ********************************************
+2021-02-23 22:33:47,467 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,467 [INFO ] {"ship":{"type":"ship","position":{"x":1751.05995173678,"y":1809.1838782711372,"orientation":2.43023288692066},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,470 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-5.8182622411007844E-9},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,472 [INFO ] Starting round 82
+2021-02-23 22:33:47,472 [INFO ] ********************************************
+2021-02-23 22:33:47,472 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,472 [INFO ] {"ship":{"type":"ship","position":{"x":1667.7377202766872,"y":1880.9989584737712,"orientation":2.430232881102381},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,475 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-4.575010151266952E-10},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,477 [INFO ] Starting round 83
+2021-02-23 22:33:47,477 [INFO ] ********************************************
+2021-02-23 22:33:47,477 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,477 [INFO ] {"ship":{"type":"ship","position":{"x":1584.4154890438672,"y":1952.8140389400946,"orientation":2.4302328806448803},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,479 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-4.256123231161301E-11},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,481 [INFO ] Starting round 84
+2021-02-23 22:33:47,481 [INFO ] ********************************************
+2021-02-23 22:33:47,481 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,482 [INFO ] {"ship":{"type":"ship","position":{"x":1501.0932578291515,"y":2024.6291194274231,"orientation":2.4302328806023366},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,484 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-4.848681672697519E-12},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,486 [INFO ] Starting round 85
+2021-02-23 22:33:47,486 [INFO ] ********************************************
+2021-02-23 22:33:47,486 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,486 [INFO ] {"ship":{"type":"ship","position":{"x":1417.771026616151,"y":2096.444199916741,"orientation":2.430232880597496},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,488 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-5.56455994802608E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,490 [INFO ] Starting round 86
+2021-02-23 22:33:47,490 [INFO ] ********************************************
+2021-02-23 22:33:47,490 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,490 [INFO ] {"ship":{"type":"ship","position":{"x":1334.448795403347,"y":2168.259280406287,"orientation":2.4302328805969187},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,493 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-8.905669666998769E-14},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,495 [INFO ] Starting round 87
+2021-02-23 22:33:47,495 [INFO ] ********************************************
+2021-02-23 22:33:47,495 [INFO ] 268084911 - nextRound
+2021-02-23 22:33:47,495 [INFO ] {"ship":{"type":"ship","position":{"x":1251.1265641905597,"y":2240.0743608958555,"orientation":2.43023288059683},"name":"oceanshadows","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"type":"oar"},{"x":0,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":1,"type":"rudder"}],"life":300,"shape":{"type":"rectangle","width":3.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-02-23 22:33:47,497 [INFO ] Player response:[{"sailorId":0,"type":"TURN","rotation":-3.2801959676978844E-13},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"}]
+2021-02-23 22:33:47,499 [INFO ] Game over
+2021-02-23 22:33:47,499 [INFO ] Creating team's logs files
+2021-02-23 22:33:47,502 [INFO ] Game scores: {oceanshadows=213}

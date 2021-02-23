@@ -1,0 +1,100 @@
+INITIALIZATION PROCESS >>>
+DONE
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 3108.3431266815815
+This round angle: -0.04780387637391925
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":-1},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"MOVING","xdistance":0,
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2998.473396677882
+This round angle: -0.04955691062109158
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2888.613582323077
+This round angle: -0.051443293911376475
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2778.7648596773583
+This round angle: -0.05347882802416892
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2668.9285982907254
+This round angle: -0.055681911383243854
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2559.1064026668487
+This round angle: -0.05807409464743718
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2449.300164856653
+This round angle: -0.060680785145722727
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2339.512131826463
+This round angle: -0.063532148785999
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2229.74499267508
+This round angle: -0.06666427708432932
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2120.00199286604
+This round angle: -0.070120714760606
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 2010.2870857547605
+This round angle: -0.0739544846680078
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 1900.6051364101781
+This round angle: -0.07823080937642013
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 1790.9622000324598
+This round angle: -0.08303082533763417
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+NEXT INPUT >>> 
+Reaching the checkpoint: {"position":{"x":2279.6317218053687, "y":2879.047015765768, "orientation":0.0}, "shape":{"type": "circle","radius":100.0}}
+Distance to checkpoint: 1681.365908819806
+This round angle: -0.08845673808785892
+This round sailor side: [2, 2]
+Rudder? false
+OUTPUT >>> [{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
