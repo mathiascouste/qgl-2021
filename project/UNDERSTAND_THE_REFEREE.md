@@ -54,7 +54,7 @@ La vitesse linéaire est la combinaison des vitesses (vecteurs) suivantes:
 #### Vitesse du vent:
 
 -   Direction: direction du bateau
--   Valeur: (nombre de voile ouverte / nombre de voile) x vitesse du vent x cosinus(angle entre la direction du vent et la direction du bateau)
+-   Valeur: (nombre de voile ouverte / nombre de voile) x force du vent x cosinus(angle entre la direction du vent et la direction du bateau)
     
 
 #### Vitesse du courant:
