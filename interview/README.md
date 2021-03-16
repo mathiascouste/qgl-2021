@@ -20,7 +20,7 @@ A l'heure prévue, l'ensemble des membres de l'équipe doivent être connecté d
 
 L'entretien dure 18 minutes : 13 minutes de présentation et 5 minutes de questions.
 
-Des slides sont les bienvenues - si vous pensez pouvoir présenter sans ou avec un autre support, libre à vous. Mais attention : il y en a qui ont essayé, ils ont eu des problèmes.
+Des slides sont les bienvenues et sont même attendues - si vous pensez pouvoir présenter sans ou avec un autre support, libre à vous. Mais attention : il y en a qui ont essayé, ils ont eu des problèmes.
 
 ## Dates et horaires de passage
 
