@@ -1,0 +1,200 @@
+
+############ Next round ############
+
+Ship : Pos{x=2852.173913043478, y=1978.827361563518, orientation=-1.0297442586766543}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":1},{"sailorId":2,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":3,"type":"MOVING","xdistance":1,"ydistance":2},{"sailorId":
+
+############ Next round ############
+
+Ship : Pos{x=2937.1551954036277, y=1837.3947569476659, orientation=-1.0297442586766543}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3026.9025113965713, y=1698.9765375154054, orientation=-0.9606897158468318}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3121.659435483648, y=1563.8984085074255, orientation=-0.9574100122768291}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3216.651482889086, y=1428.9854333619596, orientation=-0.9572379986074541}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3311.655921798555, y=1294.0811836614164, orientation=-0.9572279312766406}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3406.6610910611253, y=1159.1774483039794, orientation=-0.95722726487645}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3501.666309023369, y=1024.2737472430128, orientation=-0.9572272154548943}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3596.671530352535, y=889.3700485531788, orientation=-0.9572272154548943}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3691.6767516817004, y=754.4663498633447, orientation=-0.9572272154548943}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3786.6819744180816, y=619.5626521645398, orientation=-0.9572271943814735}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3881.6871975950585, y=484.65895477602214, orientation=-0.9572272092826316}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=3976.6924197568665, y=349.7552566725848, orientation=-0.9572272092826316}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=4071.6976419186744, y=214.85155856914653, orientation=-0.9572272092826316}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"OAR"},{"sailorId":4,"t
+
+############ Next round ############
+
+Ship : Pos{x=4198.719169302039, y=149.97287089935676, orientation=0.02257355909072236}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=4363.612948988964, y=155.76786040388185, orientation=0.04793872223809378}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=4528.420069570455, y=163.7435353904952, orientation=0.04878225078041586}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=4693.223662961669, y=171.7918646145134, orientation=0.048812281892478264}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=4858.0271296973615, y=179.8427870395905, orientation=0.04881343218105099}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=5022.830591568497, y=187.8938090423698, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=5187.634053248045, y=195.94483496688002, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=5352.437514927594, y=203.99586089139024, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=5517.240976607142, y=212.04688681590045, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=5682.044438286691, y=220.09791274041066, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=5846.847899966239, y=228.14893866492088, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=6011.651361645788, y=236.1999645894311, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=6176.454823325336, y=244.2509905139413, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=6341.258285004885, y=252.30201643845152, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=6506.061746684433, y=260.35304236296173, orientation=0.04881347930266038}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=6670.865208304598, y=268.40406950307494, orientation=0.048813494203821244}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=6835.668669864184, y=276.4550978833459, orientation=0.048813494203821244}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=6987.899314237226, y=332.95133036727924, orientation=0.6681134651061164}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############
+
+Ship : Pos{x=7120.357863515458, y=441.8615623441106, orientation=0.7050081234959019}
+
+Output : {"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4
+
+############ Next round ############

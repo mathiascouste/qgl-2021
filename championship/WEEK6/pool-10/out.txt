@@ -1,0 +1,4698 @@
+2021-03-16 22:20:11,494 [INFO ] Game creation...
+2021-03-16 22:20:11,517 [INFO ] 1 players created!
+2021-03-16 22:20:11,540 [INFO ] Starting game
+2021-03-16 22:20:11,561 [INFO ] ********************************************
+2021-03-16 22:20:11,562 [INFO ] 599984672 - initGame
+2021-03-16 22:20:11,562 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":4036.4115963579497,"y":264.956362612613,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":6866.105430167673,"y":277.9420045045067,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":8019.417976524843,"y":1210.6559684684694,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":8100.5085279370105,"y":2245.8826013513526,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4652.274679791037,"y":2802.9983108108113,"orientation":0.0},"shape":{"type":"circle","radius":100.0}}]},"ship":{"type":"ship","position":{"x":2852.173913043478,"y":1978.827361563518,"orientation":-1.0297442586766543},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Edward Pouce"},{"x":0,"y":1,"id":1,"name":"Tom Teach"},{"x":0,"y":2,"id":2,"name":"Luffy Teach"},{"x":1,"y":0,"id":3,"name":"Tom Teach"},{"x":1,"y":1,"id":4,"name":"Luffy Teach"},{"x":1,"y":2,"id":5,"name":"Luffy Pouce"},{"x":2,"y":0,"id":6,"name":"Edward Pouce"},{"x":2,"y":1,"id":7,"name":"Luffy Teach"},{"x":2,"y":2,"id":8,"name":"Jack Pouce"},{"x":3,"y":0,"id":9,"name":"Jack Teach"},{"x":3,"y":1,"id":10,"name":"Jack Teach"},{"x":3,"y":2,"id":11,"name":"Edward Teach"}],"shipCount":1}
+SAILS: 1
+2021-03-16 22:20:11,594 [INFO ] Starting round 0
+2021-03-16 22:20:11,601 [INFO ] ********************************************
+2021-03-16 22:20:11,601 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,601 [INFO ] {"ship":{"type":"ship","position":{"x":2852.173913043478,"y":1978.827361563518,"orientation":-1.0297442586766543},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 2852.173913043478,
+  "y" : 1978.827361563518,
+  "orientation" : -1.0297442586766543
+}
+[ {
+  "sailorId" : 10,
+  "type" : "LIFT_SAIL"
+}, {
+  "sailorId" : 7,
+  "type" : "MOVING",
+  "xdistance" : 4,
+  "ydistance" : 0
+}, {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.06358942340607539
+}, {
+  "sailorId" : 4,
+  "type" : "MOVING",
+  "xdistance" : 3,
+  "ydistance" : 1
+}, {
+  "sailorId" : 0,
+  "type" : "MOVING",
+  "xdistance" : 4,
+  "ydistance" : 0
+}, {
+  "sailorId" : 2,
+  "type" : "MOVING",
+  "xdistance" : 5,
+  "ydistance" : 0
+}, {
+  "sailorId" : 1,
+  "type" : "MOVING",
+  "xdistance" : 5,
+  "ydistance" : 0
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,643 [INFO ] Player response:[ {
+  "sailorId" : 10,
+  "type" : "LIFT_SAIL"
+}, {
+  "sailorId" : 7,
+  "type" : "MOVING",
+  "xdistance" : 4,
+  "ydistance" : 0
+}, {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.06358942340607539
+}, {
+  "sailorId" : 4,
+  "type" : "MOVING",
+  "xdistance" : 3,
+  "ydistance" : 1
+}, {
+  "sailorId" : 0,
+  "type" : "MOVING",
+  "xdistance" : 4,
+  "ydistance" : 0
+}, {
+  "sailorId" : 2,
+  "type" : "MOVING",
+  "xdistance" : 5,
+  "ydistance" : 0
+}, {
+  "sailorId" : 1,
+  "type" : "MOVING",
+  "xdistance" : 5,
+  "ydistance" : 0
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,704 [INFO ] Starting round 1
+2021-03-16 22:20:11,705 [INFO ] ********************************************
+2021-03-16 22:20:11,705 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,705 [INFO ] {"ship":{"type":"ship","position":{"x":2972.6061506605565,"y":1844.3834131070882,"orientation":-0.6519955699115982},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 2972.6061506605565,
+  "y" : 1844.3834131070882,
+  "orientation" : -0.6519955699115982
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -0.3260555806635099
+}, {
+  "sailorId" : 1,
+  "type" : "MOVING",
+  "xdistance" : 0,
+  "ydistance" : -1
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,716 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -0.3260555806635099
+}, {
+  "sailorId" : 1,
+  "type" : "MOVING",
+  "xdistance" : 0,
+  "ydistance" : -1
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,739 [INFO ] Starting round 2
+2021-03-16 22:20:11,740 [INFO ] ********************************************
+2021-03-16 22:20:11,740 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,740 [INFO ] {"ship":{"type":"ship","position":{"x":3109.091443622401,"y":1700.5000848040588,"orientation":-0.9780511505751073},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3109.091443622401,
+  "y" : 1700.5000848040588,
+  "orientation" : -0.9780511505751073
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -0.01920724454682832
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,748 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -0.01920724454682832
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,772 [INFO ] Starting round 3
+2021-03-16 22:20:11,773 [INFO ] ********************************************
+2021-03-16 22:20:11,773 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,773 [INFO ] {"ship":{"type":"ship","position":{"x":3215.1260984585956,"y":1539.7965142778191,"orientation":-0.9972583951219334},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3215.1260984585956,
+  "y" : 1539.7965142778191,
+  "orientation" : -0.9972583951219334
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -0.0012322963290244211
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,781 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -0.0012322963290244211
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,797 [INFO ] Starting round 4
+2021-03-16 22:20:11,797 [INFO ] ********************************************
+2021-03-16 22:20:11,797 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,797 [INFO ] {"ship":{"type":"ship","position":{"x":3319.265069848826,"y":1378.367582858443,"orientation":-0.9984906914509568},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3319.265069848826,
+  "y" : 1378.367582858443,
+  "orientation" : -0.9984906914509568
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -9.027158955537204E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,803 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -9.027158955537204E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,818 [INFO ] Starting round 5
+2021-03-16 22:20:11,818 [INFO ] ********************************************
+2021-03-16 22:20:11,818 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,818 [INFO ] {"ship":{"type":"ship","position":{"x":3423.281169566054,"y":1216.8927773444696,"orientation":-0.9985809630405158},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3423.281169566054,
+  "y" : 1216.8927773444696,
+  "orientation" : -0.9985809630405158
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -7.733135657856068E-6
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,826 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -7.733135657856068E-6
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,841 [INFO ] Starting round 6
+2021-03-16 22:20:11,841 [INFO ] ********************************************
+2021-03-16 22:20:11,841 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,841 [INFO ] {"ship":{"type":"ship","position":{"x":3527.288165128823,"y":1055.414578253955,"orientation":-0.9985886961761699},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3527.288165128823,
+  "y" : 1055.414578253955,
+  "orientation" : -0.9985886961761699
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -7.977805175413465E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,849 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -7.977805175413465E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,867 [INFO ] Starting round 7
+2021-03-16 22:20:11,867 [INFO ] ********************************************
+2021-03-16 22:20:11,867 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,867 [INFO ] {"ship":{"type":"ship","position":{"x":3631.2943684344605,"y":893.9360838845905,"orientation":-0.9985894939566893},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3631.2943684344605,
+  "y" : 893.9360838845905,
+  "orientation" : -0.9985894939566893
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.0343154229023825E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,875 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.0343154229023825E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,889 [INFO ] Starting round 8
+2021-03-16 22:20:11,889 [INFO ] ********************************************
+2021-03-16 22:20:11,889 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,889 [INFO ] {"ship":{"type":"ship","position":{"x":3735.3004880807152,"y":732.4575583352118,"orientation":-0.9985895973882304},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3735.3004880807152,
+  "y" : 732.4575583352118,
+  "orientation" : -0.9985895973882304
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.804165986191251E-8
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,897 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.804165986191251E-8
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,912 [INFO ] Starting round 9
+2021-03-16 22:20:11,914 [INFO ] ********************************************
+2021-03-16 22:20:11,914 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,914 [INFO ] {"ship":{"type":"ship","position":{"x":3839.306596458185,"y":570.9790285859398,"orientation":-0.9985896154298874},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3839.306596458185,
+  "y" : 570.9790285859398,
+  "orientation" : -0.9985896154298874
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -4.807613963591949E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,921 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -4.807613963591949E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,934 [INFO ] Starting round 10
+2021-03-16 22:20:11,934 [INFO ] ********************************************
+2021-03-16 22:20:11,934 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,934 [INFO ] {"ship":{"type":"ship","position":{"x":3943.312702718586,"y":409.5004980476332,"orientation":-0.9985896202374973},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 3943.312702718586,
+  "y" : 409.5004980476332,
+  "orientation" : -0.9985896202374973
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -2.712292024723975E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,941 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -2.712292024723975E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,956 [INFO ] Starting round 11
+2021-03-16 22:20:11,957 [INFO ] ********************************************
+2021-03-16 22:20:11,957 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,957 [INFO ] {"ship":{"type":"ship","position":{"x":4047.318808284322,"y":248.02196725042407,"orientation":-0.9985896229497944},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 4047.318808284322,
+  "y" : 248.02196725042407,
+  "orientation" : -0.9985896229497944
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.6950444684364999
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,962 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.6950444684364999
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,973 [INFO ] Starting round 12
+2021-03-16 22:20:11,973 [INFO ] ********************************************
+2021-03-16 22:20:11,973 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,973 [INFO ] {"ship":{"type":"ship","position":{"x":4208.608633299219,"y":162.30904461649382,"orientation":0.010614110845686364},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 4208.608633299219,
+  "y" : 162.30904461649382,
+  "orientation" : 0.010614110845686364
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.03287044466798151
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,980 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.03287044466798151
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:11,994 [INFO ] Starting round 13
+2021-03-16 22:20:11,994 [INFO ] ********************************************
+2021-03-16 22:20:11,994 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:11,994 [INFO ] {"ship":{"type":"ship","position":{"x":4423.500954884933,"y":168.08769191408706,"orientation":0.0434845555136679},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 4423.500954884933,
+  "y" : 168.08769191408706,
+  "orientation" : 0.0434845555136679
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.001459411725372382
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,000 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.001459411725372382
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,014 [INFO ] Starting round 14
+2021-03-16 22:20:12,016 [INFO ] ********************************************
+2021-03-16 22:20:12,016 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,016 [INFO ] {"ship":{"type":"ship","position":{"x":4638.242082429363,"y":177.58693367349267,"orientation":0.04494396723904063},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 4638.242082429363,
+  "y" : 177.58693367349267,
+  "orientation" : 0.04494396723904063
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 7.103645172150013E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,022 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 7.103645172150013E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,034 [INFO ] Starting round 15
+2021-03-16 22:20:12,036 [INFO ] ********************************************
+2021-03-16 22:20:12,036 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,036 [INFO ] {"ship":{"type":"ship","position":{"x":4852.974115023731,"y":187.25191243262816,"orientation":0.04501500369076223},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 4852.974115023731,
+  "y" : 187.25191243262816,
+  "orientation" : 0.04501500369076223
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 3.826455311390341E-6
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,041 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 3.826455311390341E-6
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,059 [INFO ] Starting round 16
+2021-03-16 22:20:12,059 [INFO ] ********************************************
+2021-03-16 22:20:12,059 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,059 [INFO ] {"ship":{"type":"ship","position":{"x":5067.705697639864,"y":196.924997258457,"orientation":0.045018830146073864},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5067.705697639864,
+  "y" : 196.924997258457,
+  "orientation" : 0.045018830146073864
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.3072660693283707E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,070 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.3072660693283707E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,083 [INFO ] Starting round 17
+2021-03-16 22:20:12,084 [INFO ] ********************************************
+2021-03-16 22:20:12,084 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,084 [INFO ] {"ship":{"type":"ship","position":{"x":5282.437255858676,"y":206.5985213401604,"orientation":0.04501906087268113},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5282.437255858676,
+  "y" : 206.5985213401604,
+  "orientation" : 0.04501906087268113
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.5798677472642923E-8
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,089 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.5798677472642923E-8
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,101 [INFO ] Starting round 18
+2021-03-16 22:20:12,101 [INFO ] ********************************************
+2021-03-16 22:20:12,101 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,101 [INFO ] {"ship":{"type":"ship","position":{"x":5497.168812595206,"y":216.2720721084108,"orientation":0.04501907667135877},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5497.168812595206,
+  "y" : 216.2720721084108,
+  "orientation" : 0.04501907667135877
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.2514819399290377E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,106 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.2514819399290377E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,115 [INFO ] Starting round 19
+2021-03-16 22:20:12,116 [INFO ] ********************************************
+2021-03-16 22:20:12,116 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,116 [INFO ] {"ship":{"type":"ship","position":{"x":5711.900369229238,"y":225.94562472201298,"orientation":0.04501907792284102},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5711.900369229238,
+  "y" : 225.94562472201298,
+  "orientation" : 0.04501907792284102
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.175784001689959E-10
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,122 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.175784001689959E-10
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,134 [INFO ] Starting round 20
+2021-03-16 22:20:12,136 [INFO ] ********************************************
+2021-03-16 22:20:12,136 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,136 [INFO ] {"ship":{"type":"ship","position":{"x":5926.631925855041,"y":235.61917748375285,"orientation":0.04501907804041919},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5926.631925855041,
+  "y" : 235.61917748375285,
+  "orientation" : 0.04501907804041919
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.357184757700997E-11
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,141 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.357184757700997E-11
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,155 [INFO ] Starting round 21
+2021-03-16 22:20:12,156 [INFO ] ********************************************
+2021-03-16 22:20:12,156 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,156 [INFO ] {"ship":{"type":"ship","position":{"x":6141.363482480058,"y":245.2927302596786,"orientation":0.045019078053990975},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6141.363482480058,
+  "y" : 245.2927302596786,
+  "orientation" : 0.045019078053990975
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.0310707576709957E-12
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,161 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.0310707576709957E-12
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,175 [INFO ] Starting round 22
+2021-03-16 22:20:12,176 [INFO ] ********************************************
+2021-03-16 22:20:12,176 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,176 [INFO ] {"ship":{"type":"ship","position":{"x":6356.095039104959,"y":254.96628303729128,"orientation":0.04501907805602199},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6356.095039104959,
+  "y" : 254.96628303729128,
+  "orientation" : 0.04501907805602199
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 4.300812363844239E-13
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,179 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 4.300812363844239E-13
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,193 [INFO ] Starting round 23
+2021-03-16 22:20:12,193 [INFO ] ********************************************
+2021-03-16 22:20:12,193 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,193 [INFO ] {"ship":{"type":"ship","position":{"x":6570.826595729843,"y":264.6398358151698,"orientation":0.0450190780564522},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6570.826595729843,
+  "y" : 264.6398358151698,
+  "orientation" : 0.0450190780564522
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.541805777501915E-13
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,197 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 1.541805777501915E-13
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,209 [INFO ] Starting round 24
+2021-03-16 22:20:12,209 [INFO ] ********************************************
+2021-03-16 22:20:12,209 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,209 [INFO ] {"ship":{"type":"ship","position":{"x":6785.558152354726,"y":274.31338859311137,"orientation":0.045019078056606245},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6785.558152354726,
+  "y" : 274.31338859311137,
+  "orientation" : 0.045019078056606245
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.6041364392435831
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,213 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.6041364392435831
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,221 [INFO ] Starting round 25
+2021-03-16 22:20:12,221 [INFO ] ********************************************
+2021-03-16 22:20:12,221 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,221 [INFO ] {"ship":{"type":"ship","position":{"x":6981.693932640514,"y":344.05755297354494,"orientation":0.6491555173001908},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6981.693932640514,
+  "y" : 344.05755297354494,
+  "orientation" : 0.6491555173001908
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.04662167547677327
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,226 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.04662167547677327
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,240 [INFO ] Starting round 26
+2021-03-16 22:20:12,240 [INFO ] ********************************************
+2021-03-16 22:20:12,240 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,240 [INFO ] {"ship":{"type":"ship","position":{"x":7146.816657326859,"y":476.0377510143335,"orientation":0.6957771927769676},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7146.816657326859,
+  "y" : 476.0377510143335,
+  "orientation" : 0.6957771927769676
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.003978913019529043
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,245 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.003978913019529043
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,259 [INFO ] Starting round 27
+2021-03-16 22:20:12,259 [INFO ] ********************************************
+2021-03-16 22:20:12,259 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,259 [INFO ] {"ship":{"type":"ship","position":{"x":7310.04631984017,"y":613.3570580595509,"orientation":0.6997561057964987},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7310.04631984017,
+  "y" : 613.3570580595509,
+  "orientation" : 0.6997561057964987
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 8.175121323256279E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,263 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 8.175121323256279E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,277 [INFO ] Starting round 28
+2021-03-16 22:20:12,278 [INFO ] ********************************************
+2021-03-16 22:20:12,278 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,278 [INFO ] {"ship":{"type":"ship","position":{"x":7472.957551434943,"y":750.9531203529756,"orientation":0.699837857009731},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7472.957551434943,
+  "y" : 750.9531203529756,
+  "orientation" : 0.699837857009731
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -4.530879611727849E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,281 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -4.530879611727849E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,290 [INFO ] Starting round 29
+2021-03-16 22:20:12,290 [INFO ] ********************************************
+2021-03-16 22:20:12,290 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,290 [INFO ] {"ship":{"type":"ship","position":{"x":7635.897242225575,"y":888.5245210731429,"orientation":0.6993847690485591},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7635.897242225575,
+  "y" : 888.5245210731429,
+  "orientation" : 0.6993847690485591
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -7.646461668223533E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,294 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -7.646461668223533E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,304 [INFO ] Starting round 30
+2021-03-16 22:20:12,305 [INFO ] ********************************************
+2021-03-16 22:20:12,305 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,305 [INFO ] {"ship":{"type":"ship","position":{"x":7798.857034340248,"y":1025.9471167458871,"orientation":0.6986201228817415},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7798.857034340248,
+  "y" : 1025.9471167458871,
+  "orientation" : 0.6986201228817415
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -0.0014570103773877646
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,307 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -0.0014570103773877646
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,316 [INFO ] Starting round 31
+2021-03-16 22:20:12,316 [INFO ] ********************************************
+2021-03-16 22:20:12,316 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,316 [INFO ] {"ship":{"type":"ship","position":{"x":7954.631708896629,"y":1156.5957962391903,"orientation":0.6971631125043489},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7954.631708896629,
+  "y" : 1156.5957962391903,
+  "orientation" : 0.6971631125043489
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.7405057309245887
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,319 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.7405057309245887
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,328 [INFO ] Starting round 32
+2021-03-16 22:20:12,328 [INFO ] ********************************************
+2021-03-16 22:20:12,328 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,328 [INFO ] {"ship":{"type":"ship","position":{"x":8045.908582580757,"y":1316.8991251386292,"orientation":1.4376688434289389},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 8045.908582580757,
+  "y" : 1316.8991251386292,
+  "orientation" : 1.4376688434289389
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.0744211583068257
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,330 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.0744211583068257
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,345 [INFO ] Starting round 33
+2021-03-16 22:20:12,345 [INFO ] ********************************************
+2021-03-16 22:20:12,345 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,345 [INFO ] {"ship":{"type":"ship","position":{"x":8062.252859554558,"y":1485.877248897832,"orientation":1.5120900017357644},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":8153.389030097254,"y":351.1753941441404,"orientation":0.4537856055185257},"shape":{"type":"rectangle","width":400.0,"height":1350.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 8062.252859554558,
+  "y" : 1485.877248897832,
+  "orientation" : 1.5120900017357644
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.00841272173654903
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,348 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.00841272173654903
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,361 [INFO ] Starting round 34
+2021-03-16 22:20:12,361 [INFO ] ********************************************
+2021-03-16 22:20:12,361 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,361 [INFO ] {"ship":{"type":"ship","position":{"x":8071.396693626107,"y":1653.3530642883536,"orientation":1.5205027234723147},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 8071.396693626107,
+  "y" : 1653.3530642883536,
+  "orientation" : 1.5205027234723147
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.0012016306616435563
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,365 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.0012016306616435563
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,377 [INFO ] Starting round 35
+2021-03-16 22:20:12,377 [INFO ] ********************************************
+2021-03-16 22:20:12,377 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,377 [INFO ] {"ship":{"type":"ship","position":{"x":8079.717022020815,"y":1820.630173173736,"orientation":1.521704354133955},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 8079.717022020815,
+  "y" : 1820.630173173736,
+  "orientation" : 1.521704354133955
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.3872387360735024E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,381 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.3872387360735024E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,393 [INFO ] Starting round 36
+2021-03-16 22:20:12,394 [INFO ] ********************************************
+2021-03-16 22:20:12,394 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,394 [INFO ] {"ship":{"type":"ship","position":{"x":8087.914296012105,"y":1987.8771182874257,"orientation":1.5219430780075573},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":7409.664698840839,"y":701.646959459459,"orientation":0.7330382858376184},"shape":{"type":"rectangle","width":400.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 8087.914296012105,
+  "y" : 1987.8771182874257,
+  "orientation" : 1.5219430780075573
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 7.814942942811733E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,397 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 7.814942942811733E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,410 [INFO ] Starting round 37
+2021-03-16 22:20:12,410 [INFO ] ********************************************
+2021-03-16 22:20:12,410 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,410 [INFO ] {"ship":{"type":"ship","position":{"x":8096.084549340019,"y":2155.1174239926854,"orientation":1.5220212274369962},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 8096.084549340019,
+  "y" : 2155.1174239926854,
+  "orientation" : 1.5220212274369962
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.7853981633974483
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,414 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.7853981633974483
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,426 [INFO ] Starting round 38
+2021-03-16 22:20:12,426 [INFO ] ********************************************
+2021-03-16 22:20:12,426 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,426 [INFO ] {"ship":{"type":"ship","position":{"x":8042.951379327837,"y":2234.7523559976294,"orientation":2.9357379215524038},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 8042.951379327837,
+  "y" : 2234.7523559976294,
+  "orientation" : 2.9357379215524038
+}
+[ {
+  "sailorId" : 10,
+  "type" : "LOWER_SAIL"
+}, {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.03980710908601655
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,430 [INFO ] Player response:[ {
+  "sailorId" : 10,
+  "type" : "LOWER_SAIL"
+}, {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.03980710908601655
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,444 [INFO ] Starting round 39
+2021-03-16 22:20:12,444 [INFO ] ********************************************
+2021-03-16 22:20:12,444 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,444 [INFO ] {"ship":{"type":"ship","position":{"x":7880.812620246963,"y":2265.2880445988353,"orientation":2.9755450306384024},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7880.812620246963,
+  "y" : 2265.2880445988353,
+  "orientation" : 2.9755450306384024
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.0010132832872034366
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,448 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 0.0010132832872034366
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,460 [INFO ] Starting round 40
+2021-03-16 22:20:12,460 [INFO ] ********************************************
+2021-03-16 22:20:12,460 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,460 [INFO ] {"ship":{"type":"ship","position":{"x":7718.068421626409,"y":2292.478548201491,"orientation":2.9765583139255902},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7718.068421626409,
+  "y" : 2292.478548201491,
+  "orientation" : 2.9765583139255902
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.716588498182652E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,465 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.716588498182652E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,477 [INFO ] Starting round 41
+2021-03-16 22:20:12,477 [INFO ] ********************************************
+2021-03-16 22:20:12,477 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,477 [INFO ] {"ship":{"type":"ship","position":{"x":7555.309959257077,"y":2319.583583259501,"orientation":2.976585479810554},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7555.309959257077,
+  "y" : 2319.583583259501,
+  "orientation" : 2.976585479810554
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 7.691438261416218E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,480 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 7.691438261416218E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,493 [INFO ] Starting round 42
+2021-03-16 22:20:12,493 [INFO ] ********************************************
+2021-03-16 22:20:12,493 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,493 [INFO ] {"ship":{"type":"ship","position":{"x":7392.551114731529,"y":2346.6863235030205,"orientation":2.9765862489543693},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7392.551114731529,
+  "y" : 2346.6863235030205,
+  "orientation" : 2.9765862489543693
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.3070095687201944E-8
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,497 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.3070095687201944E-8
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,510 [INFO ] Starting round 43
+2021-03-16 22:20:12,510 [INFO ] ********************************************
+2021-03-16 22:20:12,510 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,510 [INFO ] {"ship":{"type":"ship","position":{"x":7229.792259369307,"y":2373.7889986694786,"orientation":2.9765862720244485},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7229.792259369307,
+  "y" : 2373.7889986694786,
+  "orientation" : 2.9765862720244485
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 7.356886255675419E-10
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,513 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 7.356886255675419E-10
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,526 [INFO ] Starting round 44
+2021-03-16 22:20:12,526 [INFO ] ********************************************
+2021-03-16 22:20:12,526 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,526 [INFO ] {"ship":{"type":"ship","position":{"x":7067.033403681457,"y":2400.891671880464,"orientation":2.9765862727601267},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":7174.22818123444,"y":1102.9701576576585,"orientation":0.6981317007977318},"shape":{"type":"rectangle","width":250.0,"height":1200.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 7067.033403681457,
+  "y" : 2400.891671880464,
+  "orientation" : 2.9765862727601267
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.505268983932806E-11
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,529 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 2.505268983932806E-11
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,541 [INFO ] Starting round 45
+2021-03-16 22:20:12,542 [INFO ] ********************************************
+2021-03-16 22:20:12,542 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,542 [INFO ] {"ship":{"type":"ship","position":{"x":6904.2745479832,"y":2427.994345028962,"orientation":2.9765862727851733},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6904.2745479832,
+  "y" : 2427.994345028962,
+  "orientation" : 2.9765862727851733
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 9.202720379993574E-13
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,545 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : 9.202720379993574E-13
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,556 [INFO ] Starting round 46
+2021-03-16 22:20:12,557 [INFO ] ********************************************
+2021-03-16 22:20:12,557 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,557 [INFO ] {"ship":{"type":"ship","position":{"x":6733.5935477346575,"y":2456.210402983011,"orientation":2.976586272786106},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6733.5935477346575,
+  "y" : 2456.210402983011,
+  "orientation" : 2.976586272786106
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -9.621677074076905E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,560 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -9.621677074076905E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,568 [INFO ] Starting round 47
+2021-03-16 22:20:12,569 [INFO ] ********************************************
+2021-03-16 22:20:12,569 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,569 [INFO ] {"ship":{"type":"ship","position":{"x":6560.933302423147,"y":2484.712558862802,"orientation":2.9764900560153773},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6560.933302423147,
+  "y" : 2484.712558862802,
+  "orientation" : 2.9764900560153773
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.3578823005528235E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,572 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.3578823005528235E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,582 [INFO ] Starting round 48
+2021-03-16 22:20:12,582 [INFO ] ********************************************
+2021-03-16 22:20:12,582 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,582 [INFO ] {"ship":{"type":"ship","position":{"x":6388.276197778301,"y":2513.233562632068,"orientation":2.9763542677853394},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6388.276197778301,
+  "y" : 2513.233562632068,
+  "orientation" : 2.9763542677853394
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.5193421066276355E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,586 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.5193421066276355E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,595 [INFO ] Starting round 49
+2021-03-16 22:20:12,595 [INFO ] ********************************************
+2021-03-16 22:20:12,596 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,596 [INFO ] {"ship":{"type":"ship","position":{"x":6215.622995507382,"y":2541.77796702648,"orientation":2.97620233357466},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6215.622995507382,
+  "y" : 2541.77796702648,
+  "orientation" : 2.97620233357466
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.7051577491171982E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,598 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.7051577491171982E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,610 [INFO ] Starting round 50
+2021-03-16 22:20:12,610 [INFO ] ********************************************
+2021-03-16 22:20:12,610 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,610 [INFO ] {"ship":{"type":"ship","position":{"x":6042.974170556738,"y":2570.348595392376,"orientation":2.976031817799738},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 6042.974170556738,
+  "y" : 2570.348595392376,
+  "orientation" : 2.976031817799738
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.9398527086682531E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,613 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.9398527086682531E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,620 [INFO ] Starting round 51
+2021-03-16 22:20:12,620 [INFO ] ********************************************
+2021-03-16 22:20:12,620 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,620 [INFO ] {"ship":{"type":"ship","position":{"x":5870.726405769794,"y":2598.8931955292737,"orientation":2.9758378325288692},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5870.726405769794,
+  "y" : 2598.8931955292737,
+  "orientation" : 2.9758378325288692
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -2.1609401764891616E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,623 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -2.1609401764891616E-4
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,630 [INFO ] Starting round 52
+2021-03-16 22:20:12,630 [INFO ] ********************************************
+2021-03-16 22:20:12,630 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,630 [INFO ] {"ship":{"type":"ship","position":{"x":5707.990793742759,"y":2626.1350837210593,"orientation":2.9756217385112116},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5707.990793742759,
+  "y" : 2626.1350837210593,
+  "orientation" : 2.9756217385112116
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.6821333144864167E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,633 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.6821333144864167E-5
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,642 [INFO ] Starting round 53
+2021-03-16 22:20:12,642 [INFO ] ********************************************
+2021-03-16 22:20:12,642 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,642 [INFO ] {"ship":{"type":"ship","position":{"x":5545.258382193339,"y":2653.396085732501,"orientation":2.975604917178085},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5545.258382193339,
+  "y" : 2653.396085732501,
+  "orientation" : 2.975604917178085
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.548037911988947E-6
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,646 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.548037911988947E-6
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,655 [INFO ] Starting round 54
+2021-03-16 22:20:12,655 [INFO ] ********************************************
+2021-03-16 22:20:12,655 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,655 [INFO ] {"ship":{"type":"ship","position":{"x":5382.526223114552,"y":2680.658594816417,"orientation":2.975603369140165},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5382.526223114552,
+  "y" : 2680.658594816417,
+  "orientation" : 2.975603369140165
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.7421028051584416E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,658 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.7421028051584416E-7
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,667 [INFO ] Starting round 55
+2021-03-16 22:20:12,668 [INFO ] ********************************************
+2021-03-16 22:20:12,668 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,668 [INFO ] {"ship":{"type":"ship","position":{"x":5219.794087699481,"y":2707.92124515074,"orientation":2.9756031949298745},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5219.794087699481,
+  "y" : 2707.92124515074,
+  "orientation" : 2.9756031949298745
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -2.52265330043475E-8
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,671 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -2.52265330043475E-8
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,680 [INFO ] Starting round 56
+2021-03-16 22:20:12,680 [INFO ] ********************************************
+2021-03-16 22:20:12,680 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,680 [INFO ] {"ship":{"type":"ship","position":{"x":5057.06195502331,"y":2735.183911833675,"orientation":2.9756031697033425},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"stream","position":{"x":6384.720327421553,"y":2581.0810810810804,"orientation":3.0019663134302466},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 5057.06195502331,
+  "y" : 2735.183911833675,
+  "orientation" : 2.9756031697033425
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -5.1214801530016135E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,683 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -5.1214801530016135E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,691 [INFO ] Starting round 57
+2021-03-16 22:20:12,691 [INFO ] ********************************************
+2021-03-16 22:20:12,691 [INFO ] 599984672 - nextRound
+2021-03-16 22:20:12,691 [INFO ] {"ship":{"type":"ship","position":{"x":4894.329822763561,"y":2762.446581002266,"orientation":2.9756031645818837},"name":"smartware","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6630.286493860851,"y":3209.4594594594596,"orientation":-0.24434609527920614},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}},{"type":"reef","position":{"x":6186.903137789905,"y":2006.7567567567567,"orientation":-0.17453292519943295},"shape":{"type":"rectangle","width":500.0,"height":1750.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":50.0}}
+regatta handler ship position:
+{
+  "x" : 4894.329822763561,
+  "y" : 2762.446581002266,
+  "orientation" : 2.9756031645818837
+}
+[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.738811933949181E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,694 [INFO ] Player response:[ {
+  "sailorId" : 7,
+  "type" : "TURN",
+  "rotation" : -1.738811933949181E-9
+}, {
+  "sailorId" : 11,
+  "type" : "OAR"
+}, {
+  "sailorId" : 9,
+  "type" : "OAR"
+}, {
+  "sailorId" : 8,
+  "type" : "OAR"
+}, {
+  "sailorId" : 6,
+  "type" : "OAR"
+}, {
+  "sailorId" : 5,
+  "type" : "OAR"
+}, {
+  "sailorId" : 3,
+  "type" : "OAR"
+}, {
+  "sailorId" : 4,
+  "type" : "OAR"
+}, {
+  "sailorId" : 1,
+  "type" : "OAR"
+}, {
+  "sailorId" : 2,
+  "type" : "OAR"
+}, {
+  "sailorId" : 0,
+  "type" : "OAR"
+} ]
+2021-03-16 22:20:12,702 [INFO ] Game over
+2021-03-16 22:20:12,702 [INFO ] Creating team's logs files
+2021-03-16 22:20:12,704 [INFO ] Game scores: {smartware=443}
