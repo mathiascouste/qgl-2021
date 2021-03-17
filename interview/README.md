@@ -24,7 +24,7 @@ Des slides sont les bienvenues et sont même attendues - si vous pensez pouvoir 
 
 ## Dates et horaires de passage
 
-| Créneau | 19 Mars 2020 | 26 Mars 2020 |
+| Créneau | 25 Mars 2020 | 1 Avril 2020 |
 |--|--|--|
 | ***08:20 - 08:40*** | gottagofast | cash_a_l_eau |
 | ***08:40 - 09:00*** | onmkgl | jerapah_corp |
