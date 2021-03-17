@@ -36,4 +36,4 @@ Des slides sont les bienvenues et sont même attendues - si vous pensez pouvoir 
 | ***10:40 - 11:00*** | teletravail | soyouz |
 | ***11:00 - 11:20*** | queleglitch | kubancrew |
 | ***11:20 - 11:40*** | detritus | jcr |
-| ***11:40 - 12:00*** | stormbreakers |  |
+| ***11:40 - 12:00*** | nautilus |  |
