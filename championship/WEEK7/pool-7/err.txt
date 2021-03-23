@@ -1,0 +1,4 @@
+2021-03-23 22:12:00 INFOS RegattaObjective : Checkpoint 0 reached
+2021-03-23 22:12:00 INFOS RegattaObjective : Checkpoint 1 reached
+2021-03-23 22:12:00 INFOS RegattaObjective : Checkpoint 2 reached
+2021-03-23 22:12:00 INFOS RegattaObjective : Checkpoint 3 reached

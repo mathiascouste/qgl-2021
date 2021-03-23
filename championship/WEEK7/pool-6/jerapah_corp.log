@@ -1,0 +1,198 @@
+|INFO| - SAILT ENTITY fr.unice.polytech.si3.qgl.jerapah_corp.deck.Entity@14c9b0c2
+
+|INFO| - Nb sailors already on oar (west) : 3
+
+|INFO| -      Sailor id : 3 position = 1;0
+
+|INFO| -      Sailor id : 6 position = 2;0
+
+|INFO| -      Sailor id : 9 position = 3;0
+
+|INFO| - Nb sailors already on oar (east) : 3
+
+|INFO| -      Sailor id : 5 position = 1;2
+
+|INFO| -      Sailor id : 8 position = 2;2
+
+|INFO| -      Sailor id : 11 position = 3;2
+
+|INFO| - Nb sailors unemployed : 6
+
+|INFO| -      Sailor id : 0 position = 0;0
+
+|INFO| -      Sailor id : 1 position = 0;1
+
+|INFO| -      Sailor id : 2 position = 0;2
+
+|INFO| -      Sailor id : 4 position = 1;1
+
+|INFO| -      Sailor id : 7 position = 2;1
+
+|INFO| -      Sailor id : 10 position = 3;1
+
+|INFO| - params of orientation = 12, 4, fr.unice.polytech.si3.qgl.jerapah_corp.Ship@39c18205, fr.unice.polytech.si3.qgl.jerapah_corp.direction.Checkpoint@772aefc1
+
+|INFO| - angle calculé = 5.79
+
+|INFO| - Angle a prendre = 0.0
+
+|INFO| - indice = 5
+
+|INFO| - sailor returned are : (west) =5(east) =5
+
+|INFO| - Nb sailors west : 3
+
+|INFO| - Nb sailors east : 3
+
+|INFO| - Action{sailorId=10, type='MOVING', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=10, type='LOWER_SAIL', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=7, type='MOVING', xdistance=3, ydistance=-1, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=7, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=0, type='MOVING', xdistance=4, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=0, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=2, type='MOVING', xdistance=5, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=2, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=4, type='MOVING', xdistance=3, ydistance=1, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=4, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=3, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=6, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=9, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=5, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=8, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Next round input: {"ship":{"type":"ship","position":{"x":2852.173913043478,"y":1978.827361563518,"orientation":-1.0297442586766543},"name":"jerapah_corp","deck":{"width":3,"length":7},"entiti
+|INFO| - Nb sailors already on oar (west) : 5
+
+|INFO| -      Sailor id : 3 position = 1;0
+
+|INFO| -      Sailor id : 7 position = 5;0
+
+|INFO| -      Sailor id : 6 position = 2;0
+
+|INFO| -      Sailor id : 0 position = 4;0
+
+|INFO| -      Sailor id : 9 position = 3;0
+
+|INFO| - Nb sailors already on oar (east) : 5
+
+|INFO| -      Sailor id : 2 position = 5;2
+
+|INFO| -      Sailor id : 5 position = 1;2
+
+|INFO| -      Sailor id : 8 position = 2;2
+
+|INFO| -      Sailor id : 4 position = 4;2
+
+|INFO| -      Sailor id : 11 position = 3;2
+
+|INFO| - Nb sailors unemployed : 2
+
+|INFO| -      Sailor id : 1 position = 0;1
+
+|INFO| -      Sailor id : 10 position = 3;1
+
+|INFO| - params of orientation = 12, 0, fr.unice.polytech.si3.qgl.jerapah_corp.Ship@68b4ce1d, fr.unice.polytech.si3.qgl.jerapah_corp.direction.Checkpoint@772aefc1
+
+|INFO| - angle calculé = 6.27
+
+|INFO| - Angle a prendre = 0.0
+
+|INFO| - indice = 5
+
+|INFO| - sailor returned are : (west) =5(east) =5
+
+|INFO| - Nb sailors west : 5
+
+|INFO| - Nb sailors east : 5
+
+|INFO| - Action{sailorId=3, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=7, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=6, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=0, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=9, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=2, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=5, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=8, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=4, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Next round input: {"ship":{"type":"ship","position":{"x":2937.1551954036277,"y":1837.3947569476659,"orientation":-1.0297442586766543},"name":"jerapah_corp","deck":{"width":3,"length":7},"enti
+|INFO| - Nb sailors already on oar (west) : 5
+
+|INFO| -      Sailor id : 0 position = 4;0
+
+|INFO| -      Sailor id : 9 position = 3;0
+
+|INFO| -      Sailor id : 6 position = 2;0
+
+|INFO| -      Sailor id : 7 position = 5;0
+
+|INFO| -      Sailor id : 3 position = 1;0
+
+|INFO| - Nb sailors already on oar (east) : 5
+
+|INFO| -      Sailor id : 8 position = 2;2
+
+|INFO| -      Sailor id : 11 position = 3;2
+
+|INFO| -      Sailor id : 5 position = 1;2
+
+|INFO| -      Sailor id : 2 position = 5;2
+
+|INFO| -      Sailor id : 4 position = 4;2
+
+|INFO| - Nb sailors unemployed : 2
+
+|INFO| -      Sailor id : 1 position = 0;1
+
+|INFO| -      Sailor id : 10 position = 3;1
+
+|INFO| - params of orientation = 12, 0, fr.unice.polytech.si3.qgl.jerapah_corp.Ship@3ad9f52f, fr.unice.polytech.si3.qgl.jerapah_corp.direction.Checkpoint@772aefc1
+
+|INFO| - angle calculé = 6.83
+
+|INFO| - Angle a prendre = 0.0
+
+|INFO| - indice = 5
+
+|INFO| - sailor returned are : (west) =5(east) =5
+
+|INFO| - Nb sailors west : 5
+
+|INFO| - Nb sailors east : 5
+
+|INFO| - Action{sailorId=0, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=9, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=6, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=7, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+
+|INFO| - Action{sailorId=3, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+

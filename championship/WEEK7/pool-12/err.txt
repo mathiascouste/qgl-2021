@@ -1,0 +1,960 @@
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 0,995
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,101
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,101
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,101
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : -0,559
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,829
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 2,163
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : -1,571
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : -5
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,593
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,025
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,025
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,025
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,002
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,003
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,004
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,005
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,009
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,009
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,009
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : -0,564
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,826
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 2,17
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : -1,571
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : -5
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,599
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,014
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,014
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,014
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0,001
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : -0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:09 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,004
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,004
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,004
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,008
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,008
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,008
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,011
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,011
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,011
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : -0,527
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,85
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 2,126
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 1,571
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 5
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,555
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,024
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,024
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,024
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,004
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,004
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,004
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,006
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,012
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,012
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,012
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : -0,52
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,854
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 2,117
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 1,571
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 5
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,546
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,027
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,027
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,027
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,001
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,002
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,003
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,005
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,005
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,005
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: cos : 1
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: sin : 0,009
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.navigation.Calculate getAngleToPoint
+INFOS: angle : 0,009
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief calculateDifferenceInRowers
+INFOS: Angle Rameurs : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rowerDiff : 0
+mars 23, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.teletravail.captain.gestionequipage.Crewchief makeAction
+INFOS: rudderAngle : 0,009
