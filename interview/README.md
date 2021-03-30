@@ -26,14 +26,14 @@ Des slides sont les bienvenues et sont même attendues - si vous pensez pouvoir 
 
 | Créneau | 25 Mars 2021 | 1 Avril 2021 |
 |--|--|--|
-| ***08:20 - 08:40*** | gottagofast | cash_a_l_eau |
-| ***08:40 - 09:00*** | onmkgl | jerapah_corp |
-| ***09:00 - 09:20*** | directionmiage | geforce |
-| ***09:20 - 09:40*** | qualidad | qualituriers |
-| ***09:40 - 10:00*** | smartware | sunny1000 |
-| ***10:00 - 10:20*** |  |  |
-| ***10:20 - 10:40*** | prima | oceanshadows |
-| ***10:40 - 11:00*** | teletravail | soyouz |
-| ***11:00 - 11:20*** | queleglitch | kubancrew |
-| ***11:20 - 11:40*** | detritus | jcr |
-| ***11:40 - 12:00*** | nautilus |  |
+| ***08:20 - 08:40*** | gottagofast |  |
+| ***08:40 - 09:00*** | onmkgl |  |
+| ***09:00 - 09:20*** | directionmiage | cash_a_l_eau |
+| ***09:20 - 09:40*** | qualidad | jerapah_corp |
+| ***09:40 - 10:00*** | smartware | geforce |
+| ***10:00 - 10:20*** |  | qualituriers |
+| ***10:20 - 10:40*** | prima |  |
+| ***10:40 - 11:00*** | teletravail | sunny1000 |
+| ***11:00 - 11:20*** | queleglitch | oceanshadows |
+| ***11:20 - 11:40*** | detritus | soyouz |
+| ***11:40 - 12:00*** | nautilus | kubancrew |
