@@ -1,0 +1,31 @@
+fr.unice.polytech.si3.qgl.gottagofast.algorithm.NoFreeSailorException
+	at fr.unice.polytech.si3.qgl.gottagofast.algorithm.SailorManager.popFreeSailor(SailorManager.java:30)
+	at fr.unice.polytech.si3.qgl.gottagofast.decisionmaker.DecisionMaker.setRudderSailorHashMap(DecisionMaker.java:150)
+	at fr.unice.polytech.si3.qgl.gottagofast.decisionmaker.DecisionMaker.findARudderAndUseItIfAnySailorIsAvailable(DecisionMaker.java:122)
+	at fr.unice.polytech.si3.qgl.gottagofast.decisionmaker.DecisionMaker.getNextActions(DecisionMaker.java:59)
+	at fr.unice.polytech.si3.qgl.gottagofast.Cockpit.nextRound(Cockpit.java:41)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+fr.unice.polytech.si3.qgl.gottagofast.algorithm.NoFreeSailorException
+	at fr.unice.polytech.si3.qgl.gottagofast.algorithm.SailorManager.popFreeSailor(SailorManager.java:30)
+	at fr.unice.polytech.si3.qgl.gottagofast.decisionmaker.DecisionMaker.setRudderSailorHashMap(DecisionMaker.java:142)
+	at fr.unice.polytech.si3.qgl.gottagofast.decisionmaker.DecisionMaker.findSailAndUseItIfAnySailorIsAvailable(DecisionMaker.java:87)
+	at fr.unice.polytech.si3.qgl.gottagofast.decisionmaker.DecisionMaker.getNextActions(DecisionMaker.java:62)
+	at fr.unice.polytech.si3.qgl.gottagofast.Cockpit.nextRound(Cockpit.java:41)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor55.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+Caused by: java.lang.NullPointerException
+	at fr.unice.polytech.si3.qgl.gottagofast.data.game.Crew.updateWith(Crew.java:62)
+	at fr.unice.polytech.si3.qgl.gottagofast.Cockpit.nextRound(Cockpit.java:40)
+	... 4 more

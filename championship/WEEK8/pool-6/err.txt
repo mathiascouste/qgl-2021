@@ -1,0 +1,11 @@
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+Caused by: java.lang.NullPointerException
+	at fr.unice.polytech.si3.qgl.jerapah_corp.commandery.Captain.managePathfinding(Captain.java:546)
+	at fr.unice.polytech.si3.qgl.jerapah_corp.commandery.Captain.giveOrders(Captain.java:111)
+	at fr.unice.polytech.si3.qgl.jerapah_corp.Cockpit.nextRound(Cockpit.java:63)
+	... 5 more

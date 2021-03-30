@@ -1,0 +1,17 @@
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+Caused by: java.lang.ClassCastException: class java.util.HashMap$Node cannot be cast to class fr.unice.polytech.si3.qgl.onmkgl.entities.Entity (java.util.HashMap$Node is in module java.base of loader 'bootstrap'; fr.unice.polytech.si3.qgl.onmkgl.entities.Entity is in unnamed module of loader 'app')
+	at fr.unice.polytech.si3.qgl.onmkgl.sailors.CrewManager.getRandomAssignedEntity(CrewManager.java:129)
+	at fr.unice.polytech.si3.qgl.onmkgl.sailors.CrewManager.assignOne(CrewManager.java:213)
+	at fr.unice.polytech.si3.qgl.onmkgl.sailors.CrewManager.fillAssignedTable(CrewManager.java:145)
+	at fr.unice.polytech.si3.qgl.onmkgl.sailors.Crew.fillAssignedTable(Crew.java:94)
+	at fr.unice.polytech.si3.qgl.onmkgl.sailors.Captain.moveSailorInPosition(Captain.java:251)
+	at fr.unice.polytech.si3.qgl.onmkgl.sailors.Captain.moveWithOarAndHelm(Captain.java:220)
+	at fr.unice.polytech.si3.qgl.onmkgl.sailors.Captain.computeActions(Captain.java:143)
+	at fr.unice.polytech.si3.qgl.onmkgl.sailors.Captain.getActions(Captain.java:99)
+	at fr.unice.polytech.si3.qgl.onmkgl.Cockpit.nextRound(Cockpit.java:55)
+	... 5 more

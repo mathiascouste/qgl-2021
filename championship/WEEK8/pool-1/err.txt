@@ -1,0 +1,13 @@
+java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 10000 out of bounds for length 10000
+	at fr.unice.polytech.si3.qgl.prima.game.utilities.pathfinding.Heap.add(Heap.java:17)
+	at fr.unice.polytech.si3.qgl.prima.game.utilities.pathfinding.PathFinding.aStarAlgorithm(PathFinding.java:110)
+	at fr.unice.polytech.si3.qgl.prima.game.utilities.pathfinding.PathFinding.checkpointPath(PathFinding.java:82)
+	at fr.unice.polytech.si3.qgl.prima.game.states.BaseState.updateEntities(BaseState.java:51)
+	at fr.unice.polytech.si3.qgl.prima.game.states.BaseState.actionList(BaseState.java:42)
+	at fr.unice.polytech.si3.qgl.prima.Cockpit.nextRound(Cockpit.java:68)
+	... 4 more

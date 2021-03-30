@@ -1,0 +1,51 @@
+2021-03-30 23:15:28,217 [INFO ] Game creation...
+2021-03-30 23:15:28,239 [INFO ] 1 players created!
+2021-03-30 23:15:28,256 [INFO ] Starting game
+2021-03-30 23:15:28,273 [INFO ] ********************************************
+2021-03-30 23:15:28,273 [INFO ] 227755469 - initGame
+2021-03-30 23:15:28,273 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":5533.854166666661,"y":2499.9999999999973,"orientation":0.0},"shape":{"type":"circle","radius":150.0}},{"position":{"x":9088.541666666666,"y":2239.5833333333335,"orientation":0.0},"shape":{"type":"circle","radius":850.0}},{"position":{"x":11679.687499999985,"y":2460.937499999999,"orientation":0.0},"shape":{"type":"circle","radius":150.0}},{"position":{"x":14973.958333333332,"y":2460.937499999996,"orientation":0.0},"shape":{"type":"circle","radius":150.0}}]},"ship":{"type":"ship","position":{"x":2460.9375,"y":2513.020833333333,"orientation":0.0},"name":"jerapah_corp","deck":{"width":4,"length":9},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":7,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":4,"y":2,"type":"rudder"},{"x":4,"y":1,"type":"sail","openned":false}],"life":1800,"shape":{"type":"rectangle","width":4.0,"height":9.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Pouce"},{"x":0,"y":1,"id":1,"name":"Luffy Pouce"},{"x":0,"y":2,"id":2,"name":"Tom Teach"},{"x":0,"y":3,"id":3,"name":"Luffy Pouce"},{"x":1,"y":0,"id":4,"name":"Luffy Pouce"},{"x":1,"y":1,"id":5,"name":"Edward Pouce"},{"x":1,"y":2,"id":6,"name":"Luffy Teach"},{"x":1,"y":3,"id":7,"name":"Edward Teach"},{"x":2,"y":0,"id":8,"name":"Jack Teach"},{"x":2,"y":1,"id":9,"name":"Tom Pouce"},{"x":2,"y":2,"id":10,"name":"Edward Pouce"},{"x":2,"y":3,"id":11,"name":"Edward Teach"},{"x":3,"y":0,"id":12,"name":"Tom Pouce"},{"x":3,"y":1,"id":13,"name":"Jack Pouce"}],"shipCount":1}
+SAILT ENTITY fr.unice.polytech.si3.qgl.jerapah_corp.deck.Entity@5ef316
+2021-03-30 23:15:28,298 [INFO ] Starting round 0
+2021-03-30 23:15:28,304 [INFO ] ********************************************
+2021-03-30 23:15:28,305 [INFO ] 227755469 - nextRound
+2021-03-30 23:15:28,305 [INFO ] {"ship":{"type":"ship","position":{"x":2460.9375,"y":2513.020833333333,"orientation":0.0},"name":"jerapah_corp","deck":{"width":4,"length":9},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":7,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":4,"y":2,"type":"rudder"},{"x":4,"y":1,"type":"sail","openned":false}],"life":1800,"shape":{"type":"rectangle","width":4.0,"height":9.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jerapah_corp IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.GenericClientError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-03-30 23:15:28,361 [INFO ] Game over
+2021-03-30 23:15:28,361 [INFO ] Creating team's logs files
+2021-03-30 23:15:28,364 [INFO ] Game scores: {jerapah_corp=GENERIC_CLIENT_ERROR}

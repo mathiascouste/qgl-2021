@@ -1,0 +1,65 @@
+2021-03-30 23:15:42,189 [INFO ] Game creation...
+2021-03-30 23:15:42,206 [INFO ] 1 players created!
+2021-03-30 23:15:42,227 [INFO ] Starting game
+2021-03-30 23:15:42,246 [INFO ] ********************************************
+2021-03-30 23:15:42,246 [INFO ] 313239742 - initGame
+2021-03-30 23:15:42,246 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":5533.854166666661,"y":2499.9999999999973,"orientation":0.0},"shape":{"type":"circle","radius":150.0}},{"position":{"x":9088.541666666666,"y":2239.5833333333335,"orientation":0.0},"shape":{"type":"circle","radius":850.0}},{"position":{"x":11679.687499999985,"y":2460.937499999999,"orientation":0.0},"shape":{"type":"circle","radius":150.0}},{"position":{"x":14973.958333333332,"y":2460.937499999996,"orientation":0.0},"shape":{"type":"circle","radius":150.0}}]},"ship":{"type":"ship","position":{"x":2460.9375,"y":2513.020833333333,"orientation":0.0},"name":"onmkgl","deck":{"width":4,"length":9},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":7,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":4,"y":2,"type":"rudder"},{"x":4,"y":1,"type":"sail","openned":false}],"life":1800,"shape":{"type":"rectangle","width":4.0,"height":9.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Pouce"},{"x":0,"y":1,"id":1,"name":"Edward Pouce"},{"x":0,"y":2,"id":2,"name":"Jack Teach"},{"x":0,"y":3,"id":3,"name":"Luffy Pouce"},{"x":1,"y":0,"id":4,"name":"Tom Teach"},{"x":1,"y":1,"id":5,"name":"Edward Teach"},{"x":1,"y":2,"id":6,"name":"Jack Pouce"},{"x":1,"y":3,"id":7,"name":"Luffy Pouce"},{"x":2,"y":0,"id":8,"name":"Jack Pouce"},{"x":2,"y":1,"id":9,"name":"Luffy Teach"},{"x":2,"y":2,"id":10,"name":"Jack Pouce"},{"x":2,"y":3,"id":11,"name":"Edward Pouce"},{"x":3,"y":0,"id":12,"name":"Luffy Teach"},{"x":3,"y":1,"id":13,"name":"Edward Teach"}],"shipCount":1}
+2021-03-30 23:15:42,307 [INFO ] Starting round 0
+2021-03-30 23:15:42,315 [INFO ] ********************************************
+2021-03-30 23:15:42,315 [INFO ] 313239742 - nextRound
+2021-03-30 23:15:42,315 [INFO ] {"ship":{"type":"ship","position":{"x":2460.9375,"y":2513.020833333333,"orientation":0.0},"name":"onmkgl","deck":{"width":4,"length":9},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":7,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":4,"y":2,"type":"rudder"},{"x":4,"y":1,"type":"sail","openned":false}],"life":1800,"shape":{"type":"rectangle","width":4.0,"height":9.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-03-30 23:15:42,356 [INFO ] Player response:[{"sailorId":2,"type":"MOVING","xdistance":2,"ydistance":1},{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":2},{"sailorId":11,"type":"MOVING","xdistance":3,"ydistance":-2},{"sailorId":10,"type":"MOVING","xdistance":2,"ydistance":-2},{"sailorId":12,"type":"MOVING","xdistance":3,"ydistance":0},{"sailorId":4,"type":"MOVING","xdistance":3,"ydistance":2},{"sailorId":7,"type":"MOVING","xdistance":0,"ydistance":-3},{"sailorId":3,"type":"MOVING","xdistance":3,"ydistance":0},{"sailorId":6,"type":"MOVING","xdistance":5,"ydistance":0},{"sailorId":9,"type":"MOVING","xdistance":1,"ydistance":-1},{"sailorId":5,"type":"MOVING","xdistance":4,"ydistance":1},{"sailorId":0,"type":"MOVING","xdistance":4,"ydistance":1},{"sailorId":1,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":9,"type":"OAR"},{"sailorId":4,"type":"TURN","rotation":-0.0059}]
+2021-03-30 23:15:42,418 [INFO ] Starting round 1
+2021-03-30 23:15:42,419 [INFO ] ********************************************
+2021-03-30 23:15:42,419 [INFO ] 313239742 - nextRound
+2021-03-30 23:15:42,419 [INFO ] {"ship":{"type":"ship","position":{"x":2531.6513815876683,"y":2512.814312854995,"orientation":-0.005900000000000002},"name":"onmkgl","deck":{"width":4,"length":9},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":7,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":4,"y":2,"type":"rudder"},{"x":4,"y":1,"type":"sail","openned":false}],"life":1800,"shape":{"type":"rectangle","width":4.0,"height":9.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-03-30 23:15:42,424 [INFO ] Player response:[{"sailorId":11,"type":"MOVING","xdistance":0,"ydistance":-1},{"sailorId":13,"type":"MOVING","xdistance":4,"ydistance":1},{"sailorId":0,"type":"MOVING","xdistance":3,"ydistance":-1},{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":6,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":5,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":9,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":11,"type":"OAR"}]
+2021-03-30 23:15:42,450 [INFO ] Starting round 2
+2021-03-30 23:15:42,450 [INFO ] ********************************************
+2021-03-30 23:15:42,450 [INFO ] 313239742 - nextRound
+2021-03-30 23:15:42,450 [INFO ] {"ship":{"type":"ship","position":{"x":2673.077491459086,"y":2511.979889124656,"orientation":-0.005900000000000002},"name":"onmkgl","deck":{"width":4,"length":9},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":7,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":4,"y":2,"type":"rudder"},{"x":4,"y":1,"type":"sail","openned":false}],"life":1800,"shape":{"type":"rectangle","width":4.0,"height":9.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-03-30 23:15:42,453 [INFO ] Player response:[{"sailorId":13,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":1,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":9,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":13,"type":"OAR"},{"sailorId":12,"type":"OAR"}]
+2021-03-30 23:15:42,468 [INFO ] Starting round 3
+2021-03-30 23:15:42,469 [INFO ] ********************************************
+2021-03-30 23:15:42,469 [INFO ] 313239742 - nextRound
+2021-03-30 23:15:42,469 [INFO ] {"ship":{"type":"ship","position":{"x":2838.0746196423993,"y":2511.0063947725635,"orientation":-0.005900000000000002},"name":"onmkgl","deck":{"width":4,"length":9},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":7,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":4,"y":2,"type":"rudder"},{"x":4,"y":1,"type":"sail","openned":false}],"life":1800,"shape":{"type":"rectangle","width":4.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":4049.4791666666665,"y":2486.9791666666647,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+onmkgl IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.GenericClientError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-03-30 23:15:42,487 [INFO ] Game over
+2021-03-30 23:15:42,487 [INFO ] Creating team's logs files
+2021-03-30 23:15:42,490 [INFO ] Game scores: {onmkgl=GENERIC_CLIENT_ERROR}

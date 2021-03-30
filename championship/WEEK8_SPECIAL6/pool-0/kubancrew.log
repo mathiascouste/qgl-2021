@@ -1,0 +1,107 @@
+Cannot construct instance of `fr.unice.polytech.si3.qgl.kubancrew.elements.sea.AbstractSeaElement` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete typ
+es, have custom deserializer, or contain additional type information
+ at [Source: (String)"{"ship":{"type":"ship","position":{"x":5981.419383555259,"y":96.28719734276497,"orientation":0.03210603001481
+1104},"name":"kubancrew","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":
+3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"[truncat
+ed 352 chars]; line: 1, column: 626] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["visibleEntities"]->java.util.ArrayList[0])
+[com.fasterxml.jackson.databind.exc.InvalidDefinitionException.from(InvalidDefinitionException.java:67), com.fasterxml.jackson.databind.DeserializationContext.reportBadDefinition(DeserializationContex
+t.java:1589), com.fasterxml.jackson.databind.DeserializationContext.handleMissingInstantiator(DeserializationContext.java:1055), com.fasterxml.jackson.databind.deser.AbstractDeserializer.deserialize(A
+bstractDeserializer.java:265), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:286), com.fasterxml.jackson.databind.deser.std.CollectionDeserial
+izer.deserialize(CollectionDeserializer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.Set
+tableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.data
+bind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBa
+se.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserialize
+r.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.fasterxml.jackson.
+databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:63), jdk.internal.reflect.GeneratedMethodAccessor30.invoke(Unknown Source), 
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:567), fr.unice.polytech.si3.qgl.frigates
+engine.interfaces.Cockpit$2.run(Cockpit.java:90)]
+Cannot construct instance of `fr.unice.polytech.si3.qgl.kubancrew.elements.sea.AbstractSeaElement` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete typ
+es, have custom deserializer, or contain additional type information
+ at [Source: (String)"{"ship":{"type":"ship","position":{"x":6056.755817271259,"y":68.21674273643288,"orientation":-0.7532921333826
+362},"name":"kubancrew","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3
+,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,""[truncat
+ed 551 chars]; line: 1, column: 625] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["visibleEntities"]->java.util.ArrayList[0])
+[com.fasterxml.jackson.databind.exc.InvalidDefinitionException.from(InvalidDefinitionException.java:67), com.fasterxml.jackson.databind.DeserializationContext.reportBadDefinition(DeserializationContex
+t.java:1589), com.fasterxml.jackson.databind.DeserializationContext.handleMissingInstantiator(DeserializationContext.java:1055), com.fasterxml.jackson.databind.deser.AbstractDeserializer.deserialize(A
+bstractDeserializer.java:265), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:286), com.fasterxml.jackson.databind.deser.std.CollectionDeserial
+izer.deserialize(CollectionDeserializer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.Set
+tableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.data
+bind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBa
+se.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserialize
+r.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.fasterxml.jackson.
+databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:63), jdk.internal.reflect.GeneratedMethodAccessor30.invoke(Unknown Source), 
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:567), fr.unice.polytech.si3.qgl.frigates
+engine.interfaces.Cockpit$2.run(Cockpit.java:90)]
+Cannot construct instance of `fr.unice.polytech.si3.qgl.kubancrew.elements.sea.AbstractSeaElement` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete typ
+es, have custom deserializer, or contain additional type information
+ at [Source: (String)"{"ship":{"type":"ship","position":{"x":6090.177911619129,"y":-4.902969217687653,"orientation":-1.538690296780
+0802},"name":"kubancrew","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":
+3,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"[truncat
+ed 552 chars]; line: 1, column: 626] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["visibleEntities"]->java.util.ArrayList[0])
+[com.fasterxml.jackson.databind.exc.InvalidDefinitionException.from(InvalidDefinitionException.java:67), com.fasterxml.jackson.databind.DeserializationContext.reportBadDefinition(DeserializationContex
+t.java:1589), com.fasterxml.jackson.databind.DeserializationContext.handleMissingInstantiator(DeserializationContext.java:1055), com.fasterxml.jackson.databind.deser.AbstractDeserializer.deserialize(A
+bstractDeserializer.java:265), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:286), com.fasterxml.jackson.databind.deser.std.CollectionDeserial
+izer.deserialize(CollectionDeserializer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.Set
+tableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.data
+bind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBa
+se.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserialize
+r.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.fasterxml.jackson.
+databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:63), jdk.internal.reflect.GeneratedMethodAccessor30.invoke(Unknown Source), 
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:567), fr.unice.polytech.si3.qgl.frigates
+engine.interfaces.Cockpit$2.run(Cockpit.java:90)]
+Cannot construct instance of `fr.unice.polytech.si3.qgl.kubancrew.elements.sea.AbstractSeaElement` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete typ
+es, have custom deserializer, or contain additional type information
+ at [Source: (String)"{"ship":{"type":"ship","position":{"x":6161.456394844319,"y":-106.65123808994858,"orientation":0.817504193412
+269},"name":"kubancrew","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3
+,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,""[truncat
+ed 551 chars]; line: 1, column: 625] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["visibleEntities"]->java.util.ArrayList[0])
+[com.fasterxml.jackson.databind.exc.InvalidDefinitionException.from(InvalidDefinitionException.java:67), com.fasterxml.jackson.databind.DeserializationContext.reportBadDefinition(DeserializationContex
+t.java:1589), com.fasterxml.jackson.databind.DeserializationContext.handleMissingInstantiator(DeserializationContext.java:1055), com.fasterxml.jackson.databind.deser.AbstractDeserializer.deserialize(A
+bstractDeserializer.java:265), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:286), com.fasterxml.jackson.databind.deser.std.CollectionDeserial
+izer.deserialize(CollectionDeserializer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.Set
+tableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.data
+bind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBa
+se.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserialize
+r.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.fasterxml.jackson.
+databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:63), jdk.internal.reflect.GeneratedMethodAccessor30.invoke(Unknown Source), 
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:567), fr.unice.polytech.si3.qgl.frigates
+engine.interfaces.Cockpit$2.run(Cockpit.java:90)]
+Cannot construct instance of `fr.unice.polytech.si3.qgl.kubancrew.elements.sea.AbstractSeaElement` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete typ
+es, have custom deserializer, or contain additional type information
+ at [Source: (String)"{"ship":{"type":"ship","position":{"x":6190.117668575436,"y":-31.53759049537716,"orientation":1.6029023568097
+13},"name":"kubancrew","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,
+"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y"[truncat
+ed 550 chars]; line: 1, column: 624] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["visibleEntities"]->java.util.ArrayList[0])
+[com.fasterxml.jackson.databind.exc.InvalidDefinitionException.from(InvalidDefinitionException.java:67), com.fasterxml.jackson.databind.DeserializationContext.reportBadDefinition(DeserializationContex
+t.java:1589), com.fasterxml.jackson.databind.DeserializationContext.handleMissingInstantiator(DeserializationContext.java:1055), com.fasterxml.jackson.databind.deser.AbstractDeserializer.deserialize(A
+bstractDeserializer.java:265), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:286), com.fasterxml.jackson.databind.deser.std.CollectionDeserial
+izer.deserialize(CollectionDeserializer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.Set
+tableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.data
+bind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBa
+se.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserialize
+r.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.fasterxml.jackson.
+databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:63), jdk.internal.reflect.GeneratedMethodAccessor30.invoke(Unknown Source), 
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:567), fr.unice.polytech.si3.qgl.frigates
+engine.interfaces.Cockpit$2.run(Cockpit.java:90)]
+Cannot construct instance of `fr.unice.polytech.si3.qgl.kubancrew.elements.sea.AbstractSeaElement` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete typ
+es, have custom deserializer, or contain additional type information
+ at [Source: (String)"{"ship":{"type":"ship","position":{"x":6157.27088001437,"y":41.84236009111569,"orientation":2.388300520207157
+},"name":"kubancrew","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y
+":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":"[truncat
+ed 548 chars]; line: 1, column: 622] (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["visibleEntities"]->java.util.ArrayList[0])
+[com.fasterxml.jackson.databind.exc.InvalidDefinitionException.from(InvalidDefinitionException.java:67), com.fasterxml.jackson.databind.DeserializationContext.reportBadDefinition(DeserializationContex
+t.java:1589), com.fasterxml.jackson.databind.DeserializationContext.handleMissingInstantiator(DeserializationContext.java:1055), com.fasterxml.jackson.databind.deser.AbstractDeserializer.deserialize(A
+bstractDeserializer.java:265), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:286), com.fasterxml.jackson.databind.deser.std.CollectionDeserial
+izer.deserialize(CollectionDeserializer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.Set
+tableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.data
+bind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBa
+se.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserialize
+r.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.fasterxml.jackson.
+databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:63), jdk.internal.reflect.GeneratedMethodAccessor30.invoke(Unknown Source), 
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:567), fr.unice.polytech.si3.qgl.frigates
+engine.interfaces.Cockpit$2.run(Cockpit.java:90)]
+Cannot construct instance of `fr.unice.polytech.si3.qgl.kubancrew.elements.sea.AbstractSeaElement` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete typ
+es, have custom deserializer, or contain additional type information
+ at [Source: (String)"{"ship":{"type":"ship","position":{"x":6082.157232419798,"y":70.50363382223046,"orientation":3.17369868360460
+1},"name":"kubancrew","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"
+y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y""[truncat
