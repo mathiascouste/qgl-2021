@@ -1,0 +1,100 @@
+Compass said we need to reach: 5608.653709266126 ; 2494.5201800293407
+A* returned a 1 size path, [0] = (3714.503601330504,2461.145465394317)
+A* returned a 1 size path, [0] = (3805.8521139950467,2906.8397894850636)
+A* returned a 1 size path, [0] = (3943.3290497629455,2883.2327879379563)
+A* returned a 1 size path, [0] = (4122.714149323836,2890.30732468788)
+A* returned a 1 size path, [0] = (4255.221957819558,2889.6614903252375)
+A* returned a 3 size path, [0] = (3590.4603697960456,2830.9930169096942)
+We need 2 sailors that oars on the right side and 7on the left side
+A* said we need to reach (4390.460369796046,2880.9930169096942)
+We need 3 sailors that oars on the right side and 7on the left side
+A* said we need to reach (4440.460369796046,2630.9930169096942)
+A* returned a 6 size path, [0] = (4425.280123906859,2879.225846666063)
+A* said we need to reach (4475.280123906859,2829.225846666063)
+A* said we need to reach (4525.280123906859,2779.225846666063)
+A* said we need to reach (4575.280123906859,2729.225846666063)
+A* said we need to reach (4625.280123906859,2679.225846666063)
+A* said we need to reach (4725.280123906859,2629.225846666063)
+A* returned a 1 size path, [0] = (5544.977242419406,2478.9057717200662)
+A* returned a 1 size path, [0] = (5526.681969297159,2478.7237240003137)
+A* returned a 1 size path, [0] = (5515.05503018346,2449.4973541062955)
+A* returned a 1 size path, [0] = (5553.032080651552,2468.503832666037)
+A* returned a 1 size path, [0] = (5540.994362572851,2487.4446376634296)
+A checkpoint has been reached (Checkpoint (position=Position {x=5533.854166666661, y=2499.9999999999973, orientation=0.0}, shape=Circle (radius=150.0))).
+Compass said we need to reach: 9511.99932179364 ; 2275.7581078919193
+A* returned a 1 size path, [0] = (7026.999292017209,2108.8748147212405)
+A* returned a 1 size path, [0] = (7114.339018886789,1978.0086561560852)
+A* returned a 1 size path, [0] = (7241.554538910992,1916.4169436214197)
+A* returned a 1 size path, [0] = (7414.819600376091,1897.0788917428254)
+A* returned a 1 size path, [0] = (7540.468743306765,1882.2286749175491)
+A* returned a 1 size path, [0] = (7719.853932715984,1875.154341849698)
+A* returned a 1 size path, [0] = (7852.361818906387,1975.8003848102721)
+A* returned a 0 size path, [0] = nothing
+A* returned a 0 size path, [0] = nothing
+A* returned a 0 size path, [0] = nothing
+A* returned a 0 size path, [0] = nothing
+A* returned a 0 size path, [0] = nothing
+A* returned a 0 size path, [0] = nothing
+A* returned a 1 size path, [0] = (8835.110513562944,2193.6214246120417)
+A* returned a 1 size path, [0] = (8976.191124489815,2203.469574292134)
+A* returned a 1 size path, [0] = (9117.401921794737,2211.3150532983436)
+A checkpoint has been reached (Checkpoint (position=Position {x=9088.541666666666, y=2239.5833333333335, orientation=0.0}, shape=Circle (radius=850.0))).
+Compass said we need to reach: 11754.687499999985 ; 2460.937499999999
+A* returned a 1 size path, [0] = (9258.612719099585,2219.1605323045533)
+A* returned a 1 size path, [0] = (9399.823516404433,2227.006011310763)
+A* returned a 1 size path, [0] = (9541.03431370928,2234.8514903169726)
+A* returned a 1 size path, [0] = (9682.245111014128,2242.696969323182)
+A* returned a 1 size path, [0] = (10105.323664415324,2273.9370866818876)
+A* returned a 1 size path, [0] = (10246.35403700778,2434.433206176539)
+A* returned a 1 size path, [0] = (10286.3157809698,2703.6269535670294)
+A* returned a 1 size path, [0] = (10317.999366489028,2903.807829966765)
+A* returned a 1 size path, [0] = (10433.773959372187,2984.6422853895706)
+A* returned a 1 size path, [0] = (10491.156809166345,3126.6801275329885)
+We need 3 sailors that oars on the right side and 7on the left side
+A* returned a 1 size path, [0] = (10644.938497472775,3222.709151795846)
+We need 3 sailors that oars on the right side and 7on the left side
+A* returned a 1 size path, [0] = (10796.752176010295,3220.860739209339)
+We need 3 sailors that oars on the right side and 7on the left side
+A* returned a 1 size path, [0] = (11005.665827624744,3160.9582219597464)
+A* returned a 1 size path, [0] = (11176.984018519457,3033.221606595429)
+A* returned a 10 size path, [0] = (10510.492760035442,3079.0049427442395)
+We need 7 sailors that oars on the right side and 3on the left side
+We need 0 sailors that oars on the right side and 7on the left side
+A* said we need to reach (10560.492760035442,3129.0049427442395)
+We need 0 sailors that oars on the right side and 9on the left side
+A* said we need to reach (10610.492760035442,3179.0049427442395)
+We need 0 sailors that oars on the right side and 8on the left side
+A* said we need to reach (10910.492760035442,3229.0049427442395)
+We need 2 sailors that oars on the right side and 7on the left side
+We need 2 sailors that oars on the right side and 7on the left side
+A* said we need to reach (11010.492760035442,3179.0049427442395)
+A* said we need to reach (11060.492760035442,3129.0049427442395)
+A* said we need to reach (11160.492760035442,3079.0049427442395)
+A* said we need to reach (11210.492760035442,3029.0049427442395)
+A* said we need to reach (11310.492760035442,2979.0049427442395)
+A* said we need to reach (11360.492760035442,2629.0049427442395)
+A* returned a 1 size path, [0] = (11709.78639807902,2468.2583049779287)
+A* returned a 1 size path, [0] = (11740.606644927768,2467.730403117488)
+A* returned a 1 size path, [0] = (11739.623620071867,2484.0557471709285)
+A* returned a 1 size path, [0] = (11738.312215516356,2499.9992165779395)
+A* returned a 1 size path, [0] = (11731.75055739694,2510.1793531193)
+A checkpoint has been reached (Checkpoint (position=Position {x=11679.687499999985, y=2460.937499999999, orientation=0.0}, shape=Circle (radius=150.0))).
+Compass said we need to reach: 14973.958333333332 ; 2460.937499999996
+We need 7 sailors that oars on the right side and 3on the left side
+A* returned a 1 size path, [0] = (12660.728983337545,2507.695880243734)
+We need 7 sailors that oars on the right side and 3on the left side
+A* returned a 1 size path, [0] = (12756.017715805126,2445.225550819226)
+A* returned a 1 size path, [0] = (12885.163712922353,2647.73935528683)
+A* returned a 1 size path, [0] = (13009.571365675969,2733.2626256109384)
+A* returned a 1 size path, [0] = (13128.13934863966,2885.654378796106)
+A* returned a 1 size path, [0] = (13242.224323332992,2897.11174593979)
+A* returned a 1 size path, [0] = (13354.651494627751,2911.639164150348)
+A* returned a 1 size path, [0] = (13470.253078254576,2920.288237999466)
+A* returned a 1 size path, [0] = (13588.793124210271,2922.7431684967555)
+A* returned a 1 size path, [0] = (13759.99081944977,2718.7239218062828)
+A* returned a 1 size path, [0] = (13836.599837744641,2694.7547149021675)
+A* returned a 6 size path, [0] = (13616.132921357575,2899.5558075275885)
+A* said we need to reach (13666.132921357575,2849.5558075275885)
+A* said we need to reach (13716.132921357575,2799.5558075275885)
+A* said we need to reach (13766.132921357575,2749.5558075275885)
+A* said we need to reach (13816.132921357575,2699.5558075275885)

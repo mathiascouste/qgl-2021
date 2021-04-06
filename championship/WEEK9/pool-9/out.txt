@@ -1,0 +1,50 @@
+2021-04-06 22:12:30,263 [INFO ] Game creation...
+2021-04-06 22:12:30,286 [INFO ] 1 players created!
+2021-04-06 22:12:30,306 [INFO ] Starting game
+2021-04-06 22:12:30,323 [INFO ] ********************************************
+2021-04-06 22:12:30,323 [INFO ] 517355658 - initGame
+2021-04-06 22:12:30,323 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":4811.197916666662,"y":2421.875000000001,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1500.6510416666626,"y":2303.8736979166674,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1119.7916666666645,"y":1230.468750000001,"orientation":0.0},"shape":{"type":"circle","radius":50.0}},{"position":{"x":1087.2395833333337,"y":-253.9062499999986,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":2386.8815104166624,"y":435.3841145833322,"orientation":0.0},"shape":{"type":"circle","radius":100.0}}]},"ship":{"type":"ship","position":{"x":6699.21875,"y":2499.9999999999995,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":5,"length":10},"entities":[{"x":3,"y":2,"type":"sail","openned":false},{"x":1,"y":4,"type":"oar"},{"x":2,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":4,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":6,"y":4,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":0,"y":4,"type":"oar"},{"x":0,"y":0,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":8,"y":4,"type":"oar"},{"x":8,"y":0,"type":"oar"},{"x":9,"y":4,"type":"oar"},{"x":9,"y":0,"type":"oar"},{"x":9,"y":2,"type":"rudder"}],"life":2500,"shape":{"type":"rectangle","width":5.0,"height":10.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Pouce"},{"x":0,"y":1,"id":1,"name":"Jack Teach"},{"x":0,"y":2,"id":2,"name":"Tom Teach"},{"x":0,"y":3,"id":3,"name":"Luffy Teach"},{"x":0,"y":4,"id":4,"name":"Jack Pouce"},{"x":1,"y":0,"id":5,"name":"Tom Teach"},{"x":1,"y":1,"id":6,"name":"Tom Teach"},{"x":1,"y":2,"id":7,"name":"Edward Pouce"},{"x":1,"y":3,"id":8,"name":"Tom Teach"},{"x":1,"y":4,"id":9,"name":"Tom Teach"},{"x":2,"y":0,"id":10,"name":"Edward Teach"},{"x":2,"y":1,"id":11,"name":"Jack Pouce"},{"x":2,"y":2,"id":12,"name":"Jack Pouce"},{"x":2,"y":3,"id":13,"name":"Luffy Pouce"},{"x":2,"y":4,"id":14,"name":"Jack Pouce"},{"x":3,"y":0,"id":15,"name":"Edward Pouce"},{"x":3,"y":1,"id":16,"name":"Jack Teach"},{"x":3,"y":2,"id":17,"name":"Jack Teach"},{"x":3,"y":3,"id":18,"name":"Tom Teach"},{"x":3,"y":4,"id":19,"name":"Edward Teach"}],"shipCount":1}
+2021-04-06 22:12:30,370 [INFO ] Starting round 0
+2021-04-06 22:12:30,378 [INFO ] ********************************************
+2021-04-06 22:12:30,378 [INFO ] 517355658 - nextRound
+2021-04-06 22:12:30,378 [INFO ] {"ship":{"type":"ship","position":{"x":6699.21875,"y":2499.9999999999995,"orientation":1.5882496193148399},"name":"nautilus","deck":{"width":5,"length":10},"entities":[{"x":3,"y":2,"type":"sail","openned":false},{"x":1,"y":4,"type":"oar"},{"x":2,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":4,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":6,"y":4,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":0,"y":4,"type":"oar"},{"x":0,"y":0,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":8,"y":4,"type":"oar"},{"x":8,"y":0,"type":"oar"},{"x":9,"y":4,"type":"oar"},{"x":9,"y":0,"type":"oar"},{"x":9,"y":2,"type":"rudder"}],"life":2500,"shape":{"type":"rectangle","width":5.0,"height":10.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5475.260416666671,"y":2506.5104166666674,"orientation":1.5707963267948966},"shape":{"type":"polygon","vertices":[{"x":0.0,"y":350.0},{"x":-50.0,"y":0.0},{"x":0.0,"y":-430.0}],"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nautilus IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.GenericClientError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-06 22:12:30,457 [INFO ] Game over
+2021-04-06 22:12:30,457 [INFO ] Creating team's logs files
+2021-04-06 22:12:30,459 [INFO ] Game scores: {nautilus=GENERIC_CLIENT_ERROR}

@@ -1,0 +1,1007 @@
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.game.Game updateGame
+INFOS: kubancrew, life=2500, position{6699,218750 2500,000000 1,588250}
+|---||---||---||---||---|
+|O/S0||-/S1||-/S2||-/S3||O/S4|
+|O/S5||-/S6||-/S7||-/S8||O/S9|
+|O/S10||-/S11||-/S12||-/S13||O/S14|
+|O/S15||-/S16||S/S17||-/S18||O/S19|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||R/--||-/--||O/--|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{6699,218750 2500,000000 1,588250}
+|---||---||---||---||---|
+|O/S0||-/S1||-/S2||-/S3||O/S4|
+|O/S5||-/S6||-/S7||-/S8||O/S9|
+|O/S10||-/S11||-/S12||-/S13||O/S14|
+|O/S15||-/S16||S/S17||-/S18||O/S19|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||R/--||-/--||O/--|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {6699,218750 2500,000000 1,588250}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 889,637
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 1 789,637
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 1,588
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 1,595
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 91,37°
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= PORT
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor fillShip
+INFOS: availableSailors= [Sailor id=0 located on a ship at coordinates {0,000000 0,000000 0,000000}, Sailor id=3 located on a ship at coordinates {0,000000 3,000000 0,000000}, Sailor id=16 located on a ship at coordinates {3,000000 1,000000 0,000000}, Sailor id=10 located on a ship at coordinates {2,000000 0,000000 0,000000}, Sailor id=4 located on a ship at coordinates {0,000000 4,000000 0,000000}, Sailor id=6 located on a ship at coordinates {1,000000 1,000000 0,000000}, Sailor id=7 located on a ship at coordinates {1,000000 2,000000 0,000000}, Sailor id=15 located on a ship at coordinates {3,000000 0,000000 0,000000}, Sailor id=8 located on a ship at coordinates {1,000000 3,000000 0,000000}, Sailor id=12 located on a ship at coordinates {2,000000 2,000000 0,000000}, Sailor id=9 located on a ship at coordinates {1,000000 4,000000 0,000000}, Sailor id=18 located on a ship at coordinates {3,000000 3,000000 0,000000}, Sailor id=1 located on a ship at coordinates {0,000000 1,000000 0,000000}, Sailor id=2 located on a ship at coordinates {0,000000 2,000000 0,000000}, Sailor id=13 located on a ship at coordinates {2,000000 3,000000 0,000000}, Sailor id=14 located on a ship at coordinates {2,000000 4,000000 0,000000}, Sailor id=5 located on a ship at coordinates {1,000000 0,000000 0,000000}, Sailor id=19 located on a ship at coordinates {3,000000 4,000000 0,000000}, Sailor id=11 located on a ship at coordinates {2,000000 1,000000 0,000000}]
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{6699,218750 2500,000000 1,588250}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/S2||O/S3|
+|O/S16||-/S1||-/--||-/S7||O/S8|
+|O/S11||-/S6||-/S13||-/--||O/S18|
+|O/--||-/--||-/--||-/S17||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||R/--||-/--||O/--|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{6689,033620 2606,654565 1,745329}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/S2||O/S3|
+|O/S16||-/S1||-/--||-/S7||O/S8|
+|O/S11||-/S6||-/S13||-/--||O/S18|
+|O/--||-/--||-/--||-/S17||O/--|
+|O/--||-/--||-/--||-/--||O/--|
+|O/--||-/--||R/--||-/--||O/--|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {6689,033620 2606,654565 1,745329}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 886,905
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 1 786,905
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 1,745
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 1,494
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 85,62°
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= PORT
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor fillShip
+INFOS: availableSailors= [Sailor id=0 located on a ship at coordinates {0,000000 0,000000 0,000000}, Sailor id=12 located on a ship at coordinates {4,000000 0,000000 0,000000}, Sailor id=1 located on a ship at coordinates {5,000000 1,000000 0,000000}, Sailor id=10 located on a ship at coordinates {2,000000 0,000000 0,000000}, Sailor id=4 located on a ship at coordinates {0,000000 4,000000 0,000000}, Sailor id=11 located on a ship at coordinates {6,000000 0,000000 0,000000}, Sailor id=7 located on a ship at coordinates {5,000000 3,000000 0,000000}, Sailor id=18 located on a ship at coordinates {6,000000 4,000000 0,000000}, Sailor id=15 located on a ship at coordinates {3,000000 0,000000 0,000000}, Sailor id=2 located on a ship at coordinates {4,000000 3,000000 0,000000}, Sailor id=6 located on a ship at coordinates {6,000000 1,000000 0,000000}, Sailor id=9 located on a ship at coordinates {1,000000 4,000000 0,000000}, Sailor id=14 located on a ship at coordinates {2,000000 4,000000 0,000000}, Sailor id=13 located on a ship at coordinates {6,000000 2,000000 0,000000}, Sailor id=3 located on a ship at coordinates {4,000000 4,000000 0,000000}, Sailor id=5 located on a ship at coordinates {1,000000 0,000000 0,000000}, Sailor id=19 located on a ship at coordinates {3,000000 4,000000 0,000000}, Sailor id=8 located on a ship at coordinates {5,000000 4,000000 0,000000}, Sailor id=16 located on a ship at coordinates {5,000000 0,000000 0,000000}]
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=0}, OarAction{sailorId=12}, OarAction{sailorId=1}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=7}, OarAction{sailorId=18}, OarAction{sailorId=15}, OarAction{sailorId=2}, OarAction{sailorId=6}, OarAction{sailorId=9}, OarAction{sailorId=14}, OarAction{sailorId=13}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 1,902
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 1,902
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 1,337
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 76,62°
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{6689,033620 2606,654565 1,745329}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/S13|
+|O/--||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{6598,720975 2727,685966 2,687807}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/S13|
+|O/--||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {6598,720975 2727,685966 2,687807}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 813,494
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 1 713,494
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 2,688
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0,623
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 35,708°
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= PORT
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=13}, OarAction{sailorId=0}, OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 2,845
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 2,845
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0,466
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 26,708°
+avr. 06, 2021 10:12:10 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{6598,720975 2727,685966 2,687807}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/S13|
+|O/--||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{6446,120144 2750,014474 3,311033}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/S13|
+|O/--||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {6446,120144 2750,014474 3,311033}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 667,527
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 1 567,527
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,311
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0,029
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 1,641°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=13}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,154
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,154
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0,186
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 10,641°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{6446,120144 2750,014474 3,311033}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{6438,009102 2748,508204 3,339667}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {6438,009102 2748,508204 3,339667}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 659,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 1 559,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0,004°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0,004°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{6438,009102 2748,508204 3,339667}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{6292,413726 2719,280879 3,339739}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {6292,413726 2719,280879 3,339739}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 510,778
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 1 410,778
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor fillShip
+INFOS: availableSailors= [Sailor id=12 located on a ship at coordinates {4,000000 0,000000 0,000000}, Sailor id=7 located on a ship at coordinates {9,000000 4,000000 0,000000}, Sailor id=10 located on a ship at coordinates {2,000000 0,000000 0,000000}, Sailor id=4 located on a ship at coordinates {0,000000 4,000000 0,000000}, Sailor id=11 located on a ship at coordinates {6,000000 0,000000 0,000000}, Sailor id=1 located on a ship at coordinates {7,000000 0,000000 0,000000}, Sailor id=6 located on a ship at coordinates {8,000000 0,000000 0,000000}, Sailor id=18 located on a ship at coordinates {6,000000 4,000000 0,000000}, Sailor id=2 located on a ship at coordinates {7,000000 4,000000 0,000000}, Sailor id=15 located on a ship at coordinates {3,000000 0,000000 0,000000}, Sailor id=9 located on a ship at coordinates {1,000000 4,000000 0,000000}, Sailor id=13 located on a ship at coordinates {9,000000 0,000000 0,000000}, Sailor id=14 located on a ship at coordinates {2,000000 4,000000 0,000000}, Sailor id=0 located on a ship at coordinates {2,000000 3,000000 0,000000}, Sailor id=3 located on a ship at coordinates {4,000000 4,000000 0,000000}, Sailor id=5 located on a ship at coordinates {1,000000 0,000000 0,000000}, Sailor id=19 located on a ship at coordinates {3,000000 4,000000 0,000000}, Sailor id=8 located on a ship at coordinates {5,000000 4,000000 0,000000}, Sailor id=16 located on a ship at coordinates {5,000000 0,000000 0,000000}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{6292,413726 2719,280879 3,339739}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{6146,819463 2690,048012 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {6146,819463 2690,048012 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 362,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 1 262,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{6146,819463 2690,048012 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{6001,225256 2660,814868 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {6001,225256 2660,814868 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 213,778
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 1 113,778
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor fillShip
+INFOS: availableSailors= [Sailor id=12 located on a ship at coordinates {4,000000 0,000000 0,000000}, Sailor id=7 located on a ship at coordinates {9,000000 4,000000 0,000000}, Sailor id=10 located on a ship at coordinates {2,000000 0,000000 0,000000}, Sailor id=4 located on a ship at coordinates {0,000000 4,000000 0,000000}, Sailor id=11 located on a ship at coordinates {6,000000 0,000000 0,000000}, Sailor id=1 located on a ship at coordinates {7,000000 0,000000 0,000000}, Sailor id=6 located on a ship at coordinates {8,000000 0,000000 0,000000}, Sailor id=18 located on a ship at coordinates {6,000000 4,000000 0,000000}, Sailor id=2 located on a ship at coordinates {7,000000 4,000000 0,000000}, Sailor id=15 located on a ship at coordinates {3,000000 0,000000 0,000000}, Sailor id=9 located on a ship at coordinates {1,000000 4,000000 0,000000}, Sailor id=13 located on a ship at coordinates {9,000000 0,000000 0,000000}, Sailor id=14 located on a ship at coordinates {2,000000 4,000000 0,000000}, Sailor id=0 located on a ship at coordinates {2,000000 3,000000 0,000000}, Sailor id=3 located on a ship at coordinates {4,000000 4,000000 0,000000}, Sailor id=5 located on a ship at coordinates {1,000000 0,000000 0,000000}, Sailor id=19 located on a ship at coordinates {3,000000 4,000000 0,000000}, Sailor id=8 located on a ship at coordinates {5,000000 4,000000 0,000000}, Sailor id=16 located on a ship at coordinates {5,000000 0,000000 0,000000}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{6001,225256 2660,814868 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{5855,631051 2631,581708 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {5855,631051 2631,581708 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 1 065,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 965,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{5855,631051 2631,581708 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{5710,036847 2602,348548 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {5710,036847 2602,348548 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 916,778
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 816,778
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor fillShip
+INFOS: availableSailors= [Sailor id=12 located on a ship at coordinates {4,000000 0,000000 0,000000}, Sailor id=7 located on a ship at coordinates {9,000000 4,000000 0,000000}, Sailor id=10 located on a ship at coordinates {2,000000 0,000000 0,000000}, Sailor id=4 located on a ship at coordinates {0,000000 4,000000 0,000000}, Sailor id=11 located on a ship at coordinates {6,000000 0,000000 0,000000}, Sailor id=1 located on a ship at coordinates {7,000000 0,000000 0,000000}, Sailor id=6 located on a ship at coordinates {8,000000 0,000000 0,000000}, Sailor id=18 located on a ship at coordinates {6,000000 4,000000 0,000000}, Sailor id=2 located on a ship at coordinates {7,000000 4,000000 0,000000}, Sailor id=15 located on a ship at coordinates {3,000000 0,000000 0,000000}, Sailor id=9 located on a ship at coordinates {1,000000 4,000000 0,000000}, Sailor id=13 located on a ship at coordinates {9,000000 0,000000 0,000000}, Sailor id=14 located on a ship at coordinates {2,000000 4,000000 0,000000}, Sailor id=0 located on a ship at coordinates {2,000000 3,000000 0,000000}, Sailor id=3 located on a ship at coordinates {4,000000 4,000000 0,000000}, Sailor id=5 located on a ship at coordinates {1,000000 0,000000 0,000000}, Sailor id=19 located on a ship at coordinates {3,000000 4,000000 0,000000}, Sailor id=8 located on a ship at coordinates {5,000000 4,000000 0,000000}, Sailor id=16 located on a ship at coordinates {5,000000 0,000000 0,000000}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{5710,036847 2602,348548 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{5564,442642 2573,115388 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {5564,442642 2573,115388 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 768,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 668,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{5564,442642 2573,115388 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{5418,848438 2543,882227 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {5418,848438 2543,882227 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 619,778
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 519,778
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor fillShip
+INFOS: availableSailors= [Sailor id=12 located on a ship at coordinates {4,000000 0,000000 0,000000}, Sailor id=7 located on a ship at coordinates {9,000000 4,000000 0,000000}, Sailor id=10 located on a ship at coordinates {2,000000 0,000000 0,000000}, Sailor id=4 located on a ship at coordinates {0,000000 4,000000 0,000000}, Sailor id=11 located on a ship at coordinates {6,000000 0,000000 0,000000}, Sailor id=1 located on a ship at coordinates {7,000000 0,000000 0,000000}, Sailor id=6 located on a ship at coordinates {8,000000 0,000000 0,000000}, Sailor id=18 located on a ship at coordinates {6,000000 4,000000 0,000000}, Sailor id=2 located on a ship at coordinates {7,000000 4,000000 0,000000}, Sailor id=15 located on a ship at coordinates {3,000000 0,000000 0,000000}, Sailor id=9 located on a ship at coordinates {1,000000 4,000000 0,000000}, Sailor id=13 located on a ship at coordinates {9,000000 0,000000 0,000000}, Sailor id=14 located on a ship at coordinates {2,000000 4,000000 0,000000}, Sailor id=0 located on a ship at coordinates {2,000000 3,000000 0,000000}, Sailor id=3 located on a ship at coordinates {4,000000 4,000000 0,000000}, Sailor id=5 located on a ship at coordinates {1,000000 0,000000 0,000000}, Sailor id=19 located on a ship at coordinates {3,000000 4,000000 0,000000}, Sailor id=8 located on a ship at coordinates {5,000000 4,000000 0,000000}, Sailor id=16 located on a ship at coordinates {5,000000 0,000000 0,000000}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{5418,848438 2543,882227 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=2500, position{5273,254234 2514,649067 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {5273,254234 2514,649067 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 471,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 371,278
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=2500, position{5273,254234 2514,649067 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=1398, position{5252,871045 2510,556424 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {5252,871045 2510,556424 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 450,488
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 350,488
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor fillShip
+INFOS: availableSailors= [Sailor id=12 located on a ship at coordinates {4,000000 0,000000 0,000000}, Sailor id=7 located on a ship at coordinates {9,000000 4,000000 0,000000}, Sailor id=10 located on a ship at coordinates {2,000000 0,000000 0,000000}, Sailor id=4 located on a ship at coordinates {0,000000 4,000000 0,000000}, Sailor id=11 located on a ship at coordinates {6,000000 0,000000 0,000000}, Sailor id=1 located on a ship at coordinates {7,000000 0,000000 0,000000}, Sailor id=6 located on a ship at coordinates {8,000000 0,000000 0,000000}, Sailor id=18 located on a ship at coordinates {6,000000 4,000000 0,000000}, Sailor id=2 located on a ship at coordinates {7,000000 4,000000 0,000000}, Sailor id=15 located on a ship at coordinates {3,000000 0,000000 0,000000}, Sailor id=9 located on a ship at coordinates {1,000000 4,000000 0,000000}, Sailor id=13 located on a ship at coordinates {9,000000 0,000000 0,000000}, Sailor id=14 located on a ship at coordinates {2,000000 4,000000 0,000000}, Sailor id=0 located on a ship at coordinates {2,000000 3,000000 0,000000}, Sailor id=3 located on a ship at coordinates {4,000000 4,000000 0,000000}, Sailor id=5 located on a ship at coordinates {1,000000 0,000000 0,000000}, Sailor id=19 located on a ship at coordinates {3,000000 4,000000 0,000000}, Sailor id=8 located on a ship at coordinates {5,000000 4,000000 0,000000}, Sailor id=16 located on a ship at coordinates {5,000000 0,000000 0,000000}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=1398, position{5252,871045 2510,556424 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Next action for kubancrew, life=296, position{5252,871045 2510,556424 3,339743}
+|---||---||---||---||---|
+|O/S0||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/--||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: Wind = Wind{orientation: 0.0, strength: 100.0}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ShipPos: {5252,871045 2510,556424 3,339743}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPPos: {4811,197917 2421,875000 0,000000}
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: distanceTo: 450,488
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: CPRadius: 100
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: Calc: 350,488
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper isInCheckpoint
+INFOS: ---
+
+
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.OarProcessor processMovements
+INFOS: targetSide= AHEAD
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor getNextOrientation
+INFOS: oaringActions = [OarAction{sailorId=12}, OarAction{sailorId=7}, OarAction{sailorId=10}, OarAction{sailorId=4}, OarAction{sailorId=11}, OarAction{sailorId=1}, OarAction{sailorId=6}, OarAction{sailorId=18}, OarAction{sailorId=2}, OarAction{sailorId=15}, OarAction{sailorId=9}, OarAction{sailorId=13}, OarAction{sailorId=14}, OarAction{sailorId=3}, OarAction{sailorId=5}, OarAction{sailorId=19}, OarAction{sailorId=8}, OarAction{sailorId=16}]
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: [CREATE TURN ACTION] nextOrientation = 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.processors.impl.RudderProcessor createTurnAction
+INFOS: Update orientation by applying OAR ACTION.
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: Orientation avant mouvement : 3,34
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (rad) : 0
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.helpers.SituationEvaluatorHelper getTargetAngle
+INFOS: targetAngle (deg) : 0°
+avr. 06, 2021 10:12:11 PM fr.unice.polytech.si3.qgl.kubancrew.navigation.strategy.RegattaStrategy getNextActions
+INFOS: game.getSeaMap().getShip() = kubancrew, life=296, position{5252,871045 2510,556424 3,339743}
+|---||---||---||---||---|
+|O/--||-/--||-/--||-/--||O/S4|
+|O/S5||-/--||-/--||-/--||O/S9|
+|O/S10||-/--||-/--||-/S0||O/S14|
+|O/S15||-/--||S/--||-/--||O/S19|
+|O/S12||-/--||-/--||-/--||O/S3|
+|O/S16||-/--||-/--||-/--||O/S8|
+|O/S11||-/--||-/--||-/--||O/S18|
+|O/S1||-/--||-/--||-/--||O/S2|
+|O/S6||-/--||-/--||-/--||O/--|
+|O/S13||-/--||R/S17||-/--||O/S7|
+|---||---||---||---||---|
+

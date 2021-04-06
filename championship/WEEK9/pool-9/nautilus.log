@@ -1,0 +1,11 @@
+Init game input:
+>Boat:
+>>Position X: 6699.21875
+>>Position Y: 2499.9999999999995
+>>Angle: 1.5882496193148399
+>>Life: 2500
+>>Checkpoint number: 1
+>>Next Checkpoint :
+>>>X: 4811.197916666662
+>>>Y: 2421
+com.fasterxml.jackson.databind.JsonMappingException: Class fr.unice.polytech.si3.qgl.nautilus.shape.Polygon not subtype of [simple type, class fr.unice.polytech.si3.qgl.nautilus.shape.Shape] (through 
