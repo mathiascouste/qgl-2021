@@ -9,14 +9,14 @@ Ces consignes pourraient changer pour l'année 2020-2021.**
 -   Titre du rapport
 -   Nom et ID de l’équipe
 -   Drapeau de l’équipe
--   Mention: FISE ou FISA
+-   Mention : FISE ou FISA
 -   Nom des membres de l’équipe
 
 ### Page 2 - Sommaire
 
 ### Page 3 à 5 - Description technique
 
--   Architecture du projet: quelles sont les différentes phases de votre programme lors de la prise de décision. Quels sont les liens entre ces étapes ? Est-ce-que cette architecture est extensible: par exemple pour l’introduction d’un nouveau mode de jeu ? Expliquez et justifiez les choix de conception qui ont influencés ou limité l’architecture du projet.
+-   Architecture du projet : quelles sont les différentes phases de votre programme lors de la prise de décision. Quels sont les liens entre ces étapes ? Est-ce-que cette architecture est extensible : par exemple pour l’introduction d’un nouveau mode de jeu ? Expliquez et justifiez les choix de conception qui ont influencés ou limité l’architecture du projet.
     
 -   Vous avez dû travailler dans l’interface imposée par ICockpit et par le schéma des JSONs initGame et nextRound. Quels ont été les impacts de ces contraintes sur votre architecture, ainsi que sur vos modèles de données ?
 
@@ -30,13 +30,13 @@ Ces consignes pourraient changer pour l'année 2020-2021.**
     
 -   Comment l’automatisation d’une partie des tâches de votre projet vous a-t-elle permis de gagner en efficacité et en qualité ?
 
-### Pages 9 à 11: Etude fonctionnelle et outillage additionnels
+### Pages 9 à 11 : Etude fonctionnelle et outillage additionnels
 
 -   D’après votre étude du sujet, quelles stratégie avez vous ou auriez vous pu mettre en place afin d'augmenter votre chance de victoire ? (Régate et bataille navale)
     
 -   En plus des outils attendus, quels outils avez vous utilisés ou créés afin de vous aider dans le projet? Si aucun, quels outils auriez vous pu utiliser ou créer ?
 
-### Page 12: Conclusion
+### Page 12 : Conclusion
 
 -   Qu’avez vous appris lors de ce projet ?
     
