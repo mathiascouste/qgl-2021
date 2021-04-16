@@ -1,0 +1,28 @@
+Unknown equipment (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Game["ship"]->fr.unice.polytech.si3.qgl.kubancrew.elements.sea.Ship["entities"]->java.util.ArrayList[2])
+[com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:394), com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:365), com.f
+asterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:302), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeseriali
+zer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(Settab
+leBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.databind.deser.BeanDeserializer._deseria
+lizeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1287), com.fasterxml.jackson
+.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:159), com.fasterxml.jackson.d
+atabind.deser.SettableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.faste
+rxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(B
+eanDeserializerBase.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializ
+e(BeanDeserializer.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.f
+asterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.initGame(Cockpit.java:59), java.base/jdk.internal.reflect.NativeMethodAccessorImpl
+.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Delegating
+MethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$1.run(Cockpit.java:50)]
+Unknown equipment (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["ship"]->fr.unice.polytech.si3.qgl.kubancrew.elements.sea.Ship["entities"]->java.util.ArrayList[2])
+[com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:394), com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:365), com.f
+asterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:302), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeseriali
+zer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(Settab
+leBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.databind.deser.BeanDeserializer._deseria
+lizeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1287), com.fasterxml.jackson
+.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:159), com.fasterxml.jackson.d
+atabind.deser.SettableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.faste
+rxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(B
+eanDeserializerBase.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializ
+e(BeanDeserializer.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.f
+asterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:72), java.base/jdk.internal.reflect.NativeMethodAccessorImp
+l.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Delegatin
+gMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)]

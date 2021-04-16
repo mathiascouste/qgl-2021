@@ -1,0 +1,197 @@
+2021-04-15 22:38:00,258 [INFO ] Game creation...
+2021-04-15 22:38:00,280 [INFO ] 1 players created!
+2021-04-15 22:38:00,307 [INFO ] Starting game
+2021-04-15 22:38:00,330 [INFO ] ********************************************
+2021-04-15 22:38:00,331 [INFO ] 1813666644 - initGame
+2021-04-15 22:38:00,331 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0.0},"shape":{"type":"circle","radius":150.0}},{"position":{"x":6739.1304347826035,"y":-171.00977198697126,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4634.782608695657,"y":-1042.345276872964,"orientation":0.0},"shape":{"type":"circle","radius":1000.0}}]},"ship":{"type":"ship","position":{"x":686.9565217391303,"y":-105.86319218241121,"orientation":0.0},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Edward Pouce"},{"x":0,"y":1,"id":1,"name":"Tom Teach"},{"x":0,"y":2,"id":2,"name":"Edward Pouce"},{"x":1,"y":0,"id":3,"name":"Tom Pouce"},{"x":1,"y":1,"id":4,"name":"Luffy Pouce"},{"x":1,"y":2,"id":5,"name":"Luffy Teach"},{"x":2,"y":0,"id":6,"name":"Tom Teach"},{"x":2,"y":1,"id":7,"name":"Jack Pouce"},{"x":2,"y":2,"id":8,"name":"Jack Teach"},{"x":3,"y":0,"id":9,"name":"Tom Teach"},{"x":3,"y":1,"id":10,"name":"Luffy Teach"}],"shipCount":1}
+2021-04-15 22:38:00,390 [INFO ] Starting round 0
+2021-04-15 22:38:00,396 [INFO ] ********************************************
+2021-04-15 22:38:00,396 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,396 [INFO ] {"ship":{"type":"ship","position":{"x":686.9565217391303,"y":-105.86319218241121,"orientation":0.0},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,416 [INFO ] Player response:[{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":-1},{"sailorId":3,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":2,"type":"MOVING","xdistance":2,"ydistance":-2},{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":1},{"sailorId":6,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":5,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":7,"type":"MOVING","xdistance":2,"ydistance":-1},{"sailorId":9,"type":"MOVING","xdistance":1,"ydistance":2},{"sailorId":0,"type":"MOVING","xdistance":5,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.010702243773140224},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,431 [WARN ] Cannot execute action, turn rotation is out of range or no rudder available for sailor #0
+2021-04-15 22:38:00,432 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:00,468 [INFO ] Starting round 1
+2021-04-15 22:38:00,469 [INFO ] ********************************************
+2021-04-15 22:38:00,469 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,469 [INFO ] {"ship":{"type":"ship","position":{"x":851.956521739128,"y":-105.86319218241121,"orientation":0.0},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,471 [INFO ] Player response:[{"sailorId":0,"type":"MOVING","xdistance":0,"ydistance":1},{"sailorId":10,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":3,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":8,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.0120036802505003},{"sailorId":10,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,472 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #5
+2021-04-15 22:38:00,473 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:00,473 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:00,487 [INFO ] Starting round 2
+2021-04-15 22:38:00,488 [INFO ] ********************************************
+2021-04-15 22:38:00,488 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,488 [INFO ] {"ship":{"type":"ship","position":{"x":992.9208632463573,"y":-78.98030562356315,"orientation":0.3806954014482236},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,490 [INFO ] Player response:[{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":6,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":3,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":7,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":5,"type":"MOVING","xdistance":-2,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.41618832563794794},{"sailorId":10,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,492 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:00,492 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:00,492 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:00,505 [INFO ] Starting round 3
+2021-04-15 22:38:00,506 [INFO ] ********************************************
+2021-04-15 22:38:00,506 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,506 [INFO ] {"ship":{"type":"ship","position":{"x":1127.5711163511517,"y":-26.898718757645213,"orientation":0.3572061575090005},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,507 [INFO ] Player response:[{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":-2},{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":6,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":7,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.4450829948019338},{"sailorId":10,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,509 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:00,509 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:00,509 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:00,520 [INFO ] Starting round 4
+2021-04-15 22:38:00,520 [INFO ] ********************************************
+2021-04-15 22:38:00,520 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,520 [INFO ] {"ship":{"type":"ship","position":{"x":1264.0805591550304,"y":20.053885787506314,"orientation":0.3048222444057905},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,522 [INFO ] Player response:[{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":-2},{"sailorId":6,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":7,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":4,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.45424168238532436},{"sailorId":10,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,523 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:00,524 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:00,524 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:00,534 [INFO ] Starting round 5
+2021-04-15 22:38:00,534 [INFO ] ********************************************
+2021-04-15 22:38:00,535 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,535 [INFO ] {"ship":{"type":"ship","position":{"x":1403.0338833176343,"y":59.16318007812776,"orientation":0.24327964371919195},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,536 [INFO ] Player response:[{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":-2},{"sailorId":7,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":6,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.46464030130278033},{"sailorId":10,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,537 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:00,538 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:00,538 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:00,549 [INFO ] Starting round 6
+2021-04-15 22:38:00,549 [INFO ] ********************************************
+2021-04-15 22:38:00,549 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,549 [INFO ] {"ship":{"type":"ship","position":{"x":1544.2764152468653,"y":88.92389708206461,"orientation":0.17133842411513442},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,551 [INFO ] Player response:[{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":-2},{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":6,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":7,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.4789368638114232},{"sailorId":10,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,552 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:00,552 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:00,552 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:00,562 [INFO ] Starting round 7
+2021-04-15 22:38:00,563 [INFO ] ********************************************
+2021-04-15 22:38:00,563 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,563 [INFO ] {"ship":{"type":"ship","position":{"x":1687.4139266700888,"y":107.44091259277333,"orientation":0.0851006420024347},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,564 [INFO ] Player response:[{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":-2},{"sailorId":6,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":7,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":4,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.49997195478633794},{"sailorId":10,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,565 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:00,566 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:00,566 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:00,575 [INFO ] Starting round 8
+2021-04-15 22:38:00,576 [INFO ] ********************************************
+2021-04-15 22:38:00,576 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,576 [INFO ] {"ship":{"type":"ship","position":{"x":1831.6458380341085,"y":112.05799207009518,"orientation":-0.022172231085179045},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:00,577 [INFO ] Player response:[{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":-2},{"sailorId":7,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":6,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.5336601397819433},{"sailorId":10,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:00,578 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:00,578 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:00,578 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:00,587 [INFO ] Starting round 9
+2021-04-15 22:38:00,588 [INFO ] ********************************************
+2021-04-15 22:38:00,588 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:00,588 [INFO ] {"ship":{"type":"ship","position":{"x":1975.291979777295,"y":98.81267487460399,"orientation":-0.16313328916839837},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3686.956521739132,"y":399.0228013029312,"orientation":0.3665191429188092},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:01,016 [INFO ] Player response:[{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":-2},{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":6,"type":"MOVING","xdistance":1,"ydistance":-2},{"sailorId":7,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.6222648742290497},{"sailorId":10,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-15 22:38:01,017 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:01,018 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:01,018 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:01,023 [INFO ] Starting round 10
+2021-04-15 22:38:01,024 [INFO ] ********************************************
+2021-04-15 22:38:01,024 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:01,024 [INFO ] {"ship":{"type":"ship","position":{"x":2113.8678427816985,"y":59.44899510932018,"orientation":-0.39269908169872236},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3686.956521739132,"y":399.0228013029312,"orientation":0.3665191429188092},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:01,421 [INFO ] Player response:[{"sailorId":1,"type":"MOVING","xdistance":-1,"ydistance":-2},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"MOVING","xdistance":-3,"ydistance":0},{"sailorId":4,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":7,"type":"MOVING","xdistance":-1,"ydistance":0},{"sailorId":7,"type":"OAR"},{"sailorId":0,"type":"TURN","rotation":-0.3926990816987259}]
+2021-04-15 22:38:01,427 [INFO ] Starting round 11
+2021-04-15 22:38:01,429 [INFO ] ********************************************
+2021-04-15 22:38:01,429 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:01,429 [INFO ] {"ship":{"type":"ship","position":{"x":2179.283072161384,"y":-37.214314146400824,"orientation":-1.570796326794894},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3686.956521739132,"y":399.0228013029312,"orientation":0.3665191429188092},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:01,744 [INFO ] Player response:[{"sailorId":8,"type":"MOVING","xdistance":0,"ydistance":-1},{"sailorId":9,"type":"MOVING","xdistance":0,"ydistance":-1},{"sailorId":1,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":5,"type":"OAR"},{"sailorId":7,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":7,"type":"OAR"},{"sailorId":8,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":8,"type":"OAR"},{"sailorId":0,"type":"TURN","rotation":0.5880026035475665}]
+2021-04-15 22:38:01,744 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #8
+2021-04-15 22:38:01,745 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #5
+2021-04-15 22:38:01,745 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:01,751 [INFO ] Starting round 12
+2021-04-15 22:38:01,752 [INFO ] ********************************************
+2021-04-15 22:38:01,752 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:01,752 [INFO ] {"ship":{"type":"ship","position":{"x":2238.351491394589,"y":-69.65177275957082,"orientation":0.5880026035475675},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3686.956521739132,"y":399.0228013029312,"orientation":0.3665191429188092},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:02,071 [INFO ] Player response:[{"sailorId":3,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":6,"type":"MOVING","xdistance":1,"ydistance":2},{"sailorId":9,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":10,"type":"MOVING","xdistance":2,"ydistance":2},{"sailorId":5,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":8,"type":"MOVING","xdistance":1,"ydistance":2},{"sailorId":1,"type":"MOVING","xdistance":3,"ydistance":-2},{"sailorId":2,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.785398163397448},{"sailorId":3,"type":"OAR"},{"sailorId":9,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":7,"type":"OAR"}]
+2021-04-15 22:38:02,072 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #8
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #9
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #10
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #5
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #6
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #7
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:02,073 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:02,078 [INFO ] Starting round 13
+2021-04-15 22:38:02,078 [INFO ] ********************************************
+2021-04-15 22:38:02,078 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:02,078 [INFO ] {"ship":{"type":"ship","position":{"x":2295.128356921655,"y":-46.07297289852664,"orientation":0.1953035218488452},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3686.956521739132,"y":399.0228013029312,"orientation":0.3665191429188092},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:02,337 [INFO ] Player response:[{"sailorId":9,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":10,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":4,"type":"MOVING","xdistance":-1,"ydistance":-2},{"sailorId":8,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":0,"type":"TURN","rotation":-0.3926990816987248},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":9,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":8,"type":"OAR"}]
+2021-04-15 22:38:02,337 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #9
+2021-04-15 22:38:02,338 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-04-15 22:38:02,338 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #5
+2021-04-15 22:38:02,338 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #6
+2021-04-15 22:38:02,338 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #7
+2021-04-15 22:38:02,338 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:02,338 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:02,338 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:02,343 [INFO ] Starting round 14
+2021-04-15 22:38:02,344 [INFO ] ********************************************
+2021-04-15 22:38:02,344 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:02,344 [INFO ] {"ship":{"type":"ship","position":{"x":2354.3004656609114,"y":-57.66591999809471,"orientation":-0.5900946415486035},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3686.956521739132,"y":399.0228013029312,"orientation":0.3665191429188092},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:02,666 [INFO ] Player response:[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":9,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":10,"type":"MOVING","xdistance":-1,"ydistance":-2},{"sailorId":0,"type":"TURN","rotation":0.5900946415486028},{"sailorId":3,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":9,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":8,"type":"OAR"}]
+2021-04-15 22:38:02,667 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #10
+2021-04-15 22:38:02,667 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-04-15 22:38:02,667 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #5
+2021-04-15 22:38:02,667 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #6
+2021-04-15 22:38:02,667 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #7
+2021-04-15 22:38:02,667 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:02,667 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:02,667 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:02,673 [INFO ] Starting round 15
+2021-04-15 22:38:02,674 [INFO ] ********************************************
+2021-04-15 22:38:02,674 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:02,674 [INFO ] {"ship":{"type":"ship","position":{"x":2413.3967929296523,"y":-63.8109995037089,"orientation":0.39269908169872314},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3686.956521739132,"y":399.0228013029312,"orientation":0.3665191429188092},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-15 22:38:03,006 [INFO ] Player response:[{"sailorId":10,"type":"MOVING","xdistance":0,"ydistance":2},{"sailorId":4,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":9,"type":"MOVING","xdistance":-1,"ydistance":-2},{"sailorId":0,"type":"TURN","rotation":-0.39269908169872303},{"sailorId":3,"type":"OAR"},{"sailorId":9,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":7,"type":"OAR"},{"sailorId":8,"type":"OAR"}]
+2021-04-15 22:38:03,007 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #9
+2021-04-15 22:38:03,008 [WARN ] Cannot execute action, sailor cant move more than 5 or go outside of the ship. for sailor #10
+2021-04-15 22:38:03,008 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #3
+2021-04-15 22:38:03,008 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #5
+2021-04-15 22:38:03,008 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #6
+2021-04-15 22:38:03,008 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #7
+2021-04-15 22:38:03,008 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #8
+2021-04-15 22:38:03,008 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #9
+2021-04-15 22:38:03,008 [WARN ] Cannot execute action, no available oar in the sailor position for sailor #10
+2021-04-15 22:38:03,013 [INFO ] Starting round 16
+2021-04-15 22:38:03,013 [INFO ] ********************************************
+2021-04-15 22:38:03,013 [INFO ] 1813666644 - nextRound
+2021-04-15 22:38:03,013 [INFO ] {"ship":{"type":"ship","position":{"x":2470.561839003776,"y":-40.132462126118696,"orientation":0.39269908169872314},"name":"detritus","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3686.956521739132,"y":399.0228013029312,"orientation":0.3665191429188092},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+detritus IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.GenericClientError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-15 22:38:03,353 [INFO ] Game over
+2021-04-15 22:38:03,353 [INFO ] Creating team's logs files
+2021-04-15 22:38:03,356 [INFO ] Game scores: {detritus=GENERIC_CLIENT_ERROR}

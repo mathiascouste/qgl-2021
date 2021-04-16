@@ -1,0 +1,100 @@
+Compass said we need to reach: 2283.691290839539 ; -122.95865178276716
+A* returned a 1 size path, [0] = (1776.9534203514074,-143.73710642787296)
+A* returned a 1 size path, [0] = (2237.8951181804314,-147.8950949539103)
+A* returned a 1 size path, [0] = (2106.7922702419783,-153.70162552899615)
+A* returned a 1 size path, [0] = (2234.6899847612312,-159.4921610530405)
+A* returned a 1 size path, [0] = (2214.552707263165,-129.22097386303517)
+A* returned a 1 size path, [0] = (2231.504404849005,-132.68678900399163)
+A* returned a 1 size path, [0] = (2211.504404849014,-132.68678900399163)
+A* returned a 1 size path, [0] = (2228.504404849023,-132.68678900399163)
+A checkpoint has been reached (Checkpoint (position=Position {x=2208.6956521739257, y=-122.14983713355095, orientation=0.0}, shape=Circle (radius=150.0))) position: Position {x=2171.504404849032, y=-1
+Compass said we need to reach: 6692.934022160334 ; -190.13806152976815
+A* returned a 1 size path, [0] = (6685.504404849033,-169.68678900399118)
+A* returned a 3 size path, [0] = (2965.50258339914,-170.35652028877894)
+A* said we need to reach (3187.50258339914,-207.35652028877894)
+A* said we need to reach (3261.50258339914,-170.35652028877894)
+A* returned a 50 size path, [0] = (2904.4810939665854,-14.673471278586476)
+We need 4 sailors that oars on the right side and 1on the left side
+We need 1 sailors that oars on the right side and 4on the left side
+A* said we need to reach (2867.4810939665854,96.32652872141352)
+We need 0 sailors that oars on the right side and 5on the left side
+A* said we need to reach (2830.4810939665854,170.32652872141352)
+We need 0 sailors that oars on the right side and 6on the left side
+A* said we need to reach (2793.4810939665854,429.3265287214135)
+We need 0 sailors that oars on the right side and 5on the left side
+A* said we need to reach (2904.4810939665854,466.3265287214135)
+We need 1 sailors that oars on the right side and 4on the left side
+We need 2 sailors that oars on the right side and 4on the left side
+A* said we need to reach (3015.4810939665854,503.3265287214135)
+A* said we need to reach (3089.4810939665854,540.3265287214135)
+A* said we need to reach (3200.4810939665854,577.3265287214135)
+A* said we need to reach (3311.4810939665854,614.3265287214135)
+We need 2 sailors that oars on the right side and 4on the left side
+A* said we need to reach (3385.4810939665854,651.3265287214135)
+We need 7 sailors that oars on the right side and 0on the left side
+We need 0 sailors that oars on the right side and 6on the left side
+A* said we need to reach (3496.4810939665854,688.3265287214135)
+We need 0 sailors that oars on the right side and 7on the left side
+We need 2 sailors that oars on the right side and 4on the left side
+A* said we need to reach (3570.4810939665854,725.3265287214135)
+We need 1 sailors that oars on the right side and 4on the left side
+A* said we need to reach (3681.4810939665854,762.3265287214135)
+A* said we need to reach (3792.4810939665854,799.3265287214135)
+We need 4 sailors that oars on the right side and 1on the left side
+We need 1 sailors that oars on the right side and 4on the left side
+A* said we need to reach (3866.4810939665854,836.3265287214135)
+We need 1 sailors that oars on the right side and 4on the left side
+A* said we need to reach (3977.4810939665854,873.3265287214135)
+We need 1 sailors that oars on the right side and 4on the left side
+A* said we need to reach (4051.4810939665854,910.3265287214135)
+A* said we need to reach (4162.481093966586,947.3265287214135)
+We need 4 sailors that oars on the right side and 0on the left side
+We need 0 sailors that oars on the right side and 5on the left side
+A* said we need to reach (4347.481093966586,984.3265287214135)
+We need 1 sailors that oars on the right side and 4on the left side
+We need 2 sailors that oars on the right side and 4on the left side
+A* said we need to reach (4495.481093966586,947.3265287214135)
+A* said we need to reach (4606.481093966586,910.3265287214135)
+A* said we need to reach (4717.481093966586,873.3265287214135)
+A* said we need to reach (4828.481093966586,836.3265287214135)
+A* said we need to reach (4976.481093966586,799.3265287214135)
+A* said we need to reach (5087.481093966586,762.3265287214135)
+A* said we need to reach (5198.481093966586,725.3265287214135)
+We need 1 sailors that oars on the right side and 4on the left side
+We need 4 sailors that oars on the right side and 2on the left side
+A* said we need to reach (5309.481093966586,688.3265287214135)
+We need 4 sailors that oars on the right side and 0on the left side
+A* said we need to reach (5457.481093966586,651.3265287214135)
+A* said we need to reach (5568.481093966586,614.3265287214135)
+A* said we need to reach (5679.481093966586,577.3265287214135)
+A* said we need to reach (5790.481093966586,540.3265287214135)
+We need 4 sailors that oars on the right side and 0on the left side
+We need 1 sailors that oars on the right side and 4on the left side
+A* said we need to reach (5938.481093966586,503.3265287214135)
+A* said we need to reach (6049.481093966586,466.3265287214135)
+We need 1 sailors that oars on the right side and 4on the left side
+A* said we need to reach (6086.481093966586,429.3265287214135)
+A* said we need to reach (6123.481093966586,392.3265287214135)
+We need 7 sailors that oars on the right side and 0on the left side
+We need 2 sailors that oars on the right side and 4on the left side
+A* said we need to reach (6160.481093966586,355.3265287214135)
+We need 4 sailors that oars on the right side and 0on the left side
+We need 0 sailors that oars on the right side and 7on the left side
+A* said we need to reach (6197.481093966586,318.3265287214135)
+We need 6 sailors that oars on the right side and 0on the left side
+We need 5 sailors that oars on the right side and 0on the left side
+A* said we need to reach (6234.481093966586,281.3265287214135)
+We need 5 sailors that oars on the right side and 0on the left side
+A* said we need to reach (6271.481093966586,244.32652872141352)
+We need 4 sailors that oars on the right side and 2on the left side
+A* said we need to reach (6308.481093966586,207.32652872141352)
+A* said we need to reach (6345.481093966586,170.32652872141352)
+We need 1 sailors that oars on the right side and 4on the left side
+A* said we need to reach (6382.481093966586,133.32652872141352)
+We need 0 sailors that oars on the right side and 8on the left side
+A* said we need to reach (6419.481093966586,96.32652872141352)
+We need 0 sailors that oars on the right side and 4on the left side
+We need 5 sailors that oars on the right side and 0on the left side
+A* said we need to reach (6456.481093966586,59.326528721413524)
+We need 6 sailors that oars on the right side and 0on the left side
+A* said we need to reach (6493.481093966586,22.326528721413524)
