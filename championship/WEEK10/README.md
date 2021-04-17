@@ -28,7 +28,7 @@ Analysis run the 15/04/2021 at 10:39
 
 |Rank|Team|Flag|Score|
 |--|--|--|--|
-|**1**|directionmiage|<img src="../flags/directionmiage.png" width="150" height="" />|**122 (=)**|
+|**1**|directionmiage|<img src="../flags/directionmiage.png" width="150" height="" />|**136 (=)**|
 |**2**|onmkgl|<img src="../flags/onmkgl.png" width="150" height="" />|**118 (+1)**|
 |**3**|qualidad|<img src="../flags/qualidad.png" width="150" height="" />|**102 (+1)**|
 |**4**|gottagofast|<img src="../flags/gottagofast.png" width="150" height="" />|**96 (-2)**|
