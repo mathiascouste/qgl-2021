@@ -1,0 +1,93 @@
+Compass said we need to reach: 4688.47203274215 ; 2013.5135135135151
+A* returned a 1 size path, [0] = (4641.137789904502,1992.2972972972975)
+A* returned a 1 size path, [0] = (2968.8853259316234,2297.588051433696)
+A* returned a 1 size path, [0] = (4642.61112748461,1987.5389584205627)
+A* returned a 1 size path, [0] = (3286.793756096956,2248.306202924006)
+A* returned a 1 size path, [0] = (4632.636614218385,1994.1834664774842)
+A* returned a 1 size path, [0] = (3610.540005923637,2258.3685822565963)
+A* returned a 1 size path, [0] = (4624.518426293043,2047.8433732493572)
+A* returned a 1 size path, [0] = (3936.8429970383927,2246.490704606324)
+A* returned a 1 size path, [0] = (4618.5493082998655,2041.2733438261535)
+A* returned a 1 size path, [0] = (4264.129840118096,2242.1849947900496)
+A* returned a 7 size path, [0] = (4428.012518779853,2261.169916191671)
+A* said we need to reach (4465.012518779853,2224.169916191671)
+A* said we need to reach (4502.012518779853,2187.169916191671)
+A* said we need to reach (4539.012518779853,2150.169916191671)
+A* said we need to reach (4576.012518779853,2113.169916191671)
+A* said we need to reach (4613.012518779853,2076.169916191671)
+A* said we need to reach (4650.012518779853,2039.1699161916708)
+A checkpoint has been reached (Checkpoint (position=Position {x=4638.47203274215, y=2013.5135135135154, orientation=0.0}, shape=Circle (radius=100.0))) position: Position {x=4630.695174185142, y=2065.
+Compass said we need to reach: 7153.352806998216 ; 2010.7111987642013
+A* returned a 1 size path, [0] = (7109.695174185142,1991.852088691097)
+A* returned a 1 size path, [0] = (5749.712459091625,2020.8768038046767)
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 2 sailors that oars on the right side and 4on the left side
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 1 sailors that oars on the right side and 4on the left side
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 0 sailors that oars on the right side and 4on the left side
+A* returned a 0 size path, [0] = nothing
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 2 sailors that oars on the right side and 4on the left side
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 1 sailors that oars on the right side and 4on the left side
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 0 sailors that oars on the right side and 4on the left side
+A* returned a 0 size path, [0] = nothing
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 2 sailors that oars on the right side and 4on the left side
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 1 sailors that oars on the right side and 4on the left side
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+We need 0 sailors that oars on the right side and 4on the left side
+A* returned a 0 size path, [0] = nothing
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+A* returned a 0 size path, [0] = nothing
+A* returned a 1 size path, [0] = (6373.766923599198,2134.645806045773)
+A* returned a 1 size path, [0] = (7090.308445033336,1990.1689195360495)
+A* returned a 1 size path, [0] = (6696.019377590905,2063.7986273971223)
+A* returned a 1 size path, [0] = (7115.735615109651,1989.451156587309)
+A* returned a 1 size path, [0] = (7017.553646165246,1989.550690550759)
+A* returned a 1 size path, [0] = (7104.37909096586,1989.6825496836418)
+A* returned a 1 size path, [0] = (7080.220472648096,1989.8856603917857)
+A* returned a 1 size path, [0] = (7093.372809207557,1991.461425473989)
+A* returned a 1 size path, [0] = (7106.5757085625455,1993.2691790282047)
+A* returned a 1 size path, [0] = (7083.142360711427,1996.7909601842975)
+A* returned a 1 size path, [0] = (7096.938028519264,2001.4310794891126)
+A checkpoint has been reached (Checkpoint (position=Position {x=7203.27421555252, y=2013.513513513515, orientation=0.0}, shape=Circle (radius=100.0))) position: Position {x=7223.852453601845, y=1985.0
+Compass said we need to reach: 1470.9903223507747 ; 1668.1160835018018
+We need 0 sailors that oars on the right side and 8on the left side
+A* returned a 1 size path, [0] = (6261.852453601845,1985.0365994797025)
+We need 0 sailors that oars on the right side and 8on the left side
+We need 0 sailors that oars on the right side and 4on the left side
+A* returned a 3 size path, [0] = (6869.785004895251,1932.9290481862909)
+We need 0 sailors that oars on the right side and 4on the left side
+A* said we need to reach (6647.785004895251,1969.9290481862909)
+A* said we need to reach (6314.785004895251,1932.9290481862909)
+A* returned a 1 size path, [0] = (5934.298647205712,1909.852152717173)
+A* returned a 2 size path, [0] = (6583.380032080108,1951.35059850102)
+A* said we need to reach (5769.380032080108,1914.35059850102)
+A* returned a 1 size path, [0] = (1483.5211810761884,1656.5493814810152)
+A* returned a 1 size path, [0] = (5425.677452786012,2463.5683666141967)
+A* returned a 1 size path, [0] = (1494.417560765014,1652.751217937021)
+A* returned a 1 size path, [0] = (5000.266403357752,2284.9280497490563)
+Collision detected, A* returned a 1 size path, [0] = (1506.8819488452364,1635.0773806583638)
+Collision detected, A* returned a 0 size path, [0] = nothing
+A* returned no path, we have no point to aim
+Collision à venir détectée, tentative correction trajectoire...
