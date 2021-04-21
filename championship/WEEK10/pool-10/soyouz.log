@@ -1,0 +1,179 @@
+2021-04-15 22:38:06:043 INFO Cockpit : Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0.0},"shape":{"type":"circle"
+2021-04-15 22:38:06:059 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@28e4019c
+
+2021-04-15 22:38:06:062 INFO Cockpit : Added 0 entities; total 0
+
+2021-04-15 22:38:06:064 INFO Cockpit : []
+
+2021-04-15 22:38:06:071 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:071 INFO CheckpointObjective : 2 nodes; start traverse
+
+2021-04-15 22:38:06:072 INFO CheckpointObjective : [{"x":686.9565217391303,"y":-105.86319218241121,"orientation":0.0},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0.0}]
+
+2021-04-15 22:38:06:073 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:075 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:076 INFO CheckpointObjective : New target: D=1521.83, ANGLE=-0.61°
+
+2021-04-15 22:38:06:138 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@318a529d
+
+2021-04-15 22:38:06:140 INFO Cockpit : Added 4 entities; total 4
+
+2021-04-15 22:38:06:141 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:141 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:142 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:143 INFO CheckpointObjective : [{"x":851.9534190505659,"y":-106.73728968284956,"orientation":-0.010702243773131838},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0.
+2021-04-15 22:38:06:147 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:148 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:148 INFO CheckpointObjective : New target: D=1356.83, ANGLE=-0.04°
+
+2021-04-15 22:38:06:168 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@c0498dc
+
+2021-04-15 22:38:06:169 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:170 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:171 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:171 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:171 INFO CheckpointObjective : [{"x":1016.9433835715256,"y":-108.55680265786725,"orientation":-0.011359478709528652},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0
+2021-04-15 22:38:06:173 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:174 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:174 INFO CheckpointObjective : New target: D=1191.83, ANGLE=-0.00°
+
+2021-04-15 22:38:06:192 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@f485752
+
+2021-04-15 22:38:06:193 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:194 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:194 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:194 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:195 INFO CheckpointObjective : [{"x":1181.9326953834434,"y":-110.43482902625549,"orientation":-0.011405428307128764},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0
+2021-04-15 22:38:06:196 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:197 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:197 INFO CheckpointObjective : New target: D=1026.83, ANGLE=-0.00°
+
+2021-04-15 22:38:06:215 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@1f3127b7
+
+2021-04-15 22:38:06:215 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:216 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:216 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:216 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:217 INFO CheckpointObjective : [{"x":1346.9219601129657,"y":-112.31698841906402,"orientation":-0.011409157016861233},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0
+2021-04-15 22:38:06:218 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:218 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:218 INFO CheckpointObjective : New target: D=861.83, ANGLE=-0.00°
+
+2021-04-15 22:38:06:238 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@25606ce5
+
+2021-04-15 22:38:06:238 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:239 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:239 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:239 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:239 INFO CheckpointObjective : [{"x":1511.9112209622572,"y":-114.19948792879873,"orientation":-0.011409517522779232},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0
+2021-04-15 22:38:06:240 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:240 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:241 INFO CheckpointObjective : New target: D=696.83, ANGLE=-0.00°
+
+2021-04-15 22:38:06:254 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@62567854
+
+2021-04-15 22:38:06:254 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:255 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:255 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:255 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:255 INFO CheckpointObjective : [{"x":1676.900481428657,"y":-116.08202099637617,"orientation":-0.011409560631090944},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0.
+2021-04-15 22:38:06:256 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:256 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:256 INFO CheckpointObjective : New target: D=531.83, ANGLE=-0.00°
+
+2021-04-15 22:38:06:270 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@5ffdeccd
+
+2021-04-15 22:38:06:271 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:271 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:272 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:272 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:272 INFO CheckpointObjective : [{"x":1841.8897418477807,"y":-117.96455820732015,"orientation":-0.0114095673851315},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0.0
+2021-04-15 22:38:06:273 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:273 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:274 INFO CheckpointObjective : New target: D=366.83, ANGLE=-0.00°
+
+2021-04-15 22:38:06:285 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@7e90ebbf
+
+2021-04-15 22:38:06:285 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:286 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:286 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:286 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:286 INFO CheckpointObjective : [{"x":2006.8790022590536,"y":-119.84709610630341,"orientation":-0.01140956891930481},{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0.
+2021-04-15 22:38:06:287 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:287 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:287 INFO CheckpointObjective : New target: D=201.83, ANGLE=-0.00°
+
+2021-04-15 22:38:06:299 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@b4843fe
+
+2021-04-15 22:38:06:299 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:300 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:301 INFO RegattaObjective : Checkpoint 0 reached
+
+2021-04-15 22:38:06:302 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:302 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:302 INFO CheckpointObjective : [{"x":2171.868262668278,"y":-121.7296341848413,"orientation":-0.011409569552684963},{"x":6739.1304347826035,"y":-171.00977198697126,"orientation":0.0
+2021-04-15 22:38:06:303 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:303 INFO CheckpointObjective : Fetching shortest path
+
+2021-04-15 22:38:06:303 INFO CheckpointObjective : New target: D=818.05, ANGLE=41.16°
+
+2021-04-15 22:38:06:315 INFO Cockpit : Next round input: fr.unice.polytech.si3.qgl.soyouz.classes.parameters.NextRoundParameters@668eaf5a
+
+2021-04-15 22:38:06:315 INFO Cockpit : Added 0 entities; total 4
+
+2021-04-15 22:38:06:316 INFO Cockpit : [{"position":{"x":5852.173913043475,"y":-789.9022801302941,"orientation":1.5707963267948966},"shape":{"type":"rectangle","width":250.0,"height":2000.0,"orientati
+2021-04-15 22:38:06:316 INFO CheckpointObjective : Computing shells
+
+2021-04-15 22:38:06:316 INFO CheckpointObjective : 18 nodes; start traverse
+
+2021-04-15 22:38:06:316 INFO CheckpointObjective : [{"x":2323.870568743066,"y":-67.23803274810574,"orientation":0.7070338024491939},{"x":6739.1304347826035,"y":-171.00977198697126,"orientation":0.0},{
+2021-04-15 22:38:06:317 INFO CheckpointObjective : Computing graph
+
+2021-04-15 22:38:06:317 INFO CheckpointObjective : Fetching shortest path
+
