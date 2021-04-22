@@ -1,8 +1,5 @@
 # Rapport Technique
 
-**Cette page contient la consigne du rapport à produire lors de l'année 2019-2020.
-Ces consignes pourraient changer pour l'année 2020-2021.**
-
 ## Contenu du rapport
 
 ### Page 1 - Page de garde
