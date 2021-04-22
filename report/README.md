@@ -6,7 +6,6 @@
 -   Titre du rapport
 -   Nom et ID de l’équipe
 -   Drapeau de l’équipe
--   Mention: FISE ou FISA
 -   Nom des membres de l’équipe
 
 ### Page 2 - Sommaire
