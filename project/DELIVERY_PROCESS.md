@@ -28,7 +28,7 @@ Vous devrez rédiger un rapport résumant vos choix techniques ainsi que l'appli
 
 *Les consignes de rédaction du rapport sont présentes dans [ce répertoire](../report).*
 
-Créez un tag `FINAL` contenant votre rapport avant le *<date à définir>*.
+Créez un tag `FINAL` contenant votre rapport avant le *20 Mai 2021*.
 
 ## Étapes de chaque livraison hebdomadaire
 ### Annonce de la livraison
