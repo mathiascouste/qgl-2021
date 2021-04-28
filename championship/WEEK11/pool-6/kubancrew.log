@@ -1,0 +1,11 @@
+TODO (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Round["visibleEntities"]->java.util.ArrayList[1])
+[com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:394), com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:365), com.f
+asterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:302), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeseriali
+zer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(Settab
+leBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.databind.deser.BeanDeserializer._deseria
+lizeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1287), com.fasterxml.jackson
+.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:159), com.fasterxml.jackson.d
+atabind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.fasterxml.jackson.databind.ObjectMapper.readValue(Obje
+ctMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.nextRound(Cockpit.java:72), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.refl
+ect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.ref
+lect.Method.invoke(Method.java:567), fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)]

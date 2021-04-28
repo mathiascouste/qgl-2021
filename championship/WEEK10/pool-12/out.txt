@@ -1,0 +1,54 @@
+2021-04-15 22:38:09,630 [INFO ] Game creation...
+2021-04-15 22:38:09,659 [INFO ] 1 players created!
+2021-04-15 22:38:09,684 [INFO ] Starting game
+2021-04-15 22:38:09,707 [INFO ] ********************************************
+2021-04-15 22:38:09,708 [INFO ] 1412601264 - initGame
+2021-04-15 22:38:09,708 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":2208.6956521739257,"y":-122.14983713355095,"orientation":0.0},"shape":{"type":"circle","radius":150.0}},{"position":{"x":6739.1304347826035,"y":-171.00977198697126,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4634.782608695657,"y":-1042.345276872964,"orientation":0.0},"shape":{"type":"circle","radius":1000.0}}]},"ship":{"type":"ship","position":{"x":686.9565217391303,"y":-105.86319218241121,"orientation":0.0},"name":"kubancrew","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Pouce"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"},{"x":0,"y":2,"id":2,"name":"Luffy Pouce"},{"x":1,"y":0,"id":3,"name":"Edward Pouce"},{"x":1,"y":1,"id":4,"name":"Jack Teach"},{"x":1,"y":2,"id":5,"name":"Edward Pouce"},{"x":2,"y":0,"id":6,"name":"Jack Teach"},{"x":2,"y":1,"id":7,"name":"Tom Pouce"},{"x":2,"y":2,"id":8,"name":"Edward Pouce"},{"x":3,"y":0,"id":9,"name":"Jack Pouce"},{"x":3,"y":1,"id":10,"name":"Edward Pouce"}],"shipCount":1}
+2021-04-15 22:38:09,774 [INFO ] Starting round 0
+2021-04-15 22:38:09,779 [INFO ] ********************************************
+2021-04-15 22:38:09,780 [INFO ] 1412601264 - nextRound
+2021-04-15 22:38:09,780 [INFO ] {"ship":{"type":"ship","position":{"x":686.9565217391303,"y":-105.86319218241121,"orientation":0.0},"name":"kubancrew","deck":{"width":3,"length":6},"entities":[{"x":5,"y":1,"type":"rudder"},{"x":2,"y":1,"type":"sail","openned":false},{"x":0,"y":1,"type":"watch"},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"}],"life":900,"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kubancrew IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.GenericClientError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-15 22:38:09,821 [INFO ] Game over
+2021-04-15 22:38:09,821 [INFO ] Creating team's logs files
+2021-04-15 22:38:09,827 [INFO ] Game scores: {kubancrew=GENERIC_CLIENT_ERROR}
+Apr 15, 2021 10:38:09 PM fr.unice.polytech.si3.qgl.kubancrew.Cockpit initGame
+SEVERE: Unknown equipment (through reference chain: fr.unice.polytech.si3.qgl.kubancrew.game.Game["ship"]->fr.unice.polytech.si3.qgl.kubancrew.elements.sea.Ship["entities"]->java.util.ArrayList[2])
+Apr 15, 2021 10:38:09 PM fr.unice.polytech.si3.qgl.kubancrew.Cockpit initGame
+SEVERE: [com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:394), com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:365), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:302), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:245), com.fasterxml.jackson.databind.deser.std.CollectionDeserializer.deserialize(CollectionDeserializer.java:27), com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:159), com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(SettableBeanProperty.java:530), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:528), com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:417), com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1287), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:326), com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:159), com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3205), com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3173), fr.unice.polytech.si3.qgl.kubancrew.Cockpit.initGame(Cockpit.java:59), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method), java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62), java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43), java.base/java.lang.reflect.Method.invoke(Method.java:566), fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$1.run(Cockpit.java:50)]

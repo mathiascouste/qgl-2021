@@ -21,14 +21,14 @@ Les détails de ces livraisons sont donnés plus bas.
 ### Livraison finale
 Cette livraison permettra d'évaluer entre autres la qualité de votre code, l'application des principes étudiés en QGL.
 
-Créez un tag `FINAL` contenant la dernière version de votre projet avant le *<date à définir>*.
+Créez un tag `FINAL` contenant la dernière version de votre projet avant le *20 Mai 2021*. (Ce rendu est commun avec le rapport)
 
 ### Rapport final
 Vous devrez rédiger un rapport résumant vos choix techniques ainsi que l'application des principes vus en cours.
 
 *Les consignes de rédaction du rapport sont présentes dans [ce répertoire](../report).*
 
-Créez un tag `FINAL` contenant votre rapport avant le *<date à définir>*.
+Créez un tag `FINAL` contenant votre rapport avant le *20 Mai 2021*. (Ce rendu est commun avec la livraison finale)
 
 ## Étapes de chaque livraison hebdomadaire
 ### Annonce de la livraison

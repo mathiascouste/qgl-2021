@@ -1,0 +1,11 @@
+java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor38.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+Caused by: java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.base/java.util.LinkedList.checkElementIndex(LinkedList.java:559)
+	at java.base/java.util.LinkedList.get(LinkedList.java:480)
+	at fr.unice.polytech.si3.qgl.detritus.strategies.pathfinding.Dijkstra.getNextPos(Dijkstra.java:64)
+	at fr.unice.polytech.si3.qgl.detritus.Cockpit.nextRound(Cockpit.java:70)
+	... 4 more

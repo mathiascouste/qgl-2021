@@ -1,0 +1,630 @@
+2021-04-21 12:46:07,028 [INFO ] Game creation...
+2021-04-21 12:46:07,049 [INFO ] 2 players created!
+2021-04-21 12:46:07,068 [INFO ] Starting game
+2021-04-21 12:46:07,088 [INFO ] ********************************************
+2021-04-21 12:46:07,088 [INFO ] 2102368942 - initGame
+2021-04-21 12:46:07,088 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":4638.47203274215,"y":2013.5135135135154,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":7203.27421555252,"y":2013.513513513515,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1425.6480218281038,"y":1689.1891891891892,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4304.2291950886765,"y":351.35135135135135,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1412.0054570259167,"y":2581.0810810810794,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4508.867667121416,"y":4121.621621621623,"orientation":0.0},"shape":{"type":"circle","radius":100.0}}]},"ship":{"type":"ship","position":{"x":1903.1377899045021,"y":2547.2972972972975,"orientation":0.0},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Luffy Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"},{"x":0,"y":2,"id":2,"name":"Tom Pouce"},{"x":0,"y":3,"id":3,"name":"Tom Teach"},{"x":0,"y":4,"id":4,"name":"Tom Teach"},{"x":1,"y":0,"id":5,"name":"Luffy Teach"},{"x":1,"y":1,"id":6,"name":"Jack Pouce"},{"x":1,"y":2,"id":7,"name":"Tom Pouce"},{"x":1,"y":3,"id":8,"name":"Tom Teach"},{"x":1,"y":4,"id":9,"name":"Luffy Pouce"},{"x":2,"y":0,"id":10,"name":"Tom Teach"}],"shipCount":2}
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":4638.47203274215,"y":2013.5135135135154,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":7203.27421555252,"y":2013.513513513515,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1425.6480218281038,"y":1689.1891891891892,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4304.2291950886765,"y":351.35135135135135,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1412.0054570259167,"y":2581.0810810810794,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4508.867667121416,"y":4121.621621621623,"orientation":0.0},"shape":{"type":"circle","radius":100.0}}]},"ship":{"type":"ship","position":{"x":1903.1377899045021,"y":2547.2972972972975,"orientation":0.0},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Luffy Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"},{"x":0,"y":2,"id":2,"name":"Tom Pouce"},{"x":0,"y":3,"id":3,"name":"Tom Teach"},{"x":0,"y":4,"id":4,"name":"Tom Teach"},{"x":1,"y":0,"id":5,"name":"Luffy Teach"},{"x":1,"y":1,"id":6,"name":"Jack Pouce"},{"x":1,"y":2,"id":7,"name":"Tom Pouce"},{"x":1,"y":3,"id":8,"name":"Tom Teach"},{"x":1,"y":4,"id":9,"name":"Luffy Pouce"},{"x":2,"y":0,"id":10,"name":"Tom Teach"}],"shipCount":2}
+2021-04-21 12:46:07,128 [INFO ] ********************************************
+2021-04-21 12:46:07,128 [INFO ] 2017085051 - initGame
+2021-04-21 12:46:07,128 [INFO ] {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":4638.47203274215,"y":2013.5135135135154,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":7203.27421555252,"y":2013.513513513515,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1425.6480218281038,"y":1689.1891891891892,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4304.2291950886765,"y":351.35135135135135,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":1412.0054570259167,"y":2581.0810810810794,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":4508.867667121416,"y":4121.621621621623,"orientation":0.0},"shape":{"type":"circle","radius":100.0}}]},"ship":{"type":"ship","position":{"x":1903.1377899045021,"y":1662.162162162162,"orientation":0.0},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":11,"name":"Edward Pouce"},{"x":0,"y":1,"id":12,"name":"Tom Pouce"},{"x":0,"y":2,"id":13,"name":"Jack Pouce"},{"x":0,"y":3,"id":14,"name":"Jack Teach"},{"x":0,"y":4,"id":15,"name":"Edward Pouce"},{"x":1,"y":0,"id":16,"name":"Luffy Pouce"},{"x":1,"y":1,"id":17,"name":"Edward Pouce"},{"x":1,"y":2,"id":18,"name":"Edward Teach"},{"x":1,"y":3,"id":19,"name":"Luffy Pouce"},{"x":1,"y":4,"id":20,"name":"Jack Teach"},{"x":2,"y":0,"id":21,"name":"Tom Pouce"}],"shipCount":2}
+2021-04-21 12:46:07,145 [INFO ] Starting round 0
+2021-04-21 12:46:07,153 [INFO ] ********************************************
+2021-04-21 12:46:07,153 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:07,153 [INFO ] {"ship":{"type":"ship","position":{"x":1903.1377899045021,"y":2547.2972972972975,"orientation":0.0},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":1903.1377899045021,"y":1662.162162162162,"orientation":0.0},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:07,179 [INFO ] Player response:[{"sailorId":10,"type":"MOVING","ydistance":2,"xdistance":3},{"sailorId":7,"type":"MOVING","ydistance":0,"xdistance":4},{"sailorId":8,"type":"MOVING","ydistance":1,"xdistance":2},{"sailorId":4,"type":"MOVING","ydistance":0,"xdistance":5},{"sailorId":6,"type":"MOVING","ydistance":3,"xdistance":2},{"sailorId":0,"type":"MOVING","ydistance":0,"xdistance":3},{"sailorId":1,"type":"MOVING","ydistance":-1,"xdistance":4},{"sailorId":2,"type":"MOVING","ydistance":-2,"xdistance":3},{"sailorId":3,"type":"MOVING","ydistance":-1,"xdistance":1},{"sailorId":7,"type":"LIFT_SAIL"},{"sailorId":0,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":8,"type":"OAR"}]
+2021-04-21 12:46:07,186 [INFO ] ********************************************
+2021-04-21 12:46:07,186 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:07,186 [INFO ] {"ship":{"type":"ship","position":{"x":1903.1377899045021,"y":1662.162162162162,"orientation":0.0},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":1903.1377899045021,"y":2547.2972972972975,"orientation":0.0},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4603.0, 1962.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 6.34
+Angle a prendre = 0.0
+sailor returned are : (west) =4(east) =4
+Action{sailorId=18, type='MOVING', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=18, type='USE_WATCH', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=13, type='MOVING', xdistance=5, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='MOVING', xdistance=1, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='MOVING', xdistance=5, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='MOVING', xdistance=5, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='MOVING', xdistance=5, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='MOVING', xdistance=5, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='MOVING', xdistance=3, ydistance=1, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:07,649 [INFO ] Player response:[{"sailorId":18,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":18,"type":"USE_WATCH"},{"sailorId":13,"type":"MOVING","xdistance":5,"ydistance":0},{"sailorId":21,"type":"MOVING","xdistance":1,"ydistance":0},{"sailorId":21,"type":"OAR"},{"sailorId":11,"type":"MOVING","xdistance":5,"ydistance":0},{"sailorId":11,"type":"OAR"},{"sailorId":17,"type":"MOVING","xdistance":5,"ydistance":0},{"sailorId":15,"type":"MOVING","xdistance":5,"ydistance":0},{"sailorId":15,"type":"OAR"},{"sailorId":19,"type":"MOVING","xdistance":5,"ydistance":0},{"sailorId":14,"type":"MOVING","xdistance":3,"ydistance":1},{"sailorId":14,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":20,"type":"OAR"}]
+2021-04-21 12:46:07,714 [INFO ] Starting round 1
+2021-04-21 12:46:07,715 [INFO ] ********************************************
+2021-04-21 12:46:07,715 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:07,715 [INFO ] {"ship":{"type":"ship","position":{"x":1985.6377899045067,"y":2547.2972972972975,"orientation":0.0},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2026.8877899044976,"y":1662.162162162162,"orientation":0.0},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:07,720 [INFO ] Player response:[{"sailorId":7,"type":"MOVING","ydistance":0,"xdistance":3},{"sailorId":8,"type":"MOVING","ydistance":0,"xdistance":4},{"sailorId":1,"type":"MOVING","ydistance":0,"xdistance":1},{"sailorId":2,"type":"MOVING","ydistance":0,"xdistance":4},{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-0.1985612883072997},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:07,725 [INFO ] ********************************************
+2021-04-21 12:46:07,725 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:07,725 [INFO ] {"ship":{"type":"ship","position":{"x":2026.8877899044976,"y":1662.162162162162,"orientation":0.0},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6377.899045020464,"y":3479.7297297297305,"orientation":0.0},"shape":{"type":"circle","radius":850.0}},{"type":"stream","position":{"x":6350.613915416099,"y":1655.4054054054059,"orientation":0.29670597283903605},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":1985.6377899045067,"y":2547.2972972972975,"orientation":0.0},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 3901.0, 1812.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 4.57
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='MOVING', xdistance=3, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.07976154681614087, openned=false}
+Action{sailorId=17, type='MOVING', xdistance=1, ydistance=-1, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='MOVING', xdistance=1, ydistance=1, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:08,448 [INFO ] Player response:[{"sailorId":13,"type":"MOVING","xdistance":3,"ydistance":0},{"sailorId":13,"type":"TURN","rotation":0.07976154681614087},{"sailorId":17,"type":"MOVING","xdistance":1,"ydistance":-1},{"sailorId":17,"type":"OAR"},{"sailorId":19,"type":"MOVING","xdistance":1,"ydistance":1},{"sailorId":19,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"}]
+2021-04-21 12:46:08,485 [INFO ] Starting round 2
+2021-04-21 12:46:08,486 [INFO ] ********************************************
+2021-04-21 12:46:08,486 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:08,486 [INFO ] {"ship":{"type":"ship","position":{"x":2149.5718504284123,"y":2531.132486024779,"orientation":-0.19856128830729997},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2191.7155073341464,"y":1668.6732680216799,"orientation":0.07976154681614088},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:08,491 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-0.0064867809169883136},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:08,492 [INFO ] ********************************************
+2021-04-21 12:46:08,492 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:08,492 [INFO ] {"ship":{"type":"ship","position":{"x":2191.7155073341464,"y":1668.6732680216799,"orientation":0.07976154681614088},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2149.5718504284123,"y":2531.132486024779,"orientation":-0.19856128830729997},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4591.0, 1968.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 2.54
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.044331363000655974, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:08,946 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.044331363000655974},{"sailorId":16,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":20,"type":"OAR"}]
+2021-04-21 12:46:08,966 [INFO ] Starting round 3
+2021-04-21 12:46:08,967 [INFO ] ********************************************
+2021-04-21 12:46:08,967 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:08,967 [INFO ] {"ship":{"type":"ship","position":{"x":2311.2242034907804,"y":2498.065564579382,"orientation":-0.20504806922428936},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2355.849421042027,"y":1685.4243994184326,"orientation":0.12409290981679703},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:08,972 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-2.2737632309386527E-4},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:08,973 [INFO ] ********************************************
+2021-04-21 12:46:08,973 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:08,973 [INFO ] {"ship":{"type":"ship","position":{"x":2355.849421042027,"y":1685.4243994184326,"orientation":0.12409290981679703},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2311.2242034907804,"y":2498.065564579382,"orientation":-0.20504806922428936},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4605.0, 1985.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 0.48
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.008377580409572781, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:09,405 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.008377580409572781},{"sailorId":21,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":19,"type":"OAR"}]
+2021-04-21 12:46:09,424 [INFO ] Starting round 4
+2021-04-21 12:46:09,425 [INFO ] ********************************************
+2021-04-21 12:46:09,425 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:09,425 [INFO ] {"ship":{"type":"ship","position":{"x":2472.7638684898457,"y":2464.4510362515007,"orientation":-0.20527544554738414},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2519.494051306003,"y":1706.5259579496135,"orientation":0.13247049022636867},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:09,430 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-8.564553097220157E-6},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:09,431 [INFO ] ********************************************
+2021-04-21 12:46:09,431 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:09,431 [INFO ] {"ship":{"type":"ship","position":{"x":2519.494051306003,"y":1706.5259579496135,"orientation":0.13247049022636867},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2472.7638684898457,"y":2464.4510362515007,"orientation":-0.20527544554738414},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4319.0, 1856.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = -2.84
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.049567350756638956, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:09,866 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":-0.049567350756638956},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"}]
+2021-04-21 12:46:09,883 [INFO ] Starting round 5
+2021-04-21 12:46:09,883 [INFO ] ********************************************
+2021-04-21 12:46:09,883 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:09,883 [INFO ] {"ship":{"type":"ship","position":{"x":2634.299530394443,"y":2430.817274450636,"orientation":-0.20528401010048142},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2683.5170773242517,"y":1724.2987969807007,"orientation":0.0829031394697295},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:09,888 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-3.4860127957111823E-7},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:09,889 [INFO ] ********************************************
+2021-04-21 12:46:09,889 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:09,889 [INFO ] {"ship":{"type":"ship","position":{"x":2683.5170773242517,"y":1724.2987969807007,"orientation":0.0829031394697295},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2634.299530394443,"y":2430.817274450636,"orientation":-0.20528401010048142},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4558.0, 1874.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = -0.18
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.0031415926535897933, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:10,338 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":-0.0031415926535897933},{"sailorId":11,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":19,"type":"OAR"}]
+2021-04-21 12:46:10,355 [INFO ] Starting round 6
+2021-04-21 12:46:10,356 [INFO ] ********************************************
+2021-04-21 12:46:10,356 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:10,356 [INFO ] {"ship":{"type":"ship","position":{"x":2795.835041024777,"y":2397.182786118017,"orientation":-0.20528435870175982},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2847.9713665041504,"y":1737.7064209654143,"orientation":0.07976154681613985},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:10,359 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-1.5432936494545E-8},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:10,361 [INFO ] ********************************************
+2021-04-21 12:46:10,361 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:10,361 [INFO ] {"ship":{"type":"ship","position":{"x":2847.9713665041504,"y":1737.7064209654143,"orientation":0.07976154681613985},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2795.835041024777,"y":2397.182786118017,"orientation":-0.20528435870175982},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4272.0, 1812.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = -1.58
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.02757620218151041, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:10,703 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":-0.02757620218151041},{"sailorId":17,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":15,"type":"OAR"}]
+2021-04-21 12:46:10,727 [INFO ] Starting round 7
+2021-04-21 12:46:10,727 [INFO ] ********************************************
+2021-04-21 12:46:10,727 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:10,727 [INFO ] {"ship":{"type":"ship","position":{"x":2957.3705454770266,"y":2363.5482681140807,"orientation":-0.2052843741346953},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":3012.605698367729,"y":1748.6065000529663,"orientation":0.05218534463462944},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:10,731 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-7.488843686430799E-10},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:10,733 [INFO ] ********************************************
+2021-04-21 12:46:10,733 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:10,733 [INFO ] {"ship":{"type":"ship","position":{"x":3012.605698367729,"y":1748.6065000529663,"orientation":0.05218534463462944},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":2957.3705454770266,"y":2363.5482681140807,"orientation":-0.2052843741346953},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4287.0, 1823.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 0.35
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.006108652381980153, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:11,028 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.006108652381980153},{"sailorId":16,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":14,"type":"OAR"}]
+2021-04-21 12:46:11,044 [INFO ] Starting round 8
+2021-04-21 12:46:11,044 [INFO ] ********************************************
+2021-04-21 12:46:11,044 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:11,044 [INFO ] {"ship":{"type":"ship","position":{"x":3118.906049654673,"y":2329.913748791315,"orientation":-0.2052843748835796},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":3177.3540421649914,"y":1757.7113649495982,"orientation":0.05829399701660963},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:11,047 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-4.0203063507855297E-11},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:11,048 [INFO ] ********************************************
+2021-04-21 12:46:11,048 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:11,048 [INFO ] {"ship":{"type":"ship","position":{"x":3177.3540421649914,"y":1757.7113649495982,"orientation":0.05829399701660963},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":3118.906049654673,"y":2329.913748791315,"orientation":-0.2052843748835796},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4302.0, 1832.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 0.44
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.007679448708775049, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:11,313 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.007679448708775049},{"sailorId":17,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"}]
+2021-04-21 12:46:11,334 [INFO ] Starting round 9
+2021-04-21 12:46:11,335 [INFO ] ********************************************
+2021-04-21 12:46:11,335 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:11,335 [INFO ] {"ship":{"type":"ship","position":{"x":3280.44155381893,"y":2296.279229404243,"orientation":-0.20528437492378354},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":3342.0356338262814,"y":1767.950485245688,"orientation":0.06597344572538465},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:11,338 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-2.4137910202752002E-12},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:11,339 [INFO ] ********************************************
+2021-04-21 12:46:11,339 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:11,339 [INFO ] {"ship":{"type":"ship","position":{"x":3342.0356338262814,"y":1767.950485245688,"orientation":0.06597344572538465},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":3280.44155381893,"y":2296.279229404243,"orientation":-0.20528437492378354},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4317.0, 1842.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 0.56
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.009773843811168246, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:11,589 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.009773843811168246},{"sailorId":16,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":19,"type":"OAR"}]
+2021-04-21 12:46:11,605 [INFO ] Starting round 10
+2021-04-21 12:46:11,605 [INFO ] ********************************************
+2021-04-21 12:46:11,605 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:11,605 [INFO ] {"ship":{"type":"ship","position":{"x":3441.977057982466,"y":2262.6447100136993,"orientation":-0.20528437492619828},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":3506.6214744764056,"y":1779.6245741032224,"orientation":0.07574728953655323},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:11,607 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-1.6369729483987178E-13},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:11,607 [INFO ] ********************************************
+2021-04-21 12:46:11,607 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:11,607 [INFO ] {"ship":{"type":"ship","position":{"x":3506.6214744764056,"y":1779.6245741032224,"orientation":0.07574728953655323},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":3441.977057982466,"y":2262.6447100136993,"orientation":-0.20528437492619828},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4331.0, 1854.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 0.82
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.0143116998663535, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:11,808 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.0143116998663535},{"sailorId":21,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":14,"type":"OAR"}]
+2021-04-21 12:46:11,825 [INFO ] Starting round 11
+2021-04-21 12:46:11,825 [INFO ] ********************************************
+2021-04-21 12:46:11,825 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:11,825 [INFO ] {"ship":{"type":"ship","position":{"x":3603.5125621459415,"y":2229.0101906229374,"orientation":-0.20528437492636203},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":3671.054356498426,"y":1793.276045211331,"orientation":0.09005898940290717},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:11,826 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-2.9763144516340327E-15},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:11,827 [INFO ] ********************************************
+2021-04-21 12:46:11,827 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:11,827 [INFO ] {"ship":{"type":"ship","position":{"x":3671.054356498426,"y":1793.276045211331,"orientation":0.09005898940290717},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":3603.5125621459415,"y":2229.0101906229374,"orientation":-0.20528437492636203},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4496.0, 1868.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 0.02
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=3.4906585039886593E-4, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:11,976 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":3.4906585039886593E-4},{"sailorId":11,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":19,"type":"OAR"}]
+2021-04-21 12:46:11,993 [INFO ] Starting round 12
+2021-04-21 12:46:11,993 [INFO ] ********************************************
+2021-04-21 12:46:11,993 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:11,993 [INFO ] {"ship":{"type":"ship","position":{"x":3765.048066309417,"y":2195.3756712321756,"orientation":-0.2052843749263648},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":3835.3831149534544,"y":1808.1440937791986,"orientation":0.0904080552533054},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:11,994 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-3.968419268845377E-15},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:11,995 [INFO ] ********************************************
+2021-04-21 12:46:11,995 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:11,995 [INFO ] {"ship":{"type":"ship","position":{"x":3835.3831149534544,"y":1808.1440937791986,"orientation":0.0904080552533054},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":3765.048066309417,"y":2195.3756712321756,"orientation":-0.2052843749263648},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4510.0, 1883.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 1.15
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.020071286397934786, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:12,140 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.020071286397934786},{"sailorId":16,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"}]
+2021-04-21 12:46:12,168 [INFO ] Starting round 13
+2021-04-21 12:46:12,168 [INFO ] ********************************************
+2021-04-21 12:46:12,169 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:12,169 [INFO ] {"ship":{"type":"ship","position":{"x":3932.2835704728877,"y":2161.7411518414137,"orientation":-0.20528437492636759},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":3999.5503814239723,"y":1824.6726975465272,"orientation":0.11047934165124061},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:12,170 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-0.0016102509205521334},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:12,171 [INFO ] ********************************************
+2021-04-21 12:46:12,171 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:12,171 [INFO ] {"ship":{"type":"ship","position":{"x":3999.5503814239723,"y":1824.6726975465272,"orientation":0.11047934165124061},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":3932.2835704728877,"y":2161.7411518414137,"orientation":-0.20528437492636759},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4299.0, 1824.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = -6.46
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.11274826967883368, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:12,313 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":-0.11274826967883368},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":20,"type":"OAR"}]
+2021-04-21 12:46:12,351 [INFO ] Starting round 14
+2021-04-21 12:46:12,352 [INFO ] ********************************************
+2021-04-21 12:46:12,352 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:12,352 [INFO ] {"ship":{"type":"ship","position":{"x":4103.792196670128,"y":2127.9778910124187,"orientation":-0.20689462584692048},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4164.216632551803,"y":1833.6838072318396,"orientation":-0.0022689280275929175},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:12,368 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-0.004002227527791493},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:12,369 [INFO ] ********************************************
+2021-04-21 12:46:12,369 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:12,369 [INFO ] {"ship":{"type":"ship","position":{"x":4164.216632551803,"y":1833.6838072318396,"orientation":-0.0022689280275929175},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4103.792196670128,"y":2127.9778910124187,"orientation":-0.20689462584692048},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4314.0, 1833.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = -0.13
+sailor returned are : (west) =3(east) =3
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.0022689280275926286, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:12,509 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":-0.0022689280275926286},{"sailorId":11,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":19,"type":"OAR"}]
+2021-04-21 12:46:12,540 [INFO ] Starting round 15
+2021-04-21 12:46:12,541 [INFO ] ********************************************
+2021-04-21 12:46:12,541 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:12,541 [INFO ] {"ship":{"type":"ship","position":{"x":4275.205758197765,"y":2093.7634815014103,"orientation":-0.2108968533747117},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4287.965894077887,"y":1833.2640422609359,"orientation":-0.0045378560551855435},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:12,551 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-0.006523414853105465},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:12,552 [INFO ] ********************************************
+2021-04-21 12:46:12,552 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:12,552 [INFO ] {"ship":{"type":"ship","position":{"x":4287.965894077887,"y":1833.2640422609359,"orientation":-0.0045378560551855435},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4275.205758197765,"y":2093.7634815014103,"orientation":-0.2108968533747117},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+subCheckpoint reached Checkpoint{position=Position{x=4314.0, y=1833.0, orientation=0.0}, shape=Shape{type='circle', radius=100, width=0, height=0, orientation=0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4512.0, 1908.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 18.71
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.32655110304813906, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:12,686 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.32655110304813906},{"sailorId":17,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":14,"type":"OAR"}]
+2021-04-21 12:46:12,706 [INFO ] Starting round 16
+2021-04-21 12:46:12,706 [INFO ] ********************************************
+2021-04-21 12:46:12,706 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:12,706 [INFO ] {"ship":{"type":"ship","position":{"x":4442.637284619804,"y":2058.702130259689,"orientation":-0.2174202682278163},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4450.210762567449,"y":1858.9653139454035,"orientation":0.3220132469929538},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:12,717 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-0.009359102566262845},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:12,718 [INFO ] ********************************************
+2021-04-21 12:46:12,718 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:12,718 [INFO ] {"ship":{"type":"ship","position":{"x":4450.210762567449,"y":1858.9653139454035,"orientation":0.3220132469929538},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4442.637284619804,"y":2058.702130259689,"orientation":-0.2174202682278163},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+subCheckpoint reached Checkpoint{position=Position{x=4512.0, y=1908.0, orientation=0.0}, shape=Shape{type='circle', radius=100, width=0, height=0, orientation=0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 4600.0, 2008.0
+Current checkpoint: 4638.47203274215, 2013.5135135135154
+angle calculé = 26.41
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.46094145545170245, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:12,836 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.46094145545170245},{"sailorId":21,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":20,"type":"OAR"}]
+2021-04-21 12:46:12,852 [INFO ] Starting round 17
+2021-04-21 12:46:12,852 [INFO ] ********************************************
+2021-04-21 12:46:12,852 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:12,852 [INFO ] {"ship":{"type":"ship","position":{"x":4603.585512049409,"y":2022.36386693362,"orientation":-0.22677937079407778},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4589.6201170949025,"y":1944.4723056026069,"orientation":0.782954702444656},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+checked
+2021-04-21 12:46:12,861 [INFO ] Player response:[{"sailorId":10,"type":"LOWER_SAIL"},{"sailorId":7,"type":"TURN","rotation":0.22337499425586396},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:12,862 [INFO ] ********************************************
+2021-04-21 12:46:12,862 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:12,862 [INFO ] {"ship":{"type":"ship","position":{"x":4589.6201170949025,"y":1944.4723056026069,"orientation":0.782954702444656},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4603.585512049409,"y":2022.36386693362,"orientation":-0.22677937079407778},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Checkpoint reached Checkpoint{position=Position{x=4638.47203274215, y=2013.5135135135154, orientation=0.0}, shape=Shape{type='circle', radius=100, width=0, height=0, orientation=0}}
+subCheckpoint reached Checkpoint{position=Position{x=4600.0, y=2008.0, orientation=0.0}, shape=Shape{type='circle', radius=100, width=0, height=0, orientation=0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 5339.0, 2394.0
+Current checkpoint: 7203.27421555252, 2013.513513513515
+angle calculé = -13.9
+sailor returned are : (west) =4(east) =4
+Action{sailorId=18, type='MOVING', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=18, type='USE_WATCH', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.24260076602721178, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:13,068 [INFO ] Player response:[{"sailorId":18,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":18,"type":"USE_WATCH"},{"sailorId":13,"type":"TURN","rotation":-0.24260076602721178},{"sailorId":21,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":14,"type":"OAR"}]
+2021-04-21 12:46:13,083 [INFO ] Starting round 18
+2021-04-21 12:46:13,083 [INFO ] ********************************************
+2021-04-21 12:46:13,083 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:13,083 [INFO ] {"ship":{"type":"ship","position":{"x":4767.132168688274,"y":2003.2722966164145,"orientation":-0.003404376538213469},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4719.359554398472,"y":2045.761129269726,"orientation":0.5403539364174438},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:13,095 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":0.6184734568650648},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:13,096 [INFO ] ********************************************
+2021-04-21 12:46:13,096 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:13,096 [INFO ] {"ship":{"type":"ship","position":{"x":4719.359554398472,"y":2045.761129269726,"orientation":0.5403539364174438},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6377.899045020464,"y":3479.7297297297305,"orientation":0.0},"shape":{"type":"circle","radius":850.0}},{"type":"stream","position":{"x":6350.613915416099,"y":1655.4054054054059,"orientation":0.29670597283903605},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"stream","position":{"x":3813.0968622100954,"y":3560.8108108108086,"orientation":-2.1467549799530254},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":1903.137789904502,"y":3195.945945945951,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"reef","position":{"x":1896.3165075034126,"y":1114.8648648648648,"orientation":0.0},"shape":{"type":"rectangle","width":500.0,"height":1500.0,"orientation":0.0}},{"type":"ship","position":{"x":4767.132168688274,"y":2003.2722966164145,"orientation":-0.003404376538213469},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 5319.0, 2345.0
+Current checkpoint: 7203.27421555252, 2013.513513513515
+angle calculé = -4.44
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.07749261878854824, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:13,369 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":-0.07749261878854824},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":20,"type":"OAR"}]
+2021-04-21 12:46:13,383 [INFO ] Starting round 19
+2021-04-21 12:46:13,384 [INFO ] ********************************************
+2021-04-21 12:46:13,384 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:13,384 [INFO ] {"ship":{"type":"ship","position":{"x":4922.130556179493,"y":2051.684644031313,"orientation":0.6150690803268516},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4863.966381811768,"y":2125.135214901429,"orientation":0.46286131762889726},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:13,396 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":0.08378414414090005},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:13,396 [INFO ] ********************************************
+2021-04-21 12:46:13,396 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:13,396 [INFO ] {"ship":{"type":"ship","position":{"x":4863.966381811768,"y":2125.135214901429,"orientation":0.46286131762889726},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":4922.130556179493,"y":2051.684644031313,"orientation":0.6150690803268516},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 5313.0, 2350.0
+Current checkpoint: 7203.27421555252, 2013.513513513515
+angle calculé = 0.08
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=0.0013962634015954637, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:13,559 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":0.0013962634015954637},{"sailorId":21,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":16,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":15,"type":"OAR"}]
+2021-04-21 12:46:13,573 [INFO ] Starting round 20
+2021-04-21 12:46:13,574 [INFO ] ********************************************
+2021-04-21 12:46:13,574 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:13,574 [INFO ] {"ship":{"type":"ship","position":{"x":5052.790076359416,"y":2152.3681529685705,"orientation":0.6988532244677487},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"stream","position":{"x":6350.613915416099,"y":1655.4054054054059,"orientation":0.29670597283903605},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":5011.553876147932,"y":2198.9114108793224,"orientation":0.4642575810304902},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:13,586 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":-0.012841150632781384},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:13,586 [INFO ] ********************************************
+2021-04-21 12:46:13,586 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:13,586 [INFO ] {"ship":{"type":"ship","position":{"x":5011.553876147932,"y":2198.9114108793224,"orientation":0.4642575810304902},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":5052.790076359416,"y":2152.3681529685705,"orientation":0.6988532244677487},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 5311.0, 2348.0
+Current checkpoint: 7203.27421555252, 2013.513513513515
+angle calculé = -0.13
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.0022689280275926286, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:13,723 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":-0.0022689280275926286},{"sailorId":16,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":19,"type":"OAR"},{"sailorId":15,"type":"OAR"}]
+2021-04-21 12:46:13,737 [INFO ] Starting round 21
+2021-04-21 12:46:13,737 [INFO ] ********************************************
+2021-04-21 12:46:13,737 [INFO ] 2102368942 - nextRound
+2021-04-21 12:46:13,737 [INFO ] {"ship":{"type":"ship","position":{"x":5179.782158737558,"y":2257.713475346262,"orientation":0.6860120738349679},"name":"sunny1000","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":true}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6377.899045020464,"y":3479.7297297297305,"orientation":0.0},"shape":{"type":"circle","radius":850.0}},{"type":"stream","position":{"x":6350.613915416099,"y":1655.4054054054059,"orientation":0.29670597283903605},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":5159.172176836959,"y":2272.625898079947,"orientation":0.4619886530028968},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+2021-04-21 12:46:13,795 [INFO ] Player response:[{"sailorId":10,"type":"LIFT_SAIL"},{"sailorId":7,"type":"TURN","rotation":0.7123227499164706},{"sailorId":2,"type":"OAR"},{"sailorId":8,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":0,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":9,"type":"OAR"}]
+2021-04-21 12:46:13,795 [INFO ] ********************************************
+2021-04-21 12:46:13,795 [INFO ] 2017085051 - nextRound
+2021-04-21 12:46:13,795 [INFO ] {"ship":{"type":"ship","position":{"x":5159.172176836959,"y":2272.625898079947,"orientation":0.4619886530028968},"name":"jerapah_corp","deck":{"width":5,"length":9},"entities":[{"x":1,"y":4,"type":"oar"},{"x":3,"y":4,"type":"oar"},{"x":5,"y":4,"type":"oar"},{"x":7,"y":4,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":7,"y":0,"type":"oar"},{"x":1,"y":2,"type":"watch"},{"x":8,"y":2,"type":"rudder"},{"x":5,"y":2,"type":"sail","openned":false}],"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":6377.899045020464,"y":3479.7297297297305,"orientation":0.0},"shape":{"type":"circle","radius":850.0}},{"type":"stream","position":{"x":6350.613915416099,"y":1655.4054054054059,"orientation":0.29670597283903605},"shape":{"type":"rectangle","width":200.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"reef","position":{"x":5320.600272851309,"y":1986.4864864864885,"orientation":0.7853981633974483},"shape":{"type":"rectangle","width":500.0,"height":500.0,"orientation":0.0}},{"type":"stream","position":{"x":3874.488403819919,"y":2027.0270270270278,"orientation":0.0},"shape":{"type":"rectangle","width":300.0,"height":1000.0,"orientation":0.0},"strength":10.0},{"type":"ship","position":{"x":5179.782158737558,"y":2257.713475346262,"orientation":0.6860120738349679},"life":2250,"shape":{"type":"rectangle","width":5.0,"height":9.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":0.0}}
+Recomputing Path Finding
+maxShipSpeed : 165.0
+ Current sub checkpoint position  : 5309.0, 2347.0
+Current checkpoint: 7203.27421555252, 2013.513513513515
+angle calculé = -0.07
+sailor returned are : (west) =4(east) =4
+Action{sailorId=13, type='TURN', xdistance=0, ydistance=0, rotation=-0.0012217304763960308, openned=false}
+Action{sailorId=16, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=17, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=21, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=11, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=20, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=14, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=15, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+Action{sailorId=19, type='OAR', xdistance=0, ydistance=0, rotation=0.0, openned=false}
+2021-04-21 12:46:13,927 [INFO ] Player response:[{"sailorId":13,"type":"TURN","rotation":-0.0012217304763960308},{"sailorId":16,"type":"OAR"},{"sailorId":17,"type":"OAR"},{"sailorId":21,"type":"OAR"},{"sailorId":11,"type":"OAR"},{"sailorId":20,"type":"OAR"},{"sailorId":14,"type":"OAR"},{"sailorId":15,"type":"OAR"},{"sailorId":19,"type":"OAR"}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jerapah_corp IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.DestroyedShipError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sunny1000 IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.DestroyedShipError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-21 12:46:15,243 [INFO ] Game over
+2021-04-21 12:46:15,243 [INFO ] Creating team's logs files
+2021-04-21 12:46:15,247 [INFO ] Game scores: {jerapah_corp=DESTROYED_SHIP, sunny1000=DESTROYED_SHIP}
