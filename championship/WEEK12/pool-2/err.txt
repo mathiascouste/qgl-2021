@@ -1,0 +1,18 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.fasterxml.jackson.databind.util.ClassUtil (file:/home/mcouste/Documents/qgl/frigates/frigates-engine/target/frigates-engine-1.0-SNAPSHOT-jar-with-dependencies.jar) to method java.util.stream.AbstractPipeline.isParallel()
+WARNING: Please consider reporting this to the maintainers of com.fasterxml.jackson.databind.util.ClassUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -4 out of bounds for length 166
+	at fr.unice.polytech.si3.qgl.teletravail.captain.navigation.MapInfo.setLineObstacle(MapInfo.java:190)
+	at fr.unice.polytech.si3.qgl.teletravail.captain.navigation.MapInfo.setRectangleObstacle(MapInfo.java:149)
+	at fr.unice.polytech.si3.qgl.teletravail.captain.navigation.MapInfo.setObstacle(MapInfo.java:111)
+	at fr.unice.polytech.si3.qgl.teletravail.captain.Captain.update(Captain.java:62)
+	at fr.unice.polytech.si3.qgl.teletravail.Cockpit.nextRound(Cockpit.java:57)
+	... 5 more

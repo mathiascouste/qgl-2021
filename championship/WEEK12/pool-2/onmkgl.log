@@ -1,0 +1,36 @@
+Compass said we need to reach: 5029.238914417667 ; 3149.7130757523046
+A* returned a 0 size path, [0] = nothing
+A* returned a 0 size path, [0] = nothing
+A* returned a 33 size path, [0] = (5506.254603256131,1574.2326535516913)
+A* said we need to reach (5460.254603256131,1620.2326535516913)
+A* said we need to reach (5414.254603256131,1666.2326535516913)
+A* said we need to reach (5368.254603256131,1712.2326535516913)
+A* said we need to reach (5322.254603256131,1758.2326535516913)
+A* said we need to reach (5276.254603256131,1804.2326535516913)
+A* said we need to reach (5230.254603256131,1850.2326535516913)
+A* said we need to reach (5184.254603256131,1896.2326535516913)
+A* said we need to reach (5138.254603256131,1942.2326535516913)
+A* said we need to reach (5092.254603256131,1988.2326535516913)
+A* said we need to reach (5046.254603256131,2034.2326535516913)
+A* said we need to reach (5000.254603256131,2080.2326535516913)
+A* said we need to reach (5000.254603256131,2126.2326535516913)
+A* said we need to reach (5000.254603256131,2172.2326535516913)
+A* said we need to reach (5000.254603256131,2218.2326535516913)
+Collision à venir détectée, tentative correction trajectoire...
+Possibilité tourner vers la gauche (0.7558981633974483°) ou droite (1.5412963267948965°), retenue : gauche
+Collision : inévitable =(
+We need 1 sailors that oars on the right side and 5on the left side
+A* said we need to reach (5000.254603256131,2264.2326535516913)
+We need 2 sailors that oars on the right side and 5on the left side
+A* said we need to reach (5000.254603256131,2310.2326535516913)
+Collision à venir détectée, tentative correction trajectoire...
+Possibilité tourner vers la gauche (0.7414981633974482°) ou droite (0.0°), retenue : droite
+Collision : inévitable =(
+A* said we need to reach (5000.254603256131,2356.2326535516913)
+Collision à venir détectée, tentative correction trajectoire...
+Possibilité tourner vers la gauche (0.7679981633974483°) ou droite (0.0°), retenue : droite
+Collision : inévitable =(
+A* said we need to reach (5000.254603256131,2402.2326535516913)
+Collision à venir détectée, tentative correction trajectoire...
+Possibilité tourner vers la gauche (0.8022981633974483°) ou droite (0.0°), retenue : droite
+Collision : inévitable =(

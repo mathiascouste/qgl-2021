@@ -1,0 +1,61 @@
+2021-05-04 22:20:42:337 INFO Cockpit : Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":4947.848761408083,"y":2994.7916666666765,"orientation":0.0},"shape":{"type":"circle","
+2021-05-04 22:20:42:931 INFO Cockpit : Next round input: {"ship":{"name":"soyouz","deck":{"width":3,"length":6},"entities":[{"type":"oar","x":1,"y":2,"left":false,"pos":{"x":1,"y":2,"first":1,"second"
+2021-05-04 22:20:42:938 INFO Cockpit : Added 6 entities; total 6
+
+2021-05-04 22:20:42:940 INFO Cockpit : [{"position":{"x":9380.704041721,"y":136.7187500000056,"orientation":3.141592653589793},"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.0,"v
+2021-05-04 22:20:42:947 INFO CheckpointObjective : Computing shells
+
+2021-05-04 22:20:42:950 INFO CheckpointObjective : 26 nodes; start traverse
+
+2021-05-04 22:20:42:951 INFO CheckpointObjective : [{"x":9426.336375488936,"y":335.2864583333386,"orientation":3.141592653589793},{"x":4947.848761408083,"y":2994.7916666666765,"orientation":0.0},{"x":
+2021-05-04 22:20:42:966 INFO CheckpointObjective : Computing graph
+
+2021-05-04 22:20:42:969 INFO CheckpointObjective : Fetching shortest path
+
+2021-05-04 22:20:42:970 INFO CheckpointObjective : New target: D=5208.63, ANGLE=-30.70°
+
+2021-05-04 22:20:43:653 INFO Cockpit : Next round input: {"ship":{"name":"soyouz","deck":{"width":3,"length":6},"entities":[{"type":"oar","x":1,"y":2,"left":false,"pos":{"x":1,"y":2,"first":1,"second"
+2021-05-04 22:20:43:654 INFO Cockpit : Added 9 entities; total 11
+
+2021-05-04 22:20:43:655 INFO Cockpit : [{"position":{"x":9517.601043024764,"y":-6.217248937900877E-13,"orientation":0.0},"shape":{"type":"rectangle","width":150.0,"height":500.0,"orientation":0.0,"ver
+2021-05-04 22:20:43:656 INFO CheckpointObjective : Computing shells
+
+2021-05-04 22:20:43:656 INFO CheckpointObjective : 46 nodes; start traverse
+
+2021-05-04 22:20:43:657 INFO CheckpointObjective : [{"x":9240.165859468636,"y":388.6928002593866,"orientation":2.6057148563406862},{"x":4947.848761408083,"y":2994.7916666666765,"orientation":0.0},{"x"
+2021-05-04 22:20:43:702 INFO CheckpointObjective : Computing graph
+
+2021-05-04 22:20:43:704 INFO CheckpointObjective : Fetching shortest path
+
+2021-05-04 22:20:43:705 INFO CheckpointObjective : New target: D=3782.79, ANGLE=14.64°
+
+2021-05-04 22:20:45:248 INFO Cockpit : Next round input: {"ship":{"name":"soyouz","deck":{"width":3,"length":6},"entities":[{"type":"oar","x":1,"y":2,"left":false,"pos":{"x":1,"y":2,"first":1,"second"
+2021-05-04 22:20:45:249 INFO Cockpit : Added 4 entities; total 11
+
+2021-05-04 22:20:45:250 INFO Cockpit : [{"position":{"x":9517.601043024764,"y":-6.217248937900877E-13,"orientation":0.0},"shape":{"type":"rectangle","width":150.0,"height":500.0,"orientation":0.0,"ver
+2021-05-04 22:20:45:250 INFO CheckpointObjective : Computing shells
+
+2021-05-04 22:20:45:251 INFO CheckpointObjective : 46 nodes; start traverse
+
+2021-05-04 22:20:45:251 INFO CheckpointObjective : [{"x":9045.947798094974,"y":473.62390356439533,"orientation":2.8611752495323284},{"x":4947.848761408083,"y":2994.7916666666765,"orientation":0.0},{"x
+2021-05-04 22:20:45:281 INFO CheckpointObjective : Computing graph
+
+2021-05-04 22:20:45:282 INFO CheckpointObjective : Fetching shortest path
+
+2021-05-04 22:20:45:283 INFO CheckpointObjective : New target: D=3572.76, ANGLE=0.45°
+
+2021-05-04 22:20:45:643 INFO Cockpit : Next round input: {"ship":{"name":"soyouz","deck":{"width":3,"length":6},"entities":[{"type":"oar","x":1,"y":2,"left":false,"pos":{"x":1,"y":2,"first":1,"second"
+2021-05-04 22:20:45:644 INFO Cockpit : Added 5 entities; total 12
+
+2021-05-04 22:20:45:644 INFO Cockpit : [{"position":{"x":8807.906166203917,"y":434.2601822627129,"orientation":2.8001926535898125},"shape":{"type":"rectangle","width":3.0,"height":6.0,"orientation":0.
+2021-05-04 22:20:45:644 INFO CheckpointObjective : Computing shells
+
+2021-05-04 22:20:45:645 INFO CheckpointObjective : 55 nodes; start traverse
+
+2021-05-04 22:20:45:645 INFO CheckpointObjective : [{"x":8855.786390373674,"y":527.5980944526375,"orientation":2.8689739249296586},{"x":4947.848761408083,"y":2994.7916666666765,"orientation":0.0},{"x"
+2021-05-04 22:20:45:682 INFO CheckpointObjective : Computing graph
+
+2021-05-04 22:20:45:683 INFO CheckpointObjective : Fetching shortest path
+
+2021-05-04 22:20:45:683 INFO CheckpointObjective : New target: D=3375.09, ANGLE=0.01°
+
