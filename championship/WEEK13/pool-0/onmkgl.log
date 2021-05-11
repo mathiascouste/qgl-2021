@@ -1,0 +1,17 @@
+Compass said we need to reach: 4576.502732240426 ; 2634.573748308526
+A* returned a 2 size path, [0] = (4565.103825136612,2537.376184032476)
+A* returned a 2 size path, [0] = (5105.030193760655,1842.9421199434937)
+A* returned a 14 size path, [0] = (4929.936562071205,2115.9527867197985)
+A* returned a 11 size path, [0] = (5102.950299355909,1947.3677424243197)
+A* returned a 19 size path, [0] = (5095.248875165526,1926.9055795067834)
+A* returned a 15 size path, [0] = (5106.136485607523,1943.542879014222)
+A* returned a 19 size path, [0] = (5084.544267595743,1922.8139761207813)
+A* returned a 15 size path, [0] = (4982.757235675425,2050.47235926038)
+We need 4 sailors that oars on the right side and 2on the left side
+A* returned a 2 size path, [0] = (4567.050291498478,2532.0690202965457)
+A* returned a 2 size path, [0] = (4561.382425316772,2537.7463917127902)
+A* returned a 2 size path, [0] = (4555.714559135066,2543.423763129035)
+A* returned a 0 size path, [0] = nothing
+A checkpoint has been reached (Checkpoint (position=Position {x=4576.502732240426, y=2584.573748308526, orientation=0.0}, shape=Circle (radius=100.0))) position: Position {x=4600.660232346186, y=2533.
+Compass said we need to reach: 4576.502732240433 ; 5112.381596752373
+A* returned a 16 size path, [0] = (4563.660232346186,4494.501854549968)

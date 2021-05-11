@@ -1,0 +1,46 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.fasterxml.jackson.databind.util.ClassUtil (file:/home/mcouste/Documents/qgl/frigates/frigates-engine/target/frigates-engine-1.0-SNAPSHOT-jar-with-dependencies.jar) to method java.util.stream.AbstractPipeline.isParallel()
+WARNING: Please consider reporting this to the maintainers of com.fasterxml.jackson.databind.util.ClassUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:90)
+Caused by: java.lang.NullPointerException
+	at fr.unice.polytech.si3.qgl.geforce.strategy.StrategyCalculHelper.windHelp(StrategyCalculHelper.java:110)
+	at fr.unice.polytech.si3.qgl.geforce.strategy.StrategyDecisionHelper.getBestSailorsActions(StrategyDecisionHelper.java:364)
+	at fr.unice.polytech.si3.qgl.geforce.strategy.Strategy.getBestNextRoundActions(Strategy.java:33)
+	at fr.unice.polytech.si3.qgl.geforce.Cockpit.nextRound(Cockpit.java:208)
+	... 5 more
+
+Nombre de noeuds de la grille 70
+
+Nombre de noeuds de la grille 94
+
+Nombre de noeuds de la grille 61
+
+Nombre de noeuds de la grille 5
+
+Nombre de noeuds de la grille 57
+
+Nombre de noeuds de la grille 96
+
+Nombre de noeuds de la grille 25
+
+Nombre de noeuds de la grille 145
+
+Nombre de noeuds de la grille 356
+
+Nombre de noeuds de la grille 235
+
+Nombre de noeuds de la grille 187
+
+Nombre de noeuds de la grille 103
+
+Nombre de noeuds de la grille 17
