@@ -12,7 +12,7 @@
 
 ### Page 3 à 5 - Description technique
 
--   Architecture du projet: quelles sont les différentes phases de votre programme lors de la prise de décision. Quels sont les liens entre ces étapes ? Est-ce-que cette architecture est extensible: par exemple pour l’introduction d’un nouveau mode de jeu ? Expliquez et justifiez les choix de conception qui ont influencés ou limité l’architecture du projet.
+-   Architecture du projet: quelles sont les différentes phases de votre programme lors de la prise de décision. Quels sont les liens entre ces étapes ? Est-ce-que cette architecture est extensible: par exemple pour l’introduction d’un nouveau mode de jeu ? Expliquez et justifiez les choix de conception et les choix algorithmiques qui ont influencé ou limité l’architecture du projet (intégration des algorithmes, impact de l'intégration sur les performances de raisonnement, répartition des responsabilités, représentations et abstractions faites dans l'analyse, la prise de décision et l'exécution).
     
 -   Vous avez dû travailler dans l’interface imposée par ICockpit et par le schéma des JSONs initGame et nextRound. Quels ont été les impacts de ces contraintes sur votre architecture, ainsi que sur vos modèles de données ?
 
